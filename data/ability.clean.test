@@ -1,0 +1,6430 @@
+Our	PRP$	B-NP	0	0
+long	JJ	I-NP	1	0
+suit	NN	I-NP	2	0
+is	VBZ	O	3	0
+our	PRP$	B-NP	4	0	ARG0
+proven	VBN	O	5	0
+ability	NN	B-NP	6	0	PRED	ABILITY/nomadj-able
+to	TO	O	7	0
+operate	VB	O	8	0	ARG1-PRD
+''	''	O	9	0
+power	NN	B-NP	10	0
+plants	NNS	I-NP	11	0
+COMMA	COMMA	O	12	0
+he	PRP	B-NP	13	0
+said	VBD	O	14	0
+.	.	O	15	0
+
+--	:	O	0	1
+Restrict	VB	O	1	1
+the	DT	B-NP	2	1
+ability	NN	I-NP	3	1	PRED	ABILITY/nomadj-able
+of	IN	B-PP	4	1
+real	JJ	B-NP	5	1
+estate	NN	I-NP	6	1
+owners	NNS	I-NP	7	1	ARG0
+to	TO	O	8	1
+escape	VB	O	9	1	ARG1-PRD
+taxes	NNS	B-NP	10	1
+by	IN	B-PP	11	1
+swapping	VBG	O	12	1
+one	CD	B-NP	13	1
+piece	NN	I-NP	14	1
+of	IN	B-PP	15	1
+property	NN	B-NP	16	1
+for	IN	B-PP	17	1
+another	DT	B-NP	18	1
+instead	RB	B-PP	19	1
+of	IN	I-PP	20	1
+selling	VBG	O	21	1
+it	PRP	B-NP	22	1
+for	IN	B-PP	23	1
+cash	NN	B-NP	24	1
+.	.	O	25	1
+
+Instead	RB	B-PP	0	2
+of	IN	I-PP	1	2
+a	DT	B-NP	2	2
+keyboard	NN	I-NP	3	2
+COMMA	COMMA	O	4	2
+it	PRP	B-NP	5	2
+features	VBZ	O	6	2
+a	DT	B-NP	7	2
+writing	NN	I-NP	8	2
+surface	NN	I-NP	9	2
+COMMA	COMMA	O	10	2
+an	DT	B-NP	11	2
+electronic	JJ	I-NP	12	2
+pen	NN	I-NP	13	2
+and	CC	O	14	2
+the	DT	B-NP	15	2
+ability	NN	I-NP	16	2	PRED	ABILITY/nomadj-able
+to	TO	O	17	2
+``	``	O	18	2
+read	VB	O	19	2	ARG1-PRD
+''	''	O	20	2
+block	NN	B-NP	21	2
+printing	NN	I-NP	22	2
+.	.	O	23	2
+
+Some	DT	B-NP	0	3
+critics	NNS	I-NP	1	3
+COMMA	COMMA	O	2	3
+however	RB	O	3	3
+COMMA	COMMA	O	4	3
+say	VB	O	5	3
+its	PRP$	B-NP	6	3	ARG0
+ability	NN	I-NP	7	3	PRED	ABILITY/nomadj-able
+to	TO	O	8	3
+run	VB	O	9	3	ARG1-PRD
+commonplace	JJ	B-NP	10	3
+programs	NNS	I-NP	11	3
+is	VBZ	O	12	3
+restricted	VBN	O	13	3
+by	IN	B-PP	14	3
+a	DT	B-NP	15	3
+limited	VBN	O	16	3
+memory	NN	B-NP	17	3
+.	.	O	18	3
+
+The	DT	B-NP	0	4
+Justice	NNP	B-NP	1	4
+Department	NNP	I-NP	2	4
+announced	VBD	O	3	4
+that	IN	B-SBAR	4	4
+the	DT	B-NP	5	4
+FBI	NNP	I-NP	6	4	ARG2
+has	VBZ	O	7	4
+been	VBN	O	8	4
+given	VBN	O	9	4	SUPPORT
+the	DT	B-NP	10	4
+authority	NN	I-NP	11	4	PRED	ABILITY/NOM
+to	TO	O	12	4
+seize	VB	O	13	4	ARG1-PRD
+U.S.	NNP	B-NP	14	4
+fugitives	NNS	I-NP	15	4
+overseas	RB	B-ADVP	16	4
+without	IN	B-PP	17	4
+the	DT	B-NP	18	4
+permission	NN	I-NP	19	4
+of	IN	B-PP	20	4
+foreign	JJ	B-NP	21	4
+governments	NNS	I-NP	22	4
+.	.	O	23	4
+
+Kenneth	NNP	B-NP	0	5
+Mitchell	NNP	I-NP	1	5
+COMMA	COMMA	O	2	5
+director	NN	B-NP	3	5
+of	IN	B-PP	4	5
+Dow	NNP	B-NP	5	5	ARG0
+'s	POS	B-NP	6	5
+polyethylene	NN	I-NP	7	5	ARG1
+business	NN	I-NP	8	5	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	9	5
+says	VBZ	O	10	5
+producers	NNS	B-NP	11	5
+were	VBD	O	12	5
+surprised	VBN	O	13	5
+to	TO	O	14	5
+learn	VB	O	15	5
+how	WRB	O	16	5
+much	RB	B-ADVP	17	5
+inventories	NNS	B-NP	18	5
+had	VBD	O	19	5
+swelled	VBN	O	20	5
+throughout	IN	B-PP	21	5
+the	DT	B-NP	22	5
+distribution	NN	I-NP	23	5
+chain	NN	I-NP	24	5
+as	IN	O	25	5
+prices	NNS	B-NP	26	5
+spiraled	VBD	O	27	5
+up	RB	B-ADVP	28	5
+.	.	O	29	5
+
+The	DT	B-NP	0	6
+plant	NN	I-NP	1	6
+expansion	NN	I-NP	2	6
+should	MD	O	3	6
+strengthen	VB	O	4	6
+the	DT	B-NP	5	6
+company	NN	I-NP	6	6
+'s	POS	B-NP	7	6
+sway	NN	I-NP	8	6
+in	IN	B-PP	9	6
+the	DT	B-NP	10	6
+polyethylene	NN	I-NP	11	6	ARG1
+business	NN	I-NP	12	6	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	13	6
+where	IN	B-ADVP	14	6
+market	NN	B-NP	15	6
+share	NN	I-NP	16	6
+is	VBZ	O	17	6
+often	RB	B-ADVP	18	6
+taken	VBN	O	19	6
+through	IN	B-PP	20	6
+sheer	NN	B-NP	21	6
+capacity	NN	I-NP	22	6
+.	.	O	23	6
+
+Quantum	NNP	B-NP	0	7
+is	VBZ	O	1	7
+also	RB	O	2	7
+tightening	VBG	O	3	7
+its	PRP$	B-NP	4	7
+grip	NN	I-NP	5	7
+on	IN	B-PP	6	7
+its	PRP$	B-NP	7	7	ARG0
+one	CD	I-NP	8	7
+large	JJ	I-NP	9	7
+business	NN	I-NP	10	7	PRED	ABILITY-WITH-AGENT
+outside	IN	B-PP	11	7
+chemicals	NNS	B-NP	12	7
+COMMA	COMMA	O	13	7
+propane	NN	B-NP	14	7
+marketing	NN	I-NP	15	7
+.	.	O	16	7
+
+The	DT	B-NP	0	8
+name	NN	I-NP	1	8
+surfacing	VBG	O	2	8
+in	IN	B-PP	3	8
+rumors	NNS	B-NP	4	8
+is	VBZ	O	5	8
+British	NNP	B-NP	6	8
+Petroleum	NNP	I-NP	7	8
+Co.	NNP	I-NP	8	8
+COMMA	COMMA	O	9	8
+which	WDT	B-NP	10	8
+is	VBZ	O	11	8
+looking	VBG	O	12	8
+to	TO	O	13	8
+expand	VB	O	14	8
+its	PRP$	B-NP	15	8	ARG0
+polyethylene	NN	I-NP	16	8	ARG1
+business	NN	I-NP	17	8	PRED	ABILITY-WITH-AGENT
+in	IN	B-PP	18	8
+the	DT	B-NP	19	8
+U.S.	NNP	I-NP	20	8
+.	.	O	21	8
+
+The	DT	B-NP	0	9
+lower	JJR	I-NP	1	9
+results	NNS	I-NP	2	9
+COMMA	COMMA	O	3	9
+Mr.	NNP	B-NP	4	9
+Pierce	NNP	I-NP	5	9
+said	VBD	O	6	9
+COMMA	COMMA	O	7	9
+reflect	VBP	O	8	9
+a	DT	B-NP	9	9
+12-month	NN	I-NP	10	9
+decline	NN	I-NP	11	9
+in	IN	B-PP	12	9
+industry	NN	B-NP	13	9
+sales	NNS	I-NP	14	9
+of	IN	B-PP	15	9
+privately	RB	B-ADVP	16	9
+owned	VBN	O	17	9
+pay	NN	B-NP	18	9
+telephones	NNS	I-NP	19	9
+COMMA	COMMA	O	20	9
+Elcotel	NNP	B-NP	21	9	ARG0
+'s	POS	B-NP	22	9
+primary	JJ	I-NP	23	9
+business	NN	I-NP	24	9	PRED	ABILITY-WITH-AGENT
+.	.	O	25	9
+
+As	IN	O	0	10
+Syms	NNP	B-NP	1	10	ARG0
+'s	POS	B-NP	2	10
+``	``	I-NP	3	10
+core	NN	I-NP	4	10
+business	NN	I-NP	5	10	PRED	ABILITY-WITH-AGENT
+of	IN	B-PP	6	10
+off-price	NN	B-NP	7	10
+retailing	NN	I-NP	8	10
+grows	VBZ	O	9	10
+COMMA	COMMA	O	10	10
+a	DT	B-NP	11	10
+small	JJ	I-NP	12	10
+subsidiary	NN	I-NP	13	10
+that	WDT	B-NP	14	10
+is	VBZ	O	15	10
+operationally	RB	B-ADJP	16	10
+unrelated	JJ	I-ADJP	17	10
+becomes	VBZ	O	18	10
+a	DT	B-NP	19	10
+difficult	JJ	I-NP	20	10
+distraction	NN	I-NP	21	10
+COMMA	COMMA	O	22	10
+''	''	O	23	10
+said	VBD	O	24	10
+Marcy	NNP	B-NP	25	10
+Syms	NNP	I-NP	26	10
+COMMA	COMMA	O	27	10
+president	NN	B-NP	28	10
+of	IN	B-PP	29	10
+the	DT	B-NP	30	10
+parent	NN	I-NP	31	10
+COMMA	COMMA	O	32	10
+in	IN	B-PP	33	10
+a	DT	B-NP	34	10
+statement	NN	I-NP	35	10
+.	.	O	36	10
+
+Joseph	NNP	B-NP	0	11
+Riccardo	NNP	I-NP	1	11
+COMMA	COMMA	O	2	11
+an	DT	B-NP	3	11
+analyst	NN	I-NP	4	11
+with	IN	B-PP	5	11
+Bear	NNP	B-NP	6	11
+COMMA	COMMA	O	7	11
+Stearns	NNP	B-NP	8	11
+&	NNP	I-NP	9	11
+Co.	NNP	I-NP	10	11
+COMMA	COMMA	O	11	11
+said	VBD	O	12	11
+that	IN	B-SBAR	13	11
+over	IN	B-PP	14	11
+the	DT	B-NP	15	11
+past	JJ	I-NP	16	11
+few	JJ	I-NP	17	11
+years	NNS	I-NP	18	11
+most	DT	B-NP	19	11
+drug	NN	I-NP	20	11
+makers	NNS	I-NP	21	11
+have	VBP	O	22	11
+shed	VBN	O	23	11
+their	PRP$	B-NP	24	11	ARG0
+slow-growing	NN	I-NP	25	11
+businesses	NNS	I-NP	26	11	PRED	ABILITY-WITH-AGENT
+and	CC	O	27	11
+instituted	VBN	O	28	11
+other	JJ	B-NP	29	11
+cost	NN	I-NP	30	11
+savings	NNS	I-NP	31	11
+COMMA	COMMA	O	32	11
+such	DT	O	33	11
+as	IN	O	34	11
+consolidating	VBG	O	35	11
+manufacturing	NN	B-NP	36	11
+plants	NNS	I-NP	37	11
+and	CC	O	38	11
+administrative	JJ	B-NP	39	11
+staffs	NNS	I-NP	40	11
+.	.	O	41	11
+
+``	``	O	0	12
+While	IN	O	1	12
+our	PRP$	B-NP	2	12
+international	JJ	I-NP	3	12
+operations	NNS	I-NP	4	12
+showed	VBD	O	5	12
+strong	JJ	B-NP	6	12
+growth	NN	I-NP	7	12
+COMMA	COMMA	O	8	12
+our	PRP$	B-NP	9	12	ARG0
+domestic	JJ	I-NP	10	12
+business	NN	I-NP	11	12	PRED	ABILITY-WITH-AGENT
+was	VBD	O	12	12
+substantially	RB	B-ADVP	13	12
+below	IN	B-PP	14	12
+expectations	NNS	B-NP	15	12
+COMMA	COMMA	O	16	12
+''	''	O	17	12
+said	VBD	O	18	12
+Paul	NNP	B-NP	19	12
+Newton	NNP	I-NP	20	12
+COMMA	COMMA	O	21	12
+president	NN	B-NP	22	12
+and	CC	O	23	12
+chief	JJ	B-NP	24	12
+executive	JJ	I-NP	25	12
+officer	NN	I-NP	26	12
+.	.	O	27	12
+
+On	IN	B-PP	0	13
+Friday	NNP	B-NP	1	13
+morning	NN	I-NP	2	13
+COMMA	COMMA	O	3	13
+before	IN	B-PP	4	13
+the	DT	B-NP	5	13
+market	NN	I-NP	6	13
+'s	POS	B-NP	7	13
+sell-off	NN	I-NP	8	13
+COMMA	COMMA	O	9	13
+the	DT	B-NP	10	13
+business	NN	I-NP	11	13	PRED	ABILITY-WITH-AGENT
+leaders	NNS	I-NP	12	13	ARG0
+issued	VBD	O	13	13
+a	DT	B-NP	14	13
+report	NN	I-NP	15	13
+predicting	VBG	O	16	13
+the	DT	B-NP	17	13
+economy	NN	I-NP	18	13
+would	MD	O	19	13
+grow	VB	O	20	13
+at	IN	B-PP	21	13
+roughly	RB	B-ADVP	22	13
+an	DT	O	23	13
+inflation-adjusted	VBN	O	24	13
+2	CD	B-NP	25	13
+%	NN	I-NP	26	13
+annual	JJ	B-ADJP	27	13
+rate	NN	B-NP	28	13
+COMMA	COMMA	O	29	13
+through	IN	B-PP	30	13
+next	JJ	B-NP	31	13
+year	NN	I-NP	32	13
+COMMA	COMMA	O	33	13
+then	RB	B-ADVP	34	13
+accelerate	VB	O	35	13
+anew	RB	B-ADVP	36	13
+in	IN	B-PP	37	13
+1991	CD	B-NP	38	13
+.	.	O	39	13
+
+The	DT	B-NP	0	14
+trend	NN	I-NP	1	14
+toward	IN	B-PP	2	14
+lower	JJR	B-NP	3	14
+rents	NNS	I-NP	4	14
+may	MD	O	5	14
+seem	VB	O	6	14
+surprising	JJ	B-ADJP	7	14
+given	VBN	O	8	14
+that	IN	B-SBAR	9	14
+some	DT	B-NP	10	14
+communities	NNS	I-NP	11	14
+in	IN	B-PP	12	14
+New	NNP	B-NP	13	14
+York	NNP	I-NP	14	14
+are	VBP	O	15	14
+bemoaning	VBG	O	16	14
+the	DT	B-NP	17	14
+loss	NN	I-NP	18	14
+of	IN	B-PP	19	14
+favorite	JJ	B-NP	20	14
+local	JJ	I-NP	21	14	ARGM-LOC
+businesses	NNS	I-NP	22	14	PRED	ABILITY-WITH-AGENT
+to	IN	B-PP	23	14
+high	JJ	B-NP	24	14
+rents	NNS	I-NP	25	14
+.	.	O	26	14
+
+Thomson	NNP	B-NP	0	15
+feels	VBZ	O	1	15
+the	DT	B-NP	2	15
+future	NN	I-NP	3	15
+of	IN	B-PP	4	15
+its	PRP$	B-NP	5	15	ARG0
+defense	NN	I-NP	6	15	ARG1
+business	NN	I-NP	7	15	PRED	ABILITY-WITH-AGENT
+depends	VBZ	O	8	15
+on	IN	B-PP	9	15
+building	VBG	O	10	15
+cooperation	NN	B-NP	11	15
+with	IN	B-PP	12	15
+other	JJ	B-NP	13	15
+Europeans	NNPS	I-NP	14	15
+.	.	O	15	15
+
+Annual	JJ	B-NP	0	16
+revenue	NN	I-NP	1	16
+of	IN	B-PP	2	16
+British	NNP	B-NP	3	16
+Aerospace	NNP	I-NP	4	16	ARG0
+'s	POS	B-NP	5	16
+missile	NN	I-NP	6	16	ARG1
+business	NN	I-NP	7	16	PRED	ABILITY-WITH-AGENT
+is	VBZ	O	8	16
+about	RB	B-ADVP	9	16
+#	#	O	10	16
+950	CD	B-NP	11	16
+million	CD	I-NP	12	16
+COMMA	COMMA	O	13	16
+a	DT	B-NP	14	16
+Thomson	NNP	I-NP	15	16
+spokesman	NN	I-NP	16	16
+said	VBD	O	17	16
+.	.	O	18	16
+
+At	IN	B-PP	0	17
+the	DT	B-NP	1	17
+same	JJ	I-NP	2	17
+time	NN	I-NP	3	17
+COMMA	COMMA	O	4	17
+the	DT	B-NP	5	17
+integrated-steel	NN	I-NP	6	17	ARG1
+business	NN	I-NP	7	17	PRED	ABILITY-WITH-AGENT
+was	VBD	O	8	17
+hurt	VBN	O	9	17
+by	IN	B-PP	10	17
+continued	VBN	O	11	17
+increases	NNS	B-NP	12	17
+in	IN	B-PP	13	17
+materials	NNS	B-NP	14	17
+costs	NNS	I-NP	15	17
+and	CC	O	16	17
+repair	NN	B-NP	17	17
+and	CC	I-NP	18	17
+maintenance	NN	I-NP	19	17
+expenses	NNS	I-NP	20	17
+COMMA	COMMA	O	21	17
+as	IN	B-CONJP	22	17
+well	UH	I-CONJP	23	17
+as	IN	I-CONJP	24	17
+higher	JJR	B-NP	25	17
+labor	NN	I-NP	26	17
+costs	NNS	I-NP	27	17
+under	IN	B-PP	28	17
+its	PRP$	B-NP	29	17
+new	JJ	I-NP	30	17
+contract	NN	I-NP	31	17
+.	.	O	32	17
+
+The	DT	B-NP	0	18
+service-center	NN	I-NP	1	18	ARG1
+business	NN	I-NP	2	18	PRED	ABILITY-WITH-AGENT
+was	VBD	O	3	18
+hurt	VBN	O	4	18
+by	IN	B-PP	5	18
+reduced	VBN	O	6	18
+margins	NNS	B-NP	7	18
+and	CC	O	8	18
+start-up	NN	B-NP	9	18
+costs	NNS	I-NP	10	18
+associated	VBN	O	11	18
+with	IN	B-PP	12	18
+its	PRP$	O	13	18
+Joseph	NNP	B-NP	14	18
+T.	NNP	I-NP	15	18
+Ryerson	NNP	I-NP	16	18
+&	NNP	I-NP	17	18
+Son	NNP	I-NP	18	18
+unit	NN	B-NP	19	18
+.	.	O	20	18
+
+The	DT	B-NP	0	19
+short-term	JJ	I-NP	1	19
+outlook	NN	I-NP	2	19
+for	IN	B-PP	3	19
+Adobe	NNP	B-NP	4	19	ARG0
+'s	POS	B-NP	5	19
+business	NN	I-NP	6	19	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	7	19
+however	RB	O	8	19
+COMMA	COMMA	O	9	19
+appears	VBZ	O	10	19
+strong	JJ	B-ADJP	11	19
+.	.	O	12	19
+
+In	IN	B-PP	0	20
+personal	JJ	B-NP	1	20
+computers	NNS	I-NP	2	20
+COMMA	COMMA	O	3	20
+Apple	NNP	B-NP	4	20
+COMMA	COMMA	I-NP	5	20
+Compaq	NNP	I-NP	6	20
+and	CC	I-NP	7	20
+IBM	NNP	I-NP	8	20
+are	VBP	O	9	20
+expected	VBN	O	10	20
+to	TO	O	11	20
+tighten	VB	O	12	20
+their	PRP$	B-NP	13	20
+hold	NN	I-NP	14	20
+on	IN	B-PP	15	20
+their	PRP$	B-NP	16	20	ARG0
+business	NN	I-NP	17	20	PRED	ABILITY-WITH-AGENT
+.	.	O	18	20
+
+``	``	O	0	21
+Wyse	NNP	B-NP	1	21
+has	VBZ	O	2	21
+done	VBN	O	3	21
+well	RB	B-ADVP	4	21
+establishing	VBG	O	5	21
+a	DT	B-NP	6	21
+distribution	NN	I-NP	7	21	ARG1
+business	NN	I-NP	8	21	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	9	21
+but	CC	B-CONJP	10	21
+they	PRP	B-NP	11	21
+have	VBP	O	12	21
+n't	RB	B-ADVP	13	21
+delivered	VBN	O	14	21
+products	NNS	B-NP	15	21
+that	WDT	B-NP	16	21
+sell	VBP	O	17	21
+COMMA	COMMA	O	18	21
+''	''	O	19	21
+said	VBD	O	20	21
+Kimball	NNP	B-NP	21	21
+Brown	NNP	I-NP	22	21
+COMMA	COMMA	O	23	21
+an	DT	B-NP	24	21
+analyst	NN	I-NP	25	21
+at	IN	B-PP	26	21
+Prudential-Bache	NNP	B-NP	27	21
+Securities	NNP	I-NP	28	21
+.	.	O	29	21
+
+Mr.	NNP	B-NP	0	22
+Brown	NNP	I-NP	1	22
+estimates	VBZ	O	2	22
+Wyse	NNP	B-NP	3	22	ARG0
+COMMA	COMMA	O	4	22
+whose	WP$	O	5	22	ARG0
+terminals	NNS	B-NP	6	22	ARG1
+business	NN	I-NP	7	22	PRED	ABILITY-WITH-AGENT
+is	VBZ	O	8	22
+strong	JJ	B-ADJP	9	22
+COMMA	COMMA	O	10	22
+will	MD	O	11	22
+report	VB	O	12	22
+a	DT	B-NP	13	22
+loss	NN	I-NP	14	22
+of	IN	B-PP	15	22
+12	CD	B-NP	16	22
+cents	NNS	I-NP	17	22
+a	DT	B-NP	18	22
+share	NN	I-NP	19	22
+for	IN	B-PP	20	22
+its	PRP$	B-NP	21	22
+quarter	NN	I-NP	22	22
+ended	VBN	O	23	22
+Sept	NNP	B-NP	24	22
+.	.	O	25	22
+
+Personal-computer	NN	B-NP	0	23
+makers	NNS	I-NP	1	23
+will	MD	O	2	23
+continue	VB	O	3	23
+to	TO	O	4	23
+eat	VB	O	5	23
+away	RP	B-ADVP	6	23
+at	IN	B-PP	7	23
+the	DT	B-NP	8	23
+business	NN	I-NP	9	23	PRED	ABILITY-WITH-AGENT
+of	IN	B-PP	10	23
+more	RBR	B-ADVP	11	23
+traditional	JJ	B-NP	12	23
+computer	NN	I-NP	13	23
+firms	NNS	I-NP	14	23	ARG0
+.	.	O	15	23
+
+The	DT	B-NP	0	24
+rating	NN	I-NP	1	24
+concern	NN	I-NP	2	24
+said	VBD	O	3	24
+Franklin	NNP	B-NP	4	24
+'s	POS	B-NP	5	24
+``	``	I-NP	6	24
+troubled	VBN	O	7	24
+diversification	NN	B-NP	8	24
+record	NN	I-NP	9	24
+in	IN	B-PP	10	24
+the	DT	B-NP	11	24
+securities	NNS	I-NP	12	24	ARG1
+business	NN	I-NP	13	24	PRED	ABILITY-WITH-AGENT
+''	''	O	14	24
+was	VBD	O	15	24
+one	CD	B-NP	16	24
+reason	NN	I-NP	17	24
+for	IN	B-PP	18	24
+the	DT	B-NP	19	24
+downgrade	NN	I-NP	20	24
+COMMA	COMMA	O	21	24
+citing	VBG	O	22	24
+the	DT	B-NP	23	24
+troubles	NNS	I-NP	24	24
+at	IN	B-PP	25	24
+its	PRP$	O	26	24
+L.F.	NNP	B-NP	27	24
+Rothschild	NNP	I-NP	28	24
+subsidiary	NN	B-NP	29	24
+and	CC	O	30	24
+the	DT	B-NP	31	24
+possible	JJ	I-NP	32	24
+sale	NN	I-NP	33	24
+of	IN	B-PP	34	24
+other	JJ	B-NP	35	24
+subsidiaries	NNS	I-NP	36	24
+.	.	O	37	24
+
+Compaq	NNP	B-NP	0	25
+'s	POS	B-NP	1	25
+announcement	NN	I-NP	2	25
+also	RB	O	3	25
+spells	VBZ	O	4	25
+trouble	NN	B-NP	5	25
+for	IN	O	6	25
+Zenith	NNP	B-NP	7	25
+COMMA	COMMA	O	8	25
+which	WDT	B-NP	9	25
+last	JJ	B-NP	10	25
+year	NN	I-NP	11	25
+had	VBD	O	12	25
+28	CD	B-NP	13	25
+%	NN	I-NP	14	25
+of	IN	B-PP	15	25
+the	DT	B-NP	16	25
+U.S.	NNP	I-NP	17	25
+laptop	NN	I-NP	18	25
+market	NN	I-NP	19	25
+but	CC	O	20	25
+recently	RB	B-ADVP	21	25
+agreed	VBD	O	22	25
+to	TO	O	23	25
+sell	VB	O	24	25
+its	PRP$	B-NP	25	25	ARG0
+computer	NN	I-NP	26	25	ARG1
+business	NN	I-NP	27	25	PRED	ABILITY-WITH-AGENT
+to	IN	B-PP	28	25
+Cie.	NNP	B-NP	29	25
+des	NNP	I-NP	30	25
+Machines	NNP	I-NP	31	25
+Bull	NNP	I-NP	32	25
+COMMA	COMMA	O	33	25
+the	DT	B-NP	34	25
+French	JJ	I-NP	35	25
+government-owned	VBN	O	36	25
+computer	NN	B-NP	37	25
+maker	NN	I-NP	38	25
+.	.	O	39	25
+
+Tandem	NNP	B-NP	0	26
+Computers	NNP	I-NP	1	26
+Inc.	NNP	I-NP	2	26
+COMMA	COMMA	O	3	26
+preparing	VBG	O	4	26
+to	TO	O	5	26
+fight	VB	O	6	26
+with	IN	B-PP	7	26
+International	NNP	B-NP	8	26
+Business	NNP	I-NP	9	26
+Machines	NNP	I-NP	10	26
+Corp.	NNP	I-NP	11	26
+for	IN	B-PP	12	26
+a	DT	B-NP	13	26
+piece	NN	I-NP	14	26
+of	IN	B-PP	15	26
+the	DT	B-NP	16	26
+mainframe	NN	I-NP	17	26	ARG1
+business	NN	I-NP	18	26	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	19	26
+said	VBD	O	20	26
+it	PRP	B-NP	21	26
+expects	VBZ	O	22	26
+to	TO	O	23	26
+post	VB	O	24	26
+higher	JJR	B-NP	25	26
+revenue	NN	I-NP	26	26
+and	CC	I-NP	27	26
+earnings	NNS	I-NP	28	26
+for	IN	B-PP	29	26
+its	PRP$	B-NP	30	26
+fiscal	JJ	I-NP	31	26
+fourth	JJ	I-NP	32	26
+quarter	NN	I-NP	33	26
+ended	VBN	O	34	26
+Sept.	NNP	B-NP	35	26
+30	CD	I-NP	36	26
+.	.	O	37	26
+
+The	DT	B-NP	0	27
+results	NNS	I-NP	1	27
+COMMA	COMMA	O	2	27
+which	WDT	B-NP	3	27
+are	VBP	O	4	27
+in	IN	B-PP	5	27
+line	NN	B-NP	6	27
+with	IN	B-PP	7	27
+analysts	NNS	B-NP	8	27
+'	POS	B-NP	9	27
+estimates	NNS	I-NP	10	27
+COMMA	COMMA	O	11	27
+reflect	VBP	O	12	27
+``	``	O	13	27
+a	DT	B-NP	14	27
+continued	VBN	O	15	27
+improvement	NN	B-NP	16	27
+in	IN	B-PP	17	27
+our	PRP$	B-NP	18	27	ARG0
+U.S.	NNP	I-NP	19	27	ARGM-LOC
+business	NN	I-NP	20	27	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	21	27
+''	''	O	22	27
+said	VBD	O	23	27
+James	NNP	B-NP	24	27
+Treybig	NNP	I-NP	25	27
+COMMA	COMMA	O	26	27
+Tandem	NNP	B-NP	27	27
+'s	POS	B-NP	28	27
+chief	JJ	I-NP	29	27
+executive	JJ	I-NP	30	27
+officer	NN	I-NP	31	27
+.	.	O	32	27
+
+Commenting	VBG	O	0	28
+on	IN	B-PP	1	28
+the	DT	B-NP	2	28
+results	NNS	I-NP	3	28
+for	IN	B-PP	4	28
+the	DT	B-NP	5	28
+quarter	NN	I-NP	6	28
+COMMA	COMMA	O	7	28
+Mr.	NNP	B-NP	8	28
+Treybig	NNP	I-NP	9	28
+said	VBD	O	10	28
+the	DT	B-NP	11	28
+strength	NN	I-NP	12	28
+of	IN	B-PP	13	28
+the	DT	B-NP	14	28
+company	NN	I-NP	15	28	ARG0
+'s	POS	B-NP	16	28
+domestic	JJ	I-NP	17	28	ARGM-LOC
+business	NN	I-NP	18	28	PRED	ABILITY-WITH-AGENT
+came	VBD	O	19	28
+as	IN	B-SBAR	20	28
+``	``	O	21	28
+a	DT	B-NP	22	28
+surprise	NN	I-NP	23	28
+''	''	O	24	28
+to	IN	B-PP	25	28
+him	PRP	B-NP	26	28
+COMMA	COMMA	O	27	28
+noting	VBG	O	28	28
+that	IN	B-SBAR	29	28
+sales	NNS	B-NP	30	28
+``	``	O	31	28
+in	IN	B-PP	32	28
+every	DT	B-NP	33	28
+region	NN	I-NP	34	28
+of	IN	B-PP	35	28
+the	DT	B-NP	36	28
+U.S.	NNP	I-NP	37	28
+exceeded	VBD	O	38	28
+our	PRP$	O	39	28
+plan	NN	B-NP	40	28
+.	.	O	41	28
+''	''	O	42	28
+
+The	DT	B-NP	0	29
+resulting	VBG	I-NP	1	29
+decline	NN	I-NP	2	29
+in	IN	B-PP	3	29
+interest	NN	B-NP	4	29
+rates	NNS	I-NP	5	29
+and	CC	O	6	29
+the	DT	B-NP	7	29
+value	NN	I-NP	8	29
+of	IN	B-PP	9	29
+the	DT	B-NP	10	29
+dollar	NN	I-NP	11	29
+could	MD	O	12	29
+reinvigorate	VB	O	13	29
+American	JJ	B-NP	14	29	ARGM-LOC
+business	NN	I-NP	15	29	PRED	ABILITY-WITH-AGENT
+--	:	O	16	29
+indeed	RB	B-ADVP	17	29
+COMMA	COMMA	O	18	29
+the	DT	B-NP	19	29
+entire	JJ	I-NP	20	29
+economy	NN	I-NP	21	29
+.	.	O	22	29
+
+If	IN	O	0	30
+the	DT	B-NP	1	30
+reactions	NNS	I-NP	2	30
+of	IN	B-PP	3	30
+executives	NNS	B-NP	4	30
+gathered	VBN	O	5	30
+Saturday	NNP	B-NP	6	30
+at	IN	B-PP	7	30
+Hot	NNP	B-NP	8	30
+Springs	NNP	I-NP	9	30
+COMMA	COMMA	O	10	30
+Va.	NNP	B-NP	11	30
+COMMA	COMMA	O	12	30
+for	IN	B-PP	13	30
+the	DT	O	14	30
+Business	NNP	B-NP	15	30
+Council	NNP	I-NP	16	30
+meetings	NNS	B-NP	17	30
+are	VBP	O	18	30
+typical	JJ	B-ADJP	19	30
+COMMA	COMMA	O	20	30
+business	NN	B-NP	21	30	PRED	ABILITY-WITH-AGENT
+leaders	NNS	I-NP	22	30	ARG0
+were	VBD	O	23	30
+n't	RB	B-ADVP	24	30
+overly	RB	B-ADVP	25	30
+rattled	VBN	O	26	30
+by	IN	B-PP	27	30
+Friday	NNP	B-NP	28	30
+'s	POS	B-NP	29	30
+decline	NN	I-NP	30	30
+.	.	O	31	30
+
+Still	RB	O	0	31
+COMMA	COMMA	O	1	31
+some	DT	B-NP	2	31
+industry	NN	I-NP	3	31
+giants	NNS	I-NP	4	31
+are	VBP	O	5	31
+expected	VBN	O	6	31
+to	TO	O	7	31
+report	VB	O	8	31
+continuing	VBG	B-ADJP	9	31
+gains	NNS	B-NP	10	31
+COMMA	COMMA	O	11	31
+largely	RB	O	12	31
+because	IN	O	13	31
+so	RB	B-ADVP	14	31
+much	NN	B-NP	15	31
+of	IN	B-PP	16	31
+their	PRP$	B-NP	17	31	ARG0
+business	NN	I-NP	18	31	PRED	ABILITY-WITH-AGENT
+is	VBZ	O	19	31
+outside	IN	B-PP	20	31
+commodity	NN	B-NP	21	31
+chemicals	NNS	I-NP	22	31
+.	.	O	23	31
+
+``	``	O	0	32
+The	DT	B-NP	1	32
+capability	NN	I-NP	2	32	PRED	ABILITY/nomadj-capable
+of	IN	B-PP	3	32
+existing	NN	B-NP	4	32
+fields	NNS	I-NP	5	32	ARG0
+to	TO	O	6	32
+deliver	VB	O	7	32	ARG1
+oil	NN	B-NP	8	32
+is	VBZ	O	9	32
+dropping	VBG	O	10	32
+COMMA	COMMA	O	11	32
+''	''	O	12	32
+and	CC	B-CONJP	13	32
+oil	NN	B-NP	14	32
+exploration	NN	I-NP	15	32
+activity	NN	I-NP	16	32
+is	VBZ	O	17	32
+also	RB	O	18	32
+down	RB	B-ADVP	19	32
+dramatically	RB	B-ADVP	20	32
+COMMA	COMMA	O	21	32
+as	IN	O	22	32
+many	DT	B-NP	23	32
+producers	NNS	I-NP	24	32
+shift	VBP	O	25	32
+their	PRP$	B-NP	26	32
+emphasis	NN	I-NP	27	32
+to	IN	B-PP	28	32
+natural	JJ	B-NP	29	32
+gas	NN	I-NP	30	32
+COMMA	COMMA	O	31	32
+said	VBD	O	32	32
+Ronald	NNP	B-NP	33	32
+Watkins	NNP	I-NP	34	32
+COMMA	COMMA	O	35	32
+vice	NN	B-NP	36	32
+president	NN	I-NP	37	32
+for	IN	B-PP	38	32
+government	NN	B-NP	39	32
+and	CC	I-NP	40	32
+industry	NN	I-NP	41	32
+relations	NNS	I-NP	42	32
+with	IN	B-PP	43	32
+Interprovincial	NNP	B-NP	44	32
+'s	POS	B-NP	45	32
+parent	NN	I-NP	46	32
+COMMA	COMMA	O	47	32
+Interhome	NNP	B-NP	48	32
+Energy	NNP	I-NP	49	32
+Inc	NNP	I-NP	50	32
+.	.	O	51	32
+
+Compaq	NNP	B-NP	0	33
+'s	POS	B-NP	1	33
+machines	NNS	I-NP	2	33
+include	VBP	O	3	33
+the	DT	O	4	33
+3	CD	B-NP	5	33
+1/2-inch	NN	I-NP	6	33
+floppy	JJ	B-NP	7	33
+disk	NN	I-NP	8	33
+drive	NN	I-NP	9	33
+COMMA	COMMA	O	10	33
+a	DT	B-NP	11	33
+backlit	JJ	I-NP	12	33
+screen	NN	I-NP	13	33
+that	WDT	B-NP	14	33
+is	VBZ	O	15	33
+only	RB	B-ADVP	16	33
+1/4-inch	NN	B-ADJP	17	33
+thick	JJ	I-ADJP	18	33
+and	CC	O	19	33
+an	DT	B-NP	20	33
+internal	JJ	I-NP	21	33
+expansion	NN	I-NP	22	33
+slot	NN	I-NP	23	33
+for	IN	B-PP	24	33
+a	DT	B-NP	25	33
+modem	NN	I-NP	26	33
+--	:	O	27	33
+in	IN	B-PP	28	33
+other	JJ	B-NP	29	33
+words	NNS	I-NP	30	33
+COMMA	COMMA	O	31	33
+almost	RB	B-NP	32	33
+all	PDT	I-NP	33	33
+the	DT	I-NP	34	33
+capabilities	NNS	I-NP	35	33	PRED	ABILITY/nomadj-capable
+of	IN	B-PP	36	33
+a	DT	B-NP	37	33
+typical	JJ	I-NP	38	33
+office	NN	I-NP	39	33
+machine	NN	I-NP	40	33	ARG0
+.	.	O	41	33
+
+He	PRP	B-NP	0	34
+argues	VBZ	O	1	34
+that	IN	B-SBAR	2	34
+efforts	NNS	B-NP	3	34
+to	TO	O	4	34
+firm	VB	O	5	34
+up	RP	B-ADVP	6	34
+prices	NNS	B-NP	7	34
+will	MD	O	8	34
+be	VB	O	9	34
+undermined	VBN	O	10	34
+by	IN	B-PP	11	34
+producers	NNS	B-NP	12	34
+'	POS	B-NP	13	34
+plans	NNS	I-NP	14	34
+to	TO	O	15	34
+expand	VB	O	16	34
+production	NN	B-NP	17	34	ARG1
+capacity	NN	I-NP	18	34	PRED	ABILITY-WITH-AGENT
+.	.	O	19	34
+
+The	DT	B-NP	0	35
+plant	NN	I-NP	1	35
+expansion	NN	I-NP	2	35
+should	MD	O	3	35
+strengthen	VB	O	4	35
+the	DT	B-NP	5	35
+company	NN	I-NP	6	35
+'s	POS	B-NP	7	35
+sway	NN	I-NP	8	35
+in	IN	B-PP	9	35
+the	DT	B-NP	10	35
+polyethylene	NN	I-NP	11	35
+business	NN	I-NP	12	35
+COMMA	COMMA	O	13	35
+where	IN	B-ADVP	14	35
+market	NN	B-NP	15	35
+share	NN	I-NP	16	35
+is	VBZ	O	17	35
+often	RB	B-ADVP	18	35
+taken	VBN	O	19	35
+through	IN	B-PP	20	35
+sheer	NN	B-NP	21	35	ARGM-ADV
+capacity	NN	I-NP	22	35	PRED	ABILITY-WITH-AGENT
+.	.	O	23	35
+
+General	NNP	B-NP	0	36
+Motors	NNP	I-NP	1	36
+Corp.	NNP	I-NP	2	36
+COMMA	COMMA	O	3	36
+in	IN	B-PP	4	36
+a	DT	B-NP	5	36
+series	NN	I-NP	6	36
+of	IN	B-PP	7	36
+moves	NNS	B-NP	8	36
+that	WDT	B-NP	9	36
+angered	VBD	O	10	36
+union	NN	B-NP	11	36
+officials	NNS	I-NP	12	36
+in	IN	B-PP	13	36
+the	DT	B-NP	14	36
+U.S.	NNP	I-NP	15	36
+and	CC	O	16	36
+Canada	NNP	B-NP	17	36
+COMMA	COMMA	O	18	36
+has	VBZ	O	19	36
+signaled	VBN	O	20	36
+that	IN	O	21	36
+as	IN	B-NP	22	36
+many	DT	I-NP	23	36
+as	IN	I-NP	24	36
+five	CD	I-NP	25	36
+North	RB	I-NP	26	36
+American	JJ	I-NP	27	36
+assembly	NN	I-NP	28	36
+plants	NNS	I-NP	29	36
+may	MD	O	30	36
+not	RB	B-ADVP	31	36
+survive	VB	O	32	36
+the	DT	B-NP	33	36
+mid-1990s	NNS	I-NP	34	36
+as	IN	O	35	36
+the	DT	B-NP	36	36
+corporation	NN	I-NP	37	36
+struggles	VBZ	O	38	36
+to	TO	O	39	36
+cut	VB	O	40	36
+its	PRP$	B-NP	41	36	ARG0
+excess	JJ	I-NP	42	36
+vehicle-making	NN	I-NP	43	36	ARG1
+capacity	NN	I-NP	44	36	PRED	ABILITY-WITH-AGENT
+.	.	O	45	36
+
+The	DT	B-NP	0	37
+company	NN	I-NP	1	37
+COMMA	COMMA	O	2	37
+currently	RB	B-ADVP	3	37
+using	VBG	O	4	37
+about	RB	B-ADVP	5	37
+80	CD	B-NP	6	37
+%	NN	I-NP	7	37
+of	IN	B-PP	8	37
+its	PRP$	B-NP	9	37	ARG0
+North	RB	I-NP	10	37
+American	JJ	I-NP	11	37
+vehicle	NN	I-NP	12	37	ARG1
+capacity	NN	I-NP	13	37	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	14	37
+has	VBZ	O	15	37
+vowed	VBN	O	16	37
+it	PRP	B-NP	17	37
+will	MD	O	18	37
+run	VB	O	19	37
+at	IN	B-PP	20	37
+100	CD	B-NP	21	37
+%	NN	I-NP	22	37
+of	IN	B-PP	23	37
+capacity	NN	B-NP	24	37
+by	IN	B-PP	25	37
+1992	CD	B-NP	26	37
+.	.	O	27	37
+
+The	DT	B-NP	0	38
+system	NN	I-NP	1	38	ARG0
+currently	RB	B-ADVP	2	38
+has	VBZ	O	3	38	SUPPORT
+a	DT	B-NP	4	38
+capacity	NN	I-NP	5	38	PRED	ABILITY-WITH-AGENT
+of	IN	B-PP	6	38
+1.55	CD	B-NP	7	38
+million	CD	I-NP	8	38
+barrels	NNS	B-NP	9	38	ARG1
+a	DT	B-NP	10	38
+day	NN	I-NP	11	38
+.	.	O	12	38
+
+``	``	O	0	39
+This	DT	B-NP	1	39
+is	VBZ	O	2	39
+the	DT	B-NP	3	39
+latest	JJS	I-NP	4	39
+manifestation	NN	I-NP	5	39
+of	IN	B-PP	6	39
+the	DT	B-NP	7	39
+capacity	NN	I-NP	8	39	PRED	ABILITY-WITH-AGENT
+of	IN	B-PP	9	39
+the	DT	B-NP	10	39
+financial	JJ	I-NP	11	39
+community	NN	I-NP	12	39	ARG0
+for	IN	B-PP	13	39
+recurrent	JJ	B-NP	14	39
+insanity	NN	I-NP	15	39	ARG1
+COMMA	COMMA	O	16	39
+''	''	O	17	39
+says	VBZ	O	18	39
+Mr.	NNP	B-NP	19	39
+Galbraith	NNP	I-NP	20	39
+COMMA	COMMA	O	21	39
+an	DT	B-NP	22	39
+economist	NN	I-NP	23	39
+.	.	O	24	39
+
+But	CC	B-CONJP	0	40
+doubters	NNS	B-NP	1	40
+say	VBP	O	2	40
+growing	VBG	B-ADJP	3	40
+production	NN	B-NP	4	40	ARG1
+capacity	NN	I-NP	5	40	PRED	ABILITY-WITH-AGENT
+could	MD	O	6	40
+keep	VB	O	7	40
+pressure	NN	B-NP	8	40
+on	IN	B-PP	9	40
+prices	NNS	B-NP	10	40
+into	IN	B-PP	11	40
+the	DT	B-NP	12	40
+early	JJ	I-NP	13	40
+1990s	NNS	I-NP	14	40
+.	.	O	15	40
+
+``	``	O	0	41
+You	PRP	B-NP	1	41
+say	VBP	O	2	41
+you	PRP	B-NP	3	41
+could	MD	O	4	41
+have	VB	O	5	41
+sold	VBN	O	6	41
+X	NN	B-NP	7	41
+percent	NN	I-NP	8	41
+of	IN	B-PP	9	41
+this	DT	B-NP	10	41
+product	NN	I-NP	11	41
+and	CC	O	12	41
+Y	NN	B-NP	13	41
+percent	NN	I-NP	14	41
+of	IN	B-PP	15	41
+that	DT	B-NP	16	41
+COMMA	COMMA	O	17	41
+''	''	O	18	41
+recalls	VBZ	O	19	41
+Theodore	NNP	B-NP	20	41
+Semegran	NNP	I-NP	21	41
+COMMA	COMMA	O	22	41
+an	DT	B-NP	23	41
+analyst	NN	I-NP	24	41
+at	IN	B-PP	25	41
+Shearson	NNP	B-NP	26	41
+Lehman	NNP	I-NP	27	41
+Hutton	NNP	I-NP	28	41
+who	WP	B-NP	29	41
+went	VBD	O	30	41
+through	IN	B-PP	31	41
+this	DT	B-NP	32	41
+exercise	NN	I-NP	33	41
+during	IN	B-PP	34	41
+his	PRP$	B-NP	35	41	ARG0
+former	JJ	I-NP	36	41	ARGM-TMP
+career	NN	I-NP	37	41	PRED	ABILITY-WITH-AGENT
+as	IN	B-SBAR	38	41
+a	DT	B-NP	39	41
+chemical	JJ	I-NP	40	41
+engineer	NN	I-NP	41	41	ARG1
+.	.	O	42	41
+
+``	``	O	0	42
+We	PRP	B-NP	1	42	ARG0
+did	VBD	O	2	42
+n't	RB	B-ADVP	3	42
+even	RB	B-ADVP	4	42
+get	VB	O	5	42	SUPPORT
+a	DT	B-NP	6	42
+chance	NN	I-NP	7	42	PRED	ATTRIBUTE/ABILITY
+to	TO	O	8	42
+do	VB	O	9	42	ARG1-PRD
+the	DT	B-NP	10	42
+programs	NNS	I-NP	11	42
+we	PRP	B-NP	12	42
+wanted	VBD	O	13	42
+to	TO	O	14	42
+do	VB	O	15	42
+.	.	O	16	42
+''	''	O	17	42
+
+Still	RB	O	0	43
+COMMA	COMMA	O	1	43
+fund	NN	B-NP	2	43
+groups	NNS	I-NP	3	43	ARG0
+are	VBP	O	4	43
+n't	RB	B-ADVP	5	43
+taking	VBG	O	6	43	SUPPORT
+any	DT	B-NP	7	43
+chances	NNS	I-NP	8	43	PRED	ATTRIBUTE/ABILITY
+.	.	O	9	43
+
+The	DT	B-NP	0	44
+gasoline	NN	I-NP	1	44
+picture	NN	I-NP	2	44
+may	MD	O	3	44
+improve	VB	O	4	44
+this	DT	B-NP	5	44
+quarter	NN	I-NP	6	44
+COMMA	COMMA	O	7	44
+but	CC	B-CONJP	8	44
+chemicals	NNS	B-NP	9	44
+are	VBP	O	10	44
+likely	JJ	O	11	44
+to	TO	O	12	44
+remain	VB	O	13	44
+weak	JJ	B-ADJP	14	44
+COMMA	COMMA	O	15	44
+industry	NN	B-NP	16	44
+executives	NNS	I-NP	17	44
+and	CC	I-NP	18	44
+analysts	NNS	I-NP	19	44
+say	VBP	O	20	44
+COMMA	COMMA	O	21	44
+reducing	VBG	O	22	44
+chances	NNS	B-NP	23	44	PRED	ATTRIBUTE/ABILITY
+that	IN	B-SBAR	24	44	ARG1
+profits	NNS	B-NP	25	44
+could	MD	O	26	44
+equal	VB	O	27	44
+their	PRP$	B-NP	28	44
+year-earlier	JJ	I-NP	29	44
+performance	NN	I-NP	30	44
+.	.	O	31	44
+
+Time	NNP	B-NP	0	45
+is	VBZ	O	1	45
+following	VBG	O	2	45
+the	DT	B-NP	3	45
+course	NN	I-NP	4	45	PRED	ABILITY-WITH-AGENT/PATH
+of	IN	B-PP	5	45
+some	DT	B-NP	6	45
+other	JJ	I-NP	7	45
+mass-circulation	NN	I-NP	8	45
+magazines	NNS	I-NP	9	45	ARG1
+that	WDT	B-NP	10	45
+in	IN	B-PP	11	45
+recent	JJ	B-NP	12	45
+years	NNS	I-NP	13	45
+have	VBP	O	14	45
+challenged	VBN	O	15	45
+the	DT	B-NP	16	45
+publishing	NN	I-NP	17	45
+myth	NN	B-NP	18	45
+that	IN	O	19	45
+maintaining	VBG	O	20	45
+artificially	RB	B-ADVP	21	45
+high	JJ	B-NP	22	45
+COMMA	COMMA	I-NP	23	45
+and	CC	I-NP	24	45
+expensive	JJ	I-NP	25	45
+COMMA	COMMA	I-NP	26	45
+circulations	NNS	I-NP	27	45
+is	VBZ	O	28	45
+the	DT	B-NP	29	45
+way	NN	I-NP	30	45
+to	TO	O	31	45
+draw	VB	O	32	45
+advertisers	NNS	B-NP	33	45
+.	.	O	34	45
+
+And	CC	B-CONJP	0	46
+unlike	IN	B-PP	1	46
+1987	CD	B-NP	2	46
+COMMA	COMMA	O	3	46
+the	DT	B-NP	4	46
+economy	NN	I-NP	5	46	ARG0
+does	VBZ	O	6	46
+n't	RB	B-ADVP	7	46
+appear	VB	O	8	46
+to	TO	O	9	46
+be	VB	O	10	46
+in	IN	B-PP	11	46
+any	DT	B-NP	12	46
+danger	NN	I-NP	13	46	PRED	ABILITY-WITH-AGENT
+of	IN	B-PP	14	46
+overheating	VBG	O	15	46	ARG1
+.	.	O	16	46
+
+AIM	NNP	B-NP	0	47
+Telephones	NNP	I-NP	1	47
+Inc.	NNP	I-NP	2	47
+COMMA	COMMA	O	3	47
+a	DT	O	4	47
+Parsippany	NNP	B-NP	5	47
+COMMA	COMMA	B-NP	6	47
+N.J.	NNP	I-NP	7	47
+COMMA	COMMA	B-NP	8	47
+telecommunications	NNS	I-NP	9	47	ARG1
+equipment	NN	I-NP	10	47	PRED	ABILITY-WITH-AGENT/NOM
+supply	NN	I-NP	11	47	SUPPORT
+company	NN	I-NP	12	47	SUPPORT
+COMMA	COMMA	O	13	47
+started	VBD	O	14	47
+trading	VBG	O	15	47
+with	IN	B-PP	16	47
+the	DT	B-NP	17	47
+symbol	NN	I-NP	18	47
+AIM	NNP	B-NP	19	47
+.	.	O	20	47
+
+The	DT	B-NP	0	48
+Soviet	NNP	B-NP	1	48
+Union	NNP	I-NP	2	48
+reported	VBD	O	3	48
+that	IN	O	4	48
+thousands	NNS	B-NP	5	48
+of	IN	B-PP	6	48
+tons	NNS	B-NP	7	48
+of	IN	B-PP	8	48
+goods	NNS	B-NP	9	48
+needed	VBN	O	10	48
+to	TO	O	11	48
+ease	VB	O	12	48
+widespread	JJ	B-NP	13	48
+shortages	NNS	I-NP	14	48
+across	IN	B-PP	15	48
+the	DT	B-NP	16	48
+nation	NN	I-NP	17	48
+were	VBD	O	18	48
+piled	VBN	O	19	48
+up	RP	B-ADVP	20	48
+at	IN	B-PP	21	48
+ports	NNS	B-NP	22	48
+and	CC	O	23	48
+rail	NN	B-NP	24	48
+depots	NNS	I-NP	25	48
+COMMA	COMMA	O	26	48
+and	CC	B-CONJP	27	48
+food	NN	B-NP	28	48
+shipments	NNS	I-NP	29	48
+were	VBD	O	30	48
+rotting	VBG	O	31	48
+because	IN	B-PP	32	48
+of	IN	I-PP	33	48
+a	DT	B-NP	34	48
+lack	NN	I-NP	35	48
+of	IN	B-PP	36	48
+people	NNS	B-NP	37	48
+and	CC	I-NP	38	48
+equipment	NN	I-NP	39	48	PRED	ABILITY-WITH-AGENT/NOM
+to	TO	O	40	48
+move	VB	O	41	48	ARG1
+the	DT	B-NP	42	48
+cargo	NN	I-NP	43	48
+.	.	O	44	48
+
+Ever-more	RB	B-ADVP	0	49
+powerful	JJ	B-NP	1	49
+desk-top	JJ	I-NP	2	49
+computers	NNS	I-NP	3	49
+COMMA	COMMA	O	4	49
+designed	VBN	O	5	49
+with	IN	B-PP	6	49
+one	CD	B-NP	7	49
+or	CC	I-NP	8	49
+more	JJR	I-NP	9	49
+microprocessors	NNS	I-NP	10	49
+as	IN	B-SBAR	11	49
+their	PRP$	B-NP	12	49
+``	``	I-NP	13	49
+brains	NNS	I-NP	14	49
+COMMA	COMMA	O	15	49
+''	''	O	16	49
+are	VBP	O	17	49
+expected	VBN	O	18	49
+to	TO	O	19	49
+increasingly	RB	B-ADVP	20	49
+take	VB	O	21	49
+on	IN	B-PP	22	49
+functions	NNS	B-NP	23	49	PRED	ABILITY-WITH-AGENT
+carried	VBN	O	24	49	SUPPORT
+out	RP	B-ADVP	25	49
+by	IN	B-PP	26	49	ARG0
+more	RBR	B-ADVP	27	49
+expensive	JJ	B-NP	28	49
+minicomputers	NNS	I-NP	29	49
+and	CC	I-NP	30	49
+mainframes	NNS	I-NP	31	49
+.	.	O	32	49
+
+CNN	NNP	B-NP	0	50
+wants	VBZ	O	1	50
+to	TO	O	2	50
+change	VB	O	3	50
+its	PRP$	B-NP	4	50
+viewers	NNS	I-NP	5	50	ARG0
+'	POS	B-NP	6	50
+habits	NNS	I-NP	7	50	PRED	ABILITY-WITH-AGENT
+.	.	O	8	50
+
+CNN	NNP	B-NP	0	51	ARG0
+'s	POS	B-NP	1	51
+viewer	NN	I-NP	2	51	ARG1
+habits	NNS	I-NP	3	51	PRED	ABILITY-WITH-AGENT
+have	VBP	O	4	51
+been	VBN	O	5	51
+molded	VBN	O	6	51
+by	IN	B-PP	7	51
+its	PRP$	B-NP	8	51
+format	NN	I-NP	9	51
+.	.	O	10	51
+
+The	DT	B-NP	0	52
+auto	NN	I-NP	1	52
+maker	NN	I-NP	2	52
+'s	POS	B-NP	3	52
+decision	NN	I-NP	4	52
+to	TO	O	5	52
+let	VB	O	6	52
+word	NN	B-NP	7	52
+of	IN	B-PP	8	52
+the	DT	B-NP	9	52
+latest	JJS	I-NP	10	52
+shutdowns	NNS	I-NP	11	52
+and	CC	I-NP	12	52
+product	NN	I-NP	13	52
+reassignments	NNS	I-NP	14	52
+trickle	VBP	O	15	52
+out	RP	B-ADVP	16	52
+in	IN	B-PP	17	52
+separate	JJ	B-NP	18	52
+communiques	NNS	I-NP	19	52
+to	IN	B-PP	20	52
+the	DT	B-NP	21	52
+affected	JJ	I-NP	22	52
+plants	NNS	I-NP	23	52
+showed	VBD	O	24	52
+``	``	O	25	52
+disarray	NN	B-NP	26	52
+''	''	O	27	52
+and	CC	O	28	52
+an	DT	B-NP	29	52
+``	``	I-NP	30	52
+inability	NN	I-NP	31	52	PRED	ABILITY-WITH-AGENT
+or	CC	I-NP	32	52
+unwillingness	NN	I-NP	33	52
+to	TO	O	34	52
+provide	VB	O	35	52	ARG1-PRD
+consistent	JJ	B-NP	36	52
+information	NN	I-NP	37	52
+COMMA	COMMA	O	38	52
+''	''	O	39	52
+Mr.	NNP	B-NP	40	52
+Yokich	NNP	I-NP	41	52
+said	VBD	O	42	52
+.	.	O	43	52
+
+Mr.	NNP	B-NP	0	53
+King	NNP	I-NP	1	53
+of	IN	B-PP	2	53
+Robinson-Humphrey	NNP	B-NP	3	53
+and	CC	O	4	53
+others	NNS	B-NP	5	53
+were	VBD	O	6	53
+quick	JJ	B-ADJP	7	53
+to	TO	O	8	53
+add	VB	O	9	53
+that	IN	B-SBAR	10	53
+they	PRP	B-NP	11	53
+believe	VBP	O	12	53
+the	DT	B-NP	13	53
+problem	NN	I-NP	14	53
+stemmed	VBD	O	15	53
+more	RBR	B-ADVP	16	53
+from	IN	B-PP	17	53
+traders	NNS	B-NP	18	53	ARG0
+'	POS	B-NP	19	53
+inability	NN	I-NP	20	53	PRED	ABILITY-WITH-AGENT
+to	TO	O	21	53
+handle	VB	O	22	53	ARG1-PRD
+the	DT	B-NP	23	53
+volume	NN	I-NP	24	53
+of	IN	B-PP	25	53
+calls	NNS	B-NP	26	53
+COMMA	COMMA	O	27	53
+rather	RB	B-CONJP	28	53
+than	IN	I-CONJP	29	53
+a	DT	B-NP	30	53
+deliberate	JJ	I-NP	31	53
+attempt	NN	I-NP	32	53
+to	TO	O	33	53
+avoid	VB	O	34	53
+making	VBG	O	35	53
+trades	NNS	B-NP	36	53
+.	.	O	37	53
+
+But	CC	B-CONJP	0	54
+I	PRP	B-NP	1	54
+think	VBP	O	2	54
+the	DT	B-NP	3	54
+kind	NN	I-NP	4	54
+of	IN	B-PP	5	54
+congressional	JJ	B-NP	6	54
+investigation	NN	I-NP	7	54
+that	WDT	B-NP	8	54
+has	VBZ	O	9	54
+been	VBN	O	10	54
+pursued	VBN	O	11	54
+is	VBZ	O	12	54
+a	DT	O	13	54
+far	RB	B-ADVP	14	54
+greater	JJR	B-NP	15	54
+danger	NN	I-NP	16	54
+to	IN	B-PP	17	54
+American	JJ	B-NP	18	54
+notions	NNS	I-NP	19	54
+of	IN	B-PP	20	54
+liberty	NN	B-NP	21	54
+and	CC	I-NP	22	54
+freedom	NN	I-NP	23	54
+than	IN	B-SBAR	24	54
+any	DT	B-NP	25	54
+incompetency	NN	I-NP	26	54	PRED	NOMADJ-INCOMPETENT/ABILITY
+(	(	O	27	54
+and	CC	O	28	54
+COMMA	COMMA	O	29	54
+yes	UH	B-INTJ	30	54
+COMMA	COMMA	O	31	54
+maybe	RB	B-ADVP	32	54
+criminality	NN	B-NP	33	54
+)	)	O	34	54
+within	IN	B-PP	35	54
+HUD	NNP	B-NP	36	54	ARG0
+could	MD	O	37	54
+possibly	RB	B-ADVP	38	54
+generate	VB	O	39	54
+.	.	O	40	54
+
+These	DT	B-NP	0	55
+include	VBP	O	1	55
+a	DT	B-NP	2	55
+child-care	NN	I-NP	3	55	ARG1
+initiative	NN	I-NP	4	55	PRED	ABILITY-WITH-AGENT
+and	CC	O	5	55
+extensions	NNS	B-NP	6	55
+of	IN	B-PP	7	55
+soon-to-expire	VBP	B-NP	8	55
+tax	NN	I-NP	9	55
+breaks	NNS	I-NP	10	55
+for	IN	B-PP	11	55
+low-income	NN	B-NP	12	55
+housing	NN	I-NP	13	55
+and	CC	O	14	55
+research-and-development	NN	B-NP	15	55
+expenditures	NNS	I-NP	16	55
+.	.	O	17	55
+
+Countered	VBD	O	0	56
+James	NNP	B-NP	1	56
+Maguire	NNP	I-NP	2	56
+COMMA	COMMA	O	3	56
+chairman	NN	B-NP	4	56
+of	IN	B-PP	5	56
+specialists	NNS	B-NP	6	56
+Henderson	NNP	B-NP	7	56
+Brothers	NNP	I-NP	8	56
+Inc.	NNP	I-NP	9	56
+:	:	O	10	56
+``	``	O	11	56
+It	EX	B-NP	12	56
+is	VBZ	O	13	56
+easy	JJ	B-ADJP	14	56
+to	TO	O	15	56
+say	VB	O	16	56
+the	DT	B-NP	17	56
+specialist	NN	I-NP	18	56
+is	VBZ	O	19	56
+n't	RB	B-ADVP	20	56
+doing	VBG	O	21	56
+his	PRP$	B-NP	22	56	ARG0
+job	NN	I-NP	23	56	PRED	ABILITY-WITH-AGENT/JOB
+.	.	O	24	56
+
+The	DT	B-NP	0	57
+land	NN	I-NP	1	57
+to	TO	O	2	57
+be	VB	O	3	57
+purchased	VBN	O	4	57
+by	IN	B-PP	5	57
+the	DT	B-NP	6	57
+joint	JJ	I-NP	7	57
+venture	NN	I-NP	8	57
+has	VBZ	O	9	57
+n't	RB	B-ADVP	10	57
+yet	RB	B-ADVP	11	57
+received	VBN	O	12	57
+zoning	NN	B-NP	13	57
+and	CC	I-NP	14	57
+other	JJ	I-NP	15	57
+approvals	NNS	I-NP	16	57
+required	VBN	O	17	57
+for	IN	B-PP	18	57
+development	NN	B-NP	19	57
+COMMA	COMMA	O	20	57
+and	CC	B-CONJP	21	57
+part	NN	B-NP	22	57
+of	IN	B-PP	23	57
+Kaufman	NNP	B-NP	24	57	ARG0
+&	CC	I-NP	25	57
+Broad	NNP	I-NP	26	57	ARG0
+'s	POS	B-NP	27	57
+job	NN	I-NP	28	57	PRED	ABILITY-WITH-AGENT/JOB
+will	MD	O	29	57
+be	VB	O	30	57
+to	TO	O	31	57
+obtain	VB	O	32	57
+such	DT	B-NP	33	57
+approvals	NNS	I-NP	34	57
+.	.	O	35	57
+
+Once	RB	B-ADVP	0	58
+known	VBN	O	1	58
+as	IN	B-SBAR	2	58
+National	NNP	B-NP	3	58
+Distillers	NNP	I-NP	4	58
+&	NNP	I-NP	5	58
+Chemical	NNP	I-NP	6	58
+Corp.	NNP	I-NP	7	58
+COMMA	COMMA	O	8	58
+the	DT	B-NP	9	58
+company	NN	I-NP	10	58
+exited	VBD	O	11	58
+the	DT	B-NP	12	58
+wine	NN	I-NP	13	58
+and	CC	I-NP	14	58
+spirits	NNS	I-NP	15	58
+business	NN	I-NP	16	58
+and	CC	B-CONJP	17	58
+plowed	VBD	O	18	58
+more	DT	B-NP	19	58
+of	IN	B-PP	20	58
+its	PRP$	B-NP	21	58
+resources	NNS	I-NP	22	58
+into	IN	B-PP	23	58
+plastics	NNS	B-NP	24	58
+after	IN	O	25	58
+Mr.	NNP	B-NP	26	58
+Stookey	NNP	I-NP	27	58	ARG0
+took	VBD	O	28	58	SUPPORT
+the	DT	B-NP	29	58
+chief	JJ	I-NP	30	58
+executive	NN	I-NP	31	58	ARG1
+'s	POS	B-NP	32	58
+job	NN	I-NP	33	58	PRED	ABILITY-WITH-AGENT/JOB
+in	IN	B-PP	34	58
+1986	CD	B-NP	35	58
+.	.	O	36	58
+
+``	``	O	0	59
+We	PRP	B-NP	1	59
+found	VBD	O	2	59
+with	IN	B-PP	3	59
+the	DT	B-NP	4	59
+size	NN	I-NP	5	59
+of	IN	B-PP	6	59
+our	PRP$	B-NP	7	59
+media	NNS	I-NP	8	59
+purchases	NNS	I-NP	9	59
+that	IN	B-SBAR	10	59
+an	DT	B-NP	11	59
+ad	NN	I-NP	12	59
+agency	NN	I-NP	13	59	ARG0
+could	MD	O	14	59
+do	VB	O	15	59	SUPPORT
+just	RB	B-ADVP	16	59
+as	IN	O	17	59
+good	JJ	B-NP	18	59	ARGM-MNR
+a	DT	I-NP	19	59
+job	NN	I-NP	20	59	PRED	ABILITY-WITH-AGENT/JOB
+at	IN	B-PP	21	59
+significantly	RB	B-ADVP	22	59
+lower	JJR	B-NP	23	59
+cost	NN	I-NP	24	59
+COMMA	COMMA	O	25	59
+''	''	O	26	59
+said	VBD	O	27	59
+the	DT	B-NP	28	59
+spokesman	NN	I-NP	29	59
+COMMA	COMMA	O	30	59
+who	WP	B-NP	31	59
+declined	VBD	O	32	59
+to	TO	O	33	59
+specify	VB	O	34	59
+how	WRB	O	35	59
+much	JJ	B-ADJP	36	59
+RJR	NNP	B-NP	37	59
+spends	VBZ	O	38	59
+on	IN	B-PP	39	59
+network	NN	B-NP	40	59
+television	NN	I-NP	41	59
+time	NN	I-NP	42	59
+.	.	O	43	59
+
+He	PRP	B-NP	0	60
+said	VBD	O	1	60
+the	DT	B-NP	2	60
+company	NN	I-NP	3	60
+hired	VBD	O	4	60
+three	CD	B-NP	5	60
+more	JJR	I-NP	6	60
+buyers	NNS	I-NP	7	60
+for	IN	B-PP	8	60
+the	DT	B-NP	9	60
+unit	NN	I-NP	10	60
+within	IN	B-PP	11	60
+the	DT	B-NP	12	60
+past	JJ	I-NP	13	60
+two	CD	I-NP	14	60
+weeks	NNS	I-NP	15	60
+COMMA	COMMA	O	16	60
+wooing	VBG	O	17	60	SUPPORT
+them	PRP	B-NP	18	60	ARG0
+from	IN	B-PP	19	60	SUPPORT
+jobs	NNS	B-NP	20	60	PRED	ABILITY-WITH-AGENT/JOB
+with	IN	B-PP	21	60
+advertising	NN	B-NP	22	60
+agencies	NNS	I-NP	23	60	ARG2
+.	.	O	24	60
+
+The	DT	B-NP	0	61
+show	NN	I-NP	1	61
+will	MD	O	2	61
+be	VB	O	3	61
+co-anchored	VBN	O	4	61
+by	IN	B-PP	5	61
+Bernard	NNP	B-NP	6	61
+Shaw	NNP	I-NP	7	61
+and	CC	O	8	61
+Catherine	NNP	B-NP	9	61
+Crier	NNP	I-NP	10	61
+COMMA	COMMA	O	11	61
+a	DT	B-NP	12	61
+34-year-old	JJ	I-NP	13	61
+former	JJ	I-NP	14	61
+Texas	NNP	I-NP	15	61
+judge	NN	I-NP	16	61	ARG0
+and	CC	I-NP	17	61
+campus	NN	I-NP	18	61
+beauty	NN	I-NP	19	61
+queen	NN	I-NP	20	61	ARG0
+who	WP	B-NP	21	61	ARG0
+has	VBZ	O	22	61
+never	RB	B-ADVP	23	61
+held	VBN	O	24	61	SUPPORT
+a	DT	B-NP	25	61
+job	NN	I-NP	26	61	PRED	ABILITY-WITH-AGENT/JOB
+in	IN	B-PP	27	61
+television	NN	B-NP	28	61	ARG1
+or	CC	I-NP	29	61
+journalism	NN	I-NP	30	61	ARG1
+.	.	O	31	61
+
+``	``	O	0	62
+They	PRP	B-NP	1	62
+'ve	VBP	O	2	62
+never	RB	B-ADVP	3	62
+shown	VBN	O	4	62
+any	DT	B-NP	5	62
+inclination	NN	I-NP	6	62
+to	TO	O	7	62
+spend	VB	O	8	62
+money	NN	B-NP	9	62
+on	IN	B-PP	10	62
+production	NN	B-NP	11	62
+COMMA	COMMA	O	12	62
+''	''	O	13	62
+says	VBZ	O	14	62
+Michael	NNP	B-NP	15	62
+Mosettig	NNP	I-NP	16	62
+COMMA	COMMA	O	17	62
+a	DT	B-NP	18	62
+senior	JJ	I-NP	19	62
+producer	NN	I-NP	20	62
+with	IN	B-PP	21	62
+MacNeil-Lehrer	NNP	B-NP	22	62
+NewsHour	NNP	I-NP	23	62
+COMMA	COMMA	O	24	62
+who	WP	B-NP	25	62
+notes	VBZ	O	26	62
+that	IN	B-SBAR	27	62
+CNN	NNP	B-NP	28	62
+is	VBZ	O	29	62
+indispensable	JJ	B-ADJP	30	62
+to	IN	B-PP	31	62
+his	PRP$	B-NP	32	62	ARG0
+job	NN	I-NP	33	62	PRED	ABILITY-WITH-AGENT/JOB
+.	.	O	34	62
+
+Mr.	NNP	B-NP	0	63
+Thygerson	NNP	I-NP	1	63
+said	VBD	O	2	63
+he	PRP	B-NP	3	63
+had	VBD	O	4	63
+planned	VBN	O	5	63
+to	TO	O	6	63
+travel	VB	O	7	63
+between	IN	B-PP	8	63
+the	DT	B-NP	9	63
+job	NN	I-NP	10	63	PRED	ABILITY-WITH-AGENT/JOB
+in	IN	B-PP	11	63
+Denver	NNP	B-NP	12	63	ARGM-LOC
+and	CC	O	13	63
+his	PRP$	O	14	63
+San	NNP	B-NP	15	63
+Diego	NNP	I-NP	16	63
+home	NN	B-NP	17	63
+COMMA	COMMA	O	18	63
+but	CC	O	19	63
+has	VBZ	O	20	63
+found	VBN	O	21	63
+the	DT	B-NP	22	63
+commute	NN	I-NP	23	63
+too	RB	B-ADJP	24	63
+difficult	JJ	I-ADJP	25	63
+to	TO	O	26	63
+continue	VB	O	27	63
+.	.	O	28	63
+
+Two-thirds	NNS	B-NP	0	64
+of	IN	B-PP	1	64
+respondents	NNS	B-NP	2	64
+said	VBD	O	3	64
+they	PRP	B-NP	4	64
+strongly	RB	B-ADVP	5	64
+felt	VBD	O	6	64
+the	DT	B-NP	7	64
+need	NN	I-NP	8	64
+to	TO	O	9	64
+be	VB	O	10	64
+successful	JJ	B-ADJP	11	64
+in	IN	B-PP	12	64
+their	PRP$	B-NP	13	64	ARG0
+jobs	NNS	I-NP	14	64	PRED	ABILITY-WITH-AGENT/JOB
+COMMA	COMMA	O	15	64
+while	IN	O	16	64
+fewer	JJR	B-NP	17	64
+than	IN	I-NP	18	64
+half	NN	I-NP	19	64
+said	VBD	O	20	64
+they	PRP	B-NP	21	64
+strongly	RB	B-ADVP	22	64
+felt	VBD	O	23	64
+the	DT	B-NP	24	64
+need	NN	I-NP	25	64
+to	TO	O	26	64
+spend	VB	O	27	64
+more	JJR	B-NP	28	64
+time	NN	I-NP	29	64
+with	IN	B-PP	30	64
+their	PRP$	B-NP	31	64
+families	NNS	I-NP	32	64
+.	.	O	33	64
+
+THE	DT	B-NP	0	65
+NUMBER	NN	I-NP	1	65
+of	IN	B-PP	2	65
+women	NNS	B-NP	3	65	ARG0
+and	CC	I-NP	4	65
+minorities	NNS	I-NP	5	65	ARG0
+who	WP	B-NP	6	65	ARG0
+hold	VBP	O	7	65	SUPPORT
+jobs	NNS	B-NP	8	65	PRED	ABILITY-WITH-AGENT/JOB
+in	IN	B-PP	9	65
+top	JJ	B-NP	10	65
+management	NN	I-NP	11	65	ARG1
+in	IN	B-PP	12	65
+the	DT	B-NP	13	65
+nation	NN	I-NP	14	65
+'s	POS	B-NP	15	65
+largest	JJS	I-NP	16	65
+banks	NNS	I-NP	17	65	ARG2
+has	VBZ	O	18	65
+more	RBR	B-ADVP	19	65
+than	IN	I-ADVP	20	65
+doubled	VBN	O	21	65
+since	IN	B-PP	22	65
+1978	CD	B-NP	23	65
+.	.	O	24	65
+
+For	IN	O	0	66
+instance	NN	B-NP	1	66
+COMMA	COMMA	O	2	66
+Michael	NNP	B-NP	3	66
+dislikes	VBZ	O	4	66
+Jackie	NNP	B-NP	5	66
+not	RB	O	6	66
+because	IN	O	7	66
+he	PRP	B-NP	8	66
+'s	VBZ	O	9	66
+a	DT	B-NP	10	66
+shrewd	JJ	I-NP	11	66
+Jewish	JJ	I-NP	12	66
+businessman	NN	I-NP	13	66
+COMMA	COMMA	O	14	66
+but	CC	B-CONJP	15	66
+because	IN	O	16	66
+he	PRP	B-NP	17	66
+quits	VBZ	O	18	66
+his	PRP$	O	19	66	ARG0
+well-paying	VBG	B-ADJP	20	66
+job	NN	B-NP	21	66	PRED	ABILITY-WITH-AGENT/JOB
+as	IN	B-SBAR	22	66
+a	DT	B-NP	23	66
+salesman	NN	I-NP	24	66	ARG1
+in	IN	B-SBAR	25	66
+order	NN	O	26	66
+to	TO	O	27	66
+become	VB	O	28	66
+a	DT	B-NP	29	66
+social	JJ	I-NP	30	66
+worker	NN	I-NP	31	66
+.	.	O	32	66
+
+My	PRP$	B-NP	0	67
+unemployment	NN	I-NP	1	67
+insurance	NN	I-NP	2	67
+ran	VBD	O	3	67
+out	RP	B-ADVP	4	67
+before	IN	O	5	67
+I	PRP	B-NP	6	67	ARG0
+found	VBD	O	7	67	SUPPORT
+a	DT	B-NP	8	67
+job	NN	I-NP	9	67	PRED	ABILITY-WITH-AGENT/JOB
+;	:	O	10	67
+I	PRP	B-NP	11	67
+found	VBD	O	12	67
+cutbacks	NNS	B-NP	13	67
+and	CC	I-NP	14	67
+layoffs	NNS	I-NP	15	67
+in	IN	B-PP	16	67
+many	DT	B-NP	17	67
+companies	NNS	I-NP	18	67
+.	.	O	19	67
+
+Looking	VBG	O	0	68	SUPPORT
+for	IN	B-PP	1	68	SUPPORT
+a	DT	B-NP	2	68
+job	NN	I-NP	3	68	PRED	ABILITY-WITH-AGENT/JOB
+was	VBD	O	4	68
+one	CD	B-NP	5	68
+of	IN	B-PP	6	68
+the	DT	O	7	68
+most	RBS	B-ADVP	8	68
+anxious	JJ	B-NP	9	68
+periods	NNS	I-NP	10	68
+of	IN	B-PP	11	68
+my	PRP$	O	12	68
+life	NN	B-NP	13	68
+--	:	O	14	68
+and	CC	O	15	68
+is	VBZ	O	16	68
+for	IN	B-PP	17	68
+most	JJS	B-NP	18	68
+people	NNS	I-NP	19	68
+.	.	O	20	68
+
+Partly	RB	B-ADVP	0	69
+because	IN	B-PP	1	69
+of	IN	I-PP	2	69
+concern	NN	B-NP	3	69
+about	IN	B-PP	4	69
+the	DT	B-NP	5	69
+economy	NN	I-NP	6	69
+and	CC	B-CONJP	7	69
+partly	RB	O	8	69
+because	IN	O	9	69
+she	PRP	B-NP	10	69
+recently	RB	B-ADVP	11	69
+quit	VBD	O	12	69
+her	PRP$	B-NP	13	69	ARG0
+job	NN	I-NP	14	69	PRED	ABILITY-WITH-AGENT/JOB
+as	IN	B-SBAR	15	69
+a	DT	B-NP	16	69
+legal	JJ	I-NP	17	69
+assistant	NN	I-NP	18	69	ARG1
+to	TO	O	19	69
+go	VB	O	20	69
+to	IN	B-PP	21	69
+school	NN	B-NP	22	69
+COMMA	COMMA	O	23	69
+``	``	O	24	69
+I	PRP	B-NP	25	69
+think	VBP	O	26	69
+at	IN	B-PP	27	69
+this	DT	B-NP	28	69
+point	NN	I-NP	29	69
+we	PRP	B-NP	30	69
+want	VBP	O	31	69
+to	TO	O	32	69
+be	VB	O	33	69
+a	DT	B-NP	34	69
+lot	NN	I-NP	35	69
+more	RBR	B-ADJP	36	69
+liquid	JJ	I-ADJP	37	69
+.	.	O	38	69
+''	''	O	39	69
+
+The	DT	B-NP	0	70
+administration	NN	I-NP	1	70
+'s	POS	B-NP	2	70
+policy	NN	I-NP	3	70
+was	VBD	O	4	70
+stated	VBN	O	5	70
+in	IN	B-PP	6	70
+a	DT	B-NP	7	70
+friend-of-the-court	NN	I-NP	8	70
+brief	NN	I-NP	9	70
+urging	VBG	O	10	70
+the	DT	B-NP	11	70
+Supreme	NNP	B-NP	12	70
+Court	NNP	I-NP	13	70
+to	TO	O	14	70
+give	VB	O	15	70	SUPPORT
+states	NNS	B-NP	16	70	ARG0
+more	JJR	B-NP	17	70	ARGM-EXT
+leeway	NN	I-NP	18	70	PRED	ABILITY-WITH-AGENT
+to	TO	O	19	70
+restrict	VB	O	20	70	ARG1
+abortions	NNS	B-NP	21	70
+.	.	O	22	70
+
+Sunbelt	NNP	B-NP	0	71
+and	CC	O	1	71
+the	DT	B-NP	2	71
+FSLIC	NNP	I-NP	3	71
+argued	VBD	O	4	71
+to	IN	B-PP	5	71
+the	DT	B-NP	6	71
+Fifth	NNP	B-NP	7	71
+U.S.	NNP	I-NP	8	71
+Circuit	NNP	I-NP	9	71
+Court	NNP	I-NP	10	71
+of	IN	B-PP	11	71
+Appeals	NNP	B-NP	12	71
+``	``	O	13	71
+that	IN	B-SBAR	14	71
+there	EX	B-NP	15	71
+will	MD	O	16	71
+never	RB	B-ADVP	17	71
+be	VB	O	18	71
+any	DT	B-NP	19	71
+assets	NNS	I-NP	20	71
+with	IN	B-PP	21	71
+which	WDT	B-NP	22	71
+to	TO	O	23	71
+satisfy	VB	O	24	71
+a	DT	B-NP	25	71
+judgment	NN	I-NP	26	71
+against	IN	B-PP	27	71
+Sunbelt	NNP	B-NP	28	71
+Savings	NNP	I-NP	29	71
+nor	CC	O	30	71
+any	DT	B-NP	31	71
+means	NNS	I-NP	32	71	PRED	ABILITY-WITH-AGENT/ATTRIBUTE
+to	TO	O	33	71
+collect	VB	O	34	71	ARG1
+from	IN	B-PP	35	71
+any	DT	B-NP	36	71
+other	JJ	I-NP	37	71
+party	NN	I-NP	38	71
+COMMA	COMMA	O	39	71
+including	VBG	O	40	71
+FSLIC	NNP	B-NP	41	71
+.	.	O	42	71
+''	''	O	43	71
+
+The	DT	B-NP	0	72
+latter	JJ	I-NP	1	72
+typically	RB	B-ADVP	2	72
+is	VBZ	O	3	72
+the	DT	B-NP	4	72
+humor	NN	I-NP	5	72
+of	IN	B-PP	6	72
+the	DT	B-NP	7	72
+underdog	NN	I-NP	8	72
+COMMA	COMMA	O	9	72
+and	CC	B-CONJP	10	72
+it	PRP	B-NP	11	72
+was	VBD	O	12	72
+perfected	VBN	O	13	72
+by	IN	B-PP	14	72
+both	DT	B-NP	15	72
+blacks	NNPS	B-NP	16	72
+and	CC	I-NP	17	72
+Jews	NNPS	I-NP	18	72
+on	IN	B-PP	19	72
+the	DT	B-NP	20	72
+minstrel	NN	I-NP	21	72
+and	CC	I-NP	22	72
+vaudeville	NN	I-NP	23	72
+stage	NN	I-NP	24	72
+as	IN	B-SBAR	25	72
+a	DT	B-NP	26	72
+means	NN	I-NP	27	72	PRED	ABILITY-WITH-AGENT/ATTRIBUTE
+of	IN	B-PP	28	72
+mocking	VBG	O	29	72	ARG1
+their	PRP$	B-NP	30	72
+white	JJ	I-NP	31	72
+and	CC	I-NP	32	72
+gentile	JJ	I-NP	33	72
+audiences	NNS	I-NP	34	72
+along	IN	B-PP	35	72
+with	IN	B-PP	36	72
+themselves	PRP	B-NP	37	72
+.	.	O	38	72
+
+The	DT	B-NP	0	73
+question	NN	I-NP	1	73
+is	VBZ	O	2	73
+COMMA	COMMA	O	3	73
+if	IN	O	4	73
+group	NN	B-NP	5	73
+conflicts	NNS	I-NP	6	73
+still	RB	B-ADVP	7	73
+exist	VBP	O	8	73
+(	(	B-SBAR	9	73
+as	IN	I-SBAR	10	73
+undeniably	RB	B-ADVP	11	73
+they	PRP	B-NP	12	73
+do	VBP	O	13	73
+)	)	O	14	73
+COMMA	COMMA	O	15	73
+and	CC	B-CONJP	16	73
+if	IN	O	17	73
+Mr.	NNP	B-NP	18	73
+Mason	NNP	I-NP	19	73
+'s	POS	B-NP	20	73
+type	NN	I-NP	21	73
+of	IN	B-PP	22	73
+ethnic	JJ	B-NP	23	73
+humor	NN	I-NP	24	73
+is	VBZ	O	25	73
+passe	JJ	B-ADJP	26	73
+COMMA	COMMA	O	27	73
+then	RB	O	28	73
+what	WP	B-NP	29	73
+other	JJ	I-NP	30	73
+means	NNS	I-NP	31	73	PRED	ABILITY-WITH-AGENT/ATTRIBUTE
+do	VBP	O	32	73
+we	PRP	B-NP	33	73	ARG0
+have	VB	O	34	73	SUPPORT
+for	IN	B-PP	35	73
+letting	VBG	O	36	73	ARG1
+off	RP	B-ADVP	37	73
+steam	NN	B-NP	38	73
+?	.	O	39	73
+
+Because	IN	O	0	74
+despite	IN	B-PP	1	74
+all	PDT	B-NP	2	74
+the	DT	I-NP	3	74
+media	NNS	I-NP	4	74
+prattle	NN	I-NP	5	74
+about	IN	B-PP	6	74
+comedy	NN	B-NP	7	74
+and	CC	I-NP	8	74
+politics	NNS	I-NP	9	74
+not	RB	B-ADVP	10	74
+mixing	VBG	O	11	74
+COMMA	COMMA	O	12	74
+they	PRP	B-NP	13	74
+are	VBP	O	14	74
+similar	JJ	B-ADJP	15	74
+in	IN	B-PP	16	74
+one	CD	B-NP	17	74
+respect	NN	I-NP	18	74
+:	:	O	19	74
+Both	DT	B-NP	20	74
+can	MD	O	21	74
+serve	VB	O	22	74
+as	IN	B-SBAR	23	74
+mechanisms	NNS	B-NP	24	74	PRED	ABILITY
+for	IN	B-PP	25	74
+easing	VBG	O	26	74	ARG1
+tensions	NNS	B-NP	27	74
+and	CC	O	28	74
+facilitating	VBG	O	29	74	ARG1
+the	DT	B-NP	30	74
+co-existence	NN	I-NP	31	74
+of	IN	B-PP	32	74
+groups	NNS	B-NP	33	74
+in	IN	B-PP	34	74
+conflict	NN	B-NP	35	74
+.	.	O	36	74
+
+It	PRP	B-NP	0	75
+no	DT	B-ADVP	1	75
+longer	RBR	O	2	75
+includes	VBZ	O	3	75
+a	DT	B-NP	4	75
+plan	NN	I-NP	5	75
+that	WDT	B-NP	6	75
+would	MD	O	7	75
+have	VB	O	8	75
+repealed	VBN	O	9	75
+what	WP	B-NP	10	75
+remains	VBZ	O	11	75
+of	IN	B-PP	12	75
+the	DT	B-NP	13	75
+completed-contract	NN	I-NP	14	75
+method	NN	I-NP	15	75	PRED	ABILITY-WITH-AGENT
+of	IN	B-PP	16	75
+accounting	NN	B-NP	17	75	ARG1
+COMMA	COMMA	O	18	75
+which	WDT	B-NP	19	75
+is	VBZ	O	20	75
+used	VBN	O	21	75
+by	IN	B-PP	22	75
+military	JJ	B-NP	23	75
+contractors	NNS	I-NP	24	75
+to	TO	O	25	75
+reduce	VB	O	26	75
+their	PRP$	B-NP	27	75
+tax	NN	I-NP	28	75
+burden	NN	I-NP	29	75
+.	.	O	30	75
+
+But	CC	B-CONJP	0	76
+most	JJS	B-NP	1	76
+investors	NNS	I-NP	2	76	ARG0
+seemed	VBD	O	3	76
+to	TO	O	4	76
+be	VB	O	5	76
+``	``	O	6	76
+in	IN	B-PP	7	76
+an	DT	B-NP	8	76
+information	NN	I-NP	9	76	ARG2
+mode	NN	I-NP	10	76	PRED	ABILITY-WITH-AGENT/ATTRIBUTE
+rather	RB	B-CONJP	11	76
+than	IN	I-CONJP	12	76
+in	IN	B-PP	13	76
+a	DT	B-NP	14	76
+transaction	NN	I-NP	15	76
+mode	NN	I-NP	16	76
+COMMA	COMMA	O	17	76
+''	''	O	18	76
+said	VBD	O	19	76
+Steven	NNP	B-NP	20	76
+Norwitz	NNP	I-NP	21	76
+COMMA	COMMA	O	22	76
+a	DT	B-NP	23	76
+vice	NN	I-NP	24	76
+president	NN	I-NP	25	76
+.	.	O	26	76
+
+But	CC	B-CONJP	0	77
+most	JJS	B-NP	1	77
+investors	NNS	I-NP	2	77	ARG0
+seemed	VBD	O	3	77
+to	TO	O	4	77
+be	VB	O	5	77
+``	``	O	6	77
+in	IN	B-PP	7	77
+an	DT	B-NP	8	77
+information	NN	I-NP	9	77
+mode	NN	I-NP	10	77
+rather	RB	B-CONJP	11	77
+than	IN	I-CONJP	12	77
+in	IN	B-PP	13	77
+a	DT	B-NP	14	77
+transaction	NN	I-NP	15	77	ARG2
+mode	NN	I-NP	16	77	PRED	ABILITY-WITH-AGENT/ATTRIBUTE
+COMMA	COMMA	O	17	77
+''	''	O	18	77
+said	VBD	O	19	77
+Steven	NNP	B-NP	20	77
+Norwitz	NNP	I-NP	21	77
+COMMA	COMMA	O	22	77
+a	DT	B-NP	23	77
+vice	NN	I-NP	24	77
+president	NN	I-NP	25	77
+.	.	O	26	77
+
+The	DT	B-NP	0	78
+best	JJS	I-NP	1	78
+moments	NNS	I-NP	2	78
+in	IN	B-PP	3	78
+the	DT	B-NP	4	78
+show	NN	I-NP	5	78
+occur	VBP	O	6	78
+at	IN	B-PP	7	78
+the	DT	B-NP	8	78
+beginning	NN	I-NP	9	78
+and	CC	O	10	78
+the	DT	B-NP	11	78
+end	NN	I-NP	12	78
+(	(	B-ADVP	13	78
+and	CC	I-ADVP	14	78
+occasionally	RB	B-ADVP	15	78
+in	IN	B-PP	16	78
+the	DT	B-NP	17	78
+middle	NN	I-NP	18	78
+)	)	O	19	78
+COMMA	COMMA	O	20	78
+when	IN	B-ADVP	21	78
+Mr.	NNP	B-NP	22	78
+Mason	NNP	I-NP	23	78
+slips	VBZ	O	24	78
+into	IN	B-PP	25	78
+his	PRP$	B-NP	26	78	ARG0
+standup	JJ	I-NP	27	78	ARG1
+mode	NN	I-NP	28	78	PRED	ABILITY-WITH-AGENT/ATTRIBUTE
+and	CC	O	29	78
+starts	VBZ	O	30	78
+meting	VBG	O	31	78
+out	RP	B-ADVP	32	78
+that	DT	B-NP	33	78
+old-fashioned	JJ	I-NP	34	78
+Jewish	JJ	I-NP	35	78
+mischief	NN	I-NP	36	78
+to	IN	B-PP	37	78
+other	JJ	B-NP	38	78
+people	NNS	I-NP	39	78
+as	IN	B-CONJP	40	78
+well	UH	I-CONJP	41	78
+as	IN	I-CONJP	42	78
+to	IN	B-PP	43	78
+himself	PRP	B-NP	44	78
+.	.	O	45	78
+
+The	DT	B-NP	0	79
+company	NN	I-NP	1	79
+said	VBD	O	2	79
+a	DT	B-NP	3	79
+portion	NN	I-NP	4	79
+of	IN	B-PP	5	79
+the	DT	B-NP	6	79
+$	$	O	7	79
+32	CD	B-NP	8	79
+million	CD	I-NP	9	79
+realized	VBN	O	10	79
+from	IN	B-PP	11	79
+the	DT	B-NP	12	79
+sales	NNS	I-NP	13	79
+will	MD	O	14	79
+be	VB	O	15	79
+used	VBN	O	16	79
+to	TO	O	17	79
+repay	VB	O	18	79
+its	PRP$	B-NP	19	79
+bank	NN	I-NP	20	79
+debt	NN	I-NP	21	79
+and	CC	O	22	79
+other	JJ	B-NP	23	79
+obligations	NNS	I-NP	24	79
+resulting	VBG	O	25	79
+from	IN	B-PP	26	79
+the	DT	O	27	79
+currently	RB	B-ADVP	28	79
+suspended	VBN	O	29	79
+air-charter	NN	B-NP	30	79	ARG1
+operations	NNS	I-NP	31	79	PRED	ABILITY-WITH-AGENT
+.	.	O	32	79
+
+Indeed	RB	O	0	80
+COMMA	COMMA	O	1	80
+a	DT	B-NP	2	80
+random	JJ	I-NP	3	80
+check	NN	I-NP	4	80
+Friday	NNP	B-NP	5	80
+did	VBD	O	6	80
+n't	RB	B-ADVP	7	80
+seem	VB	O	8	80
+to	TO	O	9	80
+indicate	VB	O	10	80
+that	IN	B-SBAR	11	80
+the	DT	B-NP	12	80
+strike	NN	I-NP	13	80
+was	VBD	O	14	80
+having	VBG	O	15	80
+much	NN	B-NP	16	80
+of	IN	B-PP	17	80
+an	DT	B-NP	18	80
+effect	NN	I-NP	19	80
+on	IN	B-PP	20	80
+other	JJ	B-NP	21	80
+airline	NN	I-NP	22	80	ARG0
+operations	NNS	I-NP	23	80	PRED	ABILITY-WITH-AGENT
+.	.	O	24	80
+
+Quantum	NNP	B-NP	0	81
+hopes	VBZ	O	1	81
+the	DT	B-NP	2	81
+Morris	NNP	I-NP	3	81
+plant	NN	I-NP	4	81	ARG1
+COMMA	COMMA	O	5	81
+where	IN	B-ADVP	6	81
+limited	VBN	O	7	81
+production	NN	B-NP	8	81
+got	VBD	O	9	81
+under	IN	B-PP	10	81
+way	NN	B-NP	11	81
+last	JJ	B-NP	12	81
+week	NN	I-NP	13	81
+COMMA	COMMA	O	14	81
+will	MD	O	15	81
+resume	VB	O	16	81	SUPPORT
+full	JJ	B-NP	17	81	ARGM-MNR
+operation	NN	I-NP	18	81	PRED	ABILITY-WITH-AGENT
+by	IN	B-PP	19	81
+year	NN	B-NP	20	81
+'s	POS	B-NP	21	81
+end	NN	I-NP	22	81
+.	.	O	23	81
+
+Ideal	NNP	B-NP	0	82	ARG0
+'s	POS	B-NP	1	82
+current	JJ	B-ADJP	2	82	ARGM-TMP
+operations	NNS	B-NP	3	82	PRED	ABILITY-WITH-AGENT
+will	MD	O	4	82
+represent	VB	O	5	82
+about	RB	B-ADVP	6	82
+39.2	CD	B-NP	7	82
+%	NN	I-NP	8	82
+of	IN	B-PP	9	82
+the	DT	B-NP	10	82
+combined	VBN	O	11	82
+company	NN	B-NP	12	82
+.	.	O	13	82
+
+The	DT	B-NP	0	83
+company	NN	I-NP	1	83	ARG0
+'s	POS	B-NP	2	83
+lean	JJ	I-NP	3	83
+operation	NN	I-NP	4	83	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	5	83
+analysts	NNS	B-NP	6	83
+said	VBD	O	7	83
+COMMA	COMMA	O	8	83
+allowed	VBD	O	9	83
+sharp-rising	NN	B-NP	10	83
+sales	NNS	I-NP	11	83
+from	IN	B-PP	12	83
+its	PRP$	B-NP	13	83
+cholesterol	NN	I-NP	14	83
+drug	NN	I-NP	15	83
+COMMA	COMMA	O	16	83
+Lopid	NNP	B-NP	17	83
+COMMA	COMMA	O	18	83
+to	TO	O	19	83
+power	VB	O	20	83
+earnings	NNS	B-NP	21	83
+growth	NN	I-NP	22	83
+.	.	O	23	83
+
+``	``	O	0	84
+While	IN	O	1	84
+our	PRP$	B-NP	2	84	ARG0
+international	JJ	I-NP	3	84	ARGM-LOC
+operations	NNS	I-NP	4	84	PRED	ABILITY-WITH-AGENT
+showed	VBD	O	5	84
+strong	JJ	B-NP	6	84
+growth	NN	I-NP	7	84
+COMMA	COMMA	O	8	84
+our	PRP$	B-NP	9	84
+domestic	JJ	I-NP	10	84
+business	NN	I-NP	11	84
+was	VBD	O	12	84
+substantially	RB	B-ADVP	13	84
+below	IN	B-PP	14	84
+expectations	NNS	B-NP	15	84
+COMMA	COMMA	O	16	84
+''	''	O	17	84
+said	VBD	O	18	84
+Paul	NNP	B-NP	19	84
+Newton	NNP	I-NP	20	84
+COMMA	COMMA	O	21	84
+president	NN	B-NP	22	84
+and	CC	O	23	84
+chief	JJ	B-NP	24	84
+executive	JJ	I-NP	25	84
+officer	NN	I-NP	26	84
+.	.	O	27	84
+
+In	IN	B-PP	0	85
+the	DT	B-NP	1	85
+same	JJ	I-NP	2	85
+month	NN	I-NP	3	85
+COMMA	COMMA	O	4	85
+the	DT	B-NP	5	85
+Office	NNP	I-NP	6	85
+of	IN	B-PP	7	85
+Thrift	NNP	B-NP	8	85
+Supervision	NNP	I-NP	9	85
+ordered	VBD	O	10	85
+the	DT	B-NP	11	85
+institution	NN	I-NP	12	85
+to	TO	O	13	85
+stop	VB	O	14	85
+paying	VBG	O	15	85
+common	JJ	B-NP	16	85
+stock	NN	I-NP	17	85
+dividends	NNS	I-NP	18	85
+until	IN	O	19	85
+its	PRP$	B-NP	20	85	ARG0
+operations	NNS	I-NP	21	85	PRED	ABILITY-WITH-AGENT
+were	VBD	O	22	85
+on	IN	B-PP	23	85
+track	NN	B-NP	24	85
+.	.	O	25	85
+
+Wyse	NNP	B-NP	0	86
+Technology	NNP	I-NP	1	86
+COMMA	COMMA	O	2	86
+for	IN	O	3	86
+instance	NN	B-NP	4	86
+COMMA	COMMA	O	5	86
+is	VBZ	O	6	86
+considered	VBN	O	7	86
+a	DT	B-NP	8	86
+candidate	NN	I-NP	9	86
+to	TO	O	10	86
+sell	VB	O	11	86
+its	PRP$	B-NP	12	86	ARG0
+troubled	VBN	O	13	86
+operation	NN	B-NP	14	86	PRED	ABILITY-WITH-AGENT
+.	.	O	15	86
+
+The	DT	B-NP	0	87
+nation	NN	I-NP	1	87	ARGM-LOC
+'s	POS	B-NP	2	87
+largest	JJS	I-NP	3	87	ARGM-EXT
+short-selling	NN	I-NP	4	87
+operation	NN	I-NP	5	87	PRED	ABILITY-WITH-AGENT
+is	VBZ	O	6	87
+Feshbach	NNP	B-NP	7	87
+Brothers	NNP	I-NP	8	87
+COMMA	COMMA	O	9	87
+Palo	NNP	B-NP	10	87
+Alto	NNP	I-NP	11	87
+COMMA	COMMA	O	12	87
+Calif.	NNP	B-NP	13	87
+COMMA	COMMA	O	14	87
+which	WDT	B-NP	15	87
+said	VBD	O	16	87
+last	JJ	B-NP	17	87
+May	NNP	I-NP	18	87
+that	IN	B-SBAR	19	87
+its	PRP$	B-NP	20	87
+short	JJ	I-NP	21	87
+positions	NNS	I-NP	22	87
+had	VBD	O	23	87
+shown	VBN	O	24	87
+losses	NNS	B-NP	25	87
+of	IN	B-PP	26	87
+10	CD	B-NP	27	87
+%	NN	I-NP	28	87
+for	IN	B-PP	29	87
+the	DT	B-NP	30	87
+year	NN	I-NP	31	87
+up	IN	B-PP	32	87
+to	IN	B-PP	33	87
+that	DT	B-NP	34	87
+point	NN	I-NP	35	87
+.	.	O	36	87
+
+Most	DT	B-NP	0	88	ARG0
+of	IN	B-PP	1	88
+the	DT	B-NP	2	88
+10	CD	I-NP	3	88
+have	VBP	O	4	88	SUPPORT
+big	JJ	B-NP	5	88
+commodity-chemical	JJ	I-NP	6	88	ARG1
+operations	NNS	I-NP	7	88	PRED	ABILITY-WITH-AGENT
+.	.	O	8	88
+
+It	EX	B-NP	0	89
+would	MD	O	1	89
+be	VB	O	2	89
+my	PRP$	B-NP	3	89
+inclination	NN	I-NP	4	89
+to	TO	O	5	89
+advise	VB	O	6	89
+clients	NNS	B-NP	7	89	ARG0
+not	RB	B-ADVP	8	89
+to	TO	O	9	89
+sell	VB	O	10	89
+COMMA	COMMA	O	11	89
+to	TO	O	12	89
+look	VB	O	13	89	SUPPORT
+for	IN	B-PP	14	89	SUPPORT
+an	DT	B-NP	15	89
+opportunity	NN	I-NP	16	89	PRED	ABILITY-WITH-AGENT
+to	TO	O	17	89
+buy	VB	O	18	89	ARG1-PRD
+COMMA	COMMA	O	19	89
+''	''	O	20	89
+Mr.	NNP	B-NP	21	89
+Ball	NNP	I-NP	22	89
+told	VBD	O	23	89
+the	DT	B-NP	24	89
+brokers	NNS	I-NP	25	89
+.	.	O	26	89
+
+The	DT	B-NP	0	90
+release	NN	I-NP	1	90
+cautioned	VBD	O	2	90
+that	IN	B-SBAR	3	90
+``	``	O	4	90
+there	EX	B-NP	5	90
+are	VBP	O	6	90
+significant	JJ	B-NP	7	90
+differences	NNS	I-NP	8	90
+between	IN	B-PP	9	90
+the	DT	B-NP	10	90
+current	JJ	I-NP	11	90
+environment	NN	I-NP	12	90
+and	CC	O	13	90
+that	DT	B-NP	14	90
+of	IN	B-PP	15	90
+October	NNP	B-NP	16	90
+1987	CD	I-NP	17	90
+''	''	O	18	90
+and	CC	B-CONJP	19	90
+that	IN	B-SBAR	20	90
+there	EX	B-NP	21	90
+are	VBP	O	22	90
+still	RB	B-ADVP	23	90
+``	``	O	24	90
+attractive	JJ	B-NP	25	90
+investment	NN	I-NP	26	90	ARG1
+opportunities	NNS	I-NP	27	90	PRED	ABILITY-WITH-AGENT
+''	''	O	28	90
+in	IN	B-PP	29	90
+the	DT	B-NP	30	90
+stock	NN	I-NP	31	90
+market	NN	I-NP	32	90
+.	.	O	33	90
+
+``	``	O	0	91
+We	PRP	B-NP	1	91
+view	VBP	O	2	91
+{	(	B-NP	3	91
+Friday	NNP	I-NP	4	91
+'s	POS	B-NP	5	91
+}	)	O	6	91
+market	NN	B-NP	7	91
+decline	NN	I-NP	8	91
+as	IN	B-SBAR	9	91
+offering	VBG	O	10	91
+us	PRP	B-NP	11	91
+a	DT	B-NP	12	91
+buying	NN	I-NP	13	91	ARG1
+opportunity	NN	I-NP	14	91	PRED	ABILITY-WITH-AGENT
+as	IN	B-SBAR	15	91
+long-term	JJ	B-NP	16	91
+investors	NNS	I-NP	17	91
+COMMA	COMMA	O	18	91
+''	''	O	19	91
+a	DT	B-NP	20	91
+recording	NN	I-NP	21	91
+at	IN	B-PP	22	91
+Gabelli	NNP	B-NP	23	91
+&	NNP	I-NP	24	91
+Co.	NNP	I-NP	25	91
+funds	NNS	B-NP	26	91
+said	VBD	O	27	91
+over	IN	B-PP	28	91
+the	DT	B-NP	29	91
+weekend	NN	I-NP	30	91
+.	.	O	31	91
+
+Bankers	NNS	B-NP	0	92
+said	VBD	O	1	92
+warrants	NNS	B-NP	2	92
+for	IN	B-PP	3	92
+Hong	NNP	B-NP	4	92
+Kong	NNP	I-NP	5	92
+stocks	NNS	B-NP	6	92
+are	VBP	O	7	92
+attractive	JJ	B-ADJP	8	92
+because	IN	O	9	92
+they	PRP	B-NP	10	92
+give	VBP	O	11	92	SUPPORT
+foreign	JJ	B-NP	12	92
+investors	NNS	I-NP	13	92	ARG0
+COMMA	COMMA	O	14	92
+wary	JJ	B-ADJP	15	92
+of	IN	B-PP	16	92
+volatility	NN	B-NP	17	92
+in	IN	B-PP	18	92
+the	DT	B-NP	19	92
+colony	NN	I-NP	20	92
+'s	POS	B-NP	21	92
+stock	NN	I-NP	22	92
+market	NN	I-NP	23	92
+COMMA	COMMA	O	24	92
+an	DT	B-NP	25	92
+opportunity	NN	I-NP	26	92	PRED	ABILITY-WITH-AGENT
+to	TO	O	27	92
+buy	VB	O	28	92	ARG1-PRD
+shares	NNS	B-NP	29	92
+without	IN	B-PP	30	92
+taking	VBG	O	31	92
+too	RB	B-ADVP	32	92
+great	JJ	B-NP	33	92
+a	DT	I-NP	34	92
+risk	NN	I-NP	35	92
+.	.	O	36	92
+
+They	PRP	B-NP	0	93
+market	VBP	O	1	93
+cable-TV	NN	B-NP	2	93
+on	IN	B-PP	3	93
+the	DT	B-NP	4	93
+very	JJ	I-NP	5	93
+grazing	NN	I-NP	6	93	ARG1
+opportunities	NNS	I-NP	7	93	PRED	ABILITY-WITH-AGENT
+CNN	NNP	B-NP	8	93
+seeks	VBZ	O	9	93
+to	TO	O	10	93
+discourage	VB	O	11	93
+.	.	O	12	93
+
+Or	CC	B-CONJP	0	94
+is	VBZ	O	1	94
+this	DT	B-NP	2	94
+an	DT	B-NP	3	94
+extraordinary	JJ	I-NP	4	94
+buying	NN	I-NP	5	94	ARG1
+opportunity	NN	I-NP	6	94	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	7	94
+just	RB	B-ADVP	8	94
+like	IN	O	9	94
+Oct.	NNP	B-NP	10	94
+19	CD	I-NP	11	94
+COMMA	COMMA	I-NP	12	94
+1987	CD	I-NP	13	94
+COMMA	COMMA	O	14	94
+eventually	RB	B-ADVP	15	94
+turned	VBD	O	16	94
+out	RP	B-ADVP	17	94
+to	TO	O	18	94
+be	VB	O	19	94
+?	.	O	20	94
+
+Asked	VBN	O	0	95
+about	IN	B-PP	1	95
+a	DT	B-NP	2	95
+bid	NN	I-NP	3	95
+for	IN	B-PP	4	95
+Quantum	NNP	B-NP	5	95
+COMMA	COMMA	O	6	95
+a	DT	B-NP	7	95
+BP	NNP	I-NP	8	95
+spokesman	NN	I-NP	9	95
+says	VBZ	O	10	95
+COMMA	COMMA	O	11	95
+``	``	O	12	95
+We	PRP	B-NP	13	95	ARG0
+pretty	RB	B-ADVP	14	95
+much	RB	B-ADVP	15	95
+have	VBP	O	16	95	SUPPORT
+a	DT	B-NP	17	95
+policy	NN	I-NP	18	95	PRED	ABILITY-WITH-AGENT
+of	IN	B-PP	19	95
+not	RB	B-ADVP	20	95
+commenting	VBG	O	21	95	ARG1
+on	IN	B-PP	22	95
+rumors	NNS	B-NP	23	95
+COMMA	COMMA	O	24	95
+and	CC	B-CONJP	25	95
+I	PRP	B-NP	26	95
+think	VBP	O	27	95
+that	DT	B-NP	28	95
+falls	VBZ	O	29	95
+in	IN	B-PP	30	95
+that	DT	B-NP	31	95
+category	NN	I-NP	32	95
+.	.	O	33	95
+
+Most	DT	B-NP	0	96
+of	IN	B-PP	1	96
+the	DT	B-NP	2	96
+Western	JJ	I-NP	3	96
+European	NNP	I-NP	4	96
+members	NNS	I-NP	5	96
+of	IN	B-PP	6	96
+Coordinating	NNP	B-NP	7	96
+Committee	NNP	I-NP	8	96
+on	IN	B-PP	9	96
+Multilateral	NNP	B-NP	10	96
+Export	NNP	I-NP	11	96
+Controls	NNP	I-NP	12	96
+COMMA	COMMA	O	13	96
+the	DT	B-NP	14	96
+unofficial	JJ	I-NP	15	96
+forum	NN	I-NP	16	96
+through	IN	B-PP	17	96
+which	WDT	B-NP	18	96
+the	DT	B-NP	19	96
+U.S.	NNP	I-NP	20	96
+and	CC	O	21	96
+its	PRP$	B-NP	22	96
+allies	NNS	I-NP	23	96
+align	VBP	O	24	96
+their	PRP$	B-NP	25	96	ARG0
+export-control	NN	I-NP	26	96	ARG1
+policies	NNS	I-NP	27	96	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	28	96
+are	VBP	O	29	96
+expected	VBN	O	30	96
+to	TO	O	31	96
+argue	VB	O	32	96
+for	IN	B-PP	33	96
+more	RBR	B-ADVP	34	96
+liberal	JJ	B-NP	35	96
+export	NN	I-NP	36	96
+rules	NNS	I-NP	37	96
+at	IN	B-PP	38	96
+a	DT	B-NP	39	96
+meeting	NN	I-NP	40	96
+to	TO	O	41	96
+be	VB	O	42	96
+held	VBN	O	43	96
+in	IN	B-PP	44	96
+Paris	NNP	B-NP	45	96
+Oct.	NNP	B-NP	46	96
+25	CD	I-NP	47	96
+and	CC	I-NP	48	96
+26	CD	I-NP	49	96
+.	.	O	50	96
+
+The	DT	B-NP	0	97
+Bush	NNP	I-NP	1	97
+administration	NN	I-NP	2	97
+has	VBZ	O	3	97
+sent	VBN	O	4	97
+conflicting	JJ	B-NP	5	97
+signals	NNS	I-NP	6	97
+about	IN	B-PP	7	97
+its	PRP$	B-NP	8	97	ARG0
+export-control	NN	I-NP	9	97	ARG1
+policies	NNS	I-NP	10	97	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	11	97
+reflecting	VBG	O	12	97
+unhealed	JJ	B-NP	13	97
+divisions	NNS	I-NP	14	97
+among	IN	B-PP	15	97
+several	DT	O	16	97
+competing	VBG	B-ADJP	17	97
+agencies	NNS	B-NP	18	97
+.	.	O	19	97
+
+``	``	O	0	98
+This	DT	B-NP	1	98
+is	VBZ	O	2	98
+n't	RB	B-ADVP	3	98
+a	DT	B-NP	4	98
+change	NN	I-NP	5	98
+in	IN	B-PP	6	98
+government	NN	B-NP	7	98	ARG0
+policy	NN	I-NP	8	98	PRED	ABILITY-WITH-AGENT
+;	:	O	9	98
+this	DT	B-NP	10	98
+provision	NN	I-NP	11	98
+has	VBZ	O	12	98
+been	VBN	O	13	98
+used	VBN	O	14	98
+before	RB	B-ADVP	15	98
+COMMA	COMMA	O	16	98
+''	''	O	17	98
+said	VBD	O	18	98
+Jodi	NNP	B-NP	19	98
+Redmond	NNP	I-NP	20	98
+COMMA	COMMA	O	21	98
+press	NN	B-NP	22	98
+secretary	NN	I-NP	23	98
+for	IN	B-PP	24	98
+Harvie	NNP	B-NP	25	98
+Andre	NNP	I-NP	26	98
+COMMA	COMMA	O	27	98
+Canada	NNP	B-NP	28	98
+'s	POS	B-NP	29	98
+minister	NN	I-NP	30	98
+of	IN	B-PP	31	98
+industry	NN	B-NP	32	98
+COMMA	COMMA	I-NP	33	98
+science	NN	I-NP	34	98
+and	CC	I-NP	35	98
+technology	NN	I-NP	36	98
+.	.	O	37	98
+
+The	DT	B-NP	0	99
+administration	NN	I-NP	1	99	ARG0
+'s	POS	B-NP	2	99
+policy	NN	I-NP	3	99	PRED	ABILITY-WITH-AGENT
+was	VBD	O	4	99
+stated	VBN	O	5	99
+in	IN	B-PP	6	99
+a	DT	B-NP	7	99
+friend-of-the-court	NN	I-NP	8	99
+brief	NN	I-NP	9	99
+urging	VBG	O	10	99
+the	DT	B-NP	11	99
+Supreme	NNP	B-NP	12	99
+Court	NNP	I-NP	13	99
+to	TO	O	14	99
+give	VB	O	15	99
+states	NNS	B-NP	16	99
+more	JJR	B-NP	17	99
+leeway	NN	I-NP	18	99
+to	TO	O	19	99
+restrict	VB	O	20	99
+abortions	NNS	B-NP	21	99
+.	.	O	22	99
+
+Secretary	NNP	B-NP	0	100
+of	IN	B-PP	1	100
+State	NNP	B-NP	2	100
+Baker	NNP	B-NP	3	100
+emphasized	VBD	O	4	100
+Friday	NNP	B-NP	5	100
+that	IN	B-SBAR	6	100
+the	DT	B-NP	7	100
+new	JJ	I-NP	8	100	ARGM-TMP
+policy	NN	I-NP	9	100	PRED	ABILITY-WITH-AGENT
+would	MD	O	10	100
+n't	RB	B-ADVP	11	100
+be	VB	O	12	100
+invoked	VBN	O	13	100
+by	IN	B-PP	14	100
+the	DT	B-NP	15	100
+Bush	NNP	I-NP	16	100
+administration	NN	I-NP	17	100
+without	IN	B-PP	18	100
+full	JJ	B-NP	19	100
+consideration	NN	I-NP	20	100
+of	IN	B-PP	21	100
+foreign-policy	NN	B-NP	22	100
+implications	NNS	I-NP	23	100
+.	.	O	24	100
+
+``	``	O	0	101
+I	PRP	B-NP	1	101
+think	VBP	O	2	101
+the	DT	B-NP	3	101
+Friday	NNP	I-NP	4	101
+report	NN	I-NP	5	101
+COMMA	COMMA	O	6	101
+combined	VBN	O	7	101
+with	IN	B-PP	8	101
+the	DT	B-NP	9	101
+actions	NNS	I-NP	10	101
+of	IN	B-PP	11	101
+the	DT	B-NP	12	101
+Fed	NNP	I-NP	13	101
+COMMA	COMMA	O	14	101
+weakened	VBD	O	15	101
+the	DT	B-NP	16	101
+belief	NN	B-NP	17	101
+that	IN	O	18	101
+there	EX	B-NP	19	101
+was	VBD	O	20	101
+going	VBG	O	21	101
+to	TO	O	22	101
+be	VB	O	23	101
+an	DT	B-NP	24	101
+imminent	JJ	I-NP	25	101
+easing	NN	I-NP	26	101
+of	IN	B-PP	27	101
+monetary	JJ	B-NP	28	101	ARG1
+policy	NN	I-NP	29	101	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	30	101
+''	''	O	31	101
+said	VBD	O	32	101
+Robert	NNP	B-NP	33	101
+Dederick	NNP	I-NP	34	101
+COMMA	COMMA	O	35	101
+chief	JJ	B-NP	36	101
+economist	NN	I-NP	37	101
+at	IN	B-PP	38	101
+Northern	NNP	B-NP	39	101
+Trust	NNP	I-NP	40	101
+Co.	NNP	I-NP	41	101
+in	IN	B-PP	42	101
+Chicago	NNP	B-NP	43	101
+.	.	O	44	101
+
+Some	DT	B-NP	0	102
+analysts	NNS	I-NP	1	102
+say	VBP	O	2	102
+uncertainty	NN	B-NP	3	102
+about	IN	B-PP	4	102
+Washington	NNP	B-NP	5	102	ARG0
+'s	POS	B-NP	6	102
+anti-takeover	NN	I-NP	7	102	ARG1
+policy	NN	I-NP	8	102	PRED	ABILITY-WITH-AGENT
+was	VBD	O	9	102
+one	CD	B-NP	10	102
+reason	NN	I-NP	11	102
+that	DT	O	12	102
+financing	NN	B-NP	13	102
+for	IN	B-PP	14	102
+the	DT	O	15	102
+United	NNP	B-NP	16	102
+Airlines	NNP	I-NP	17	102
+takeover	NN	B-NP	18	102
+fell	VBD	O	19	102
+through	RP	B-ADVP	20	102
+--	:	O	21	102
+the	DT	B-NP	22	102
+event	NN	I-NP	23	102
+that	WDT	B-NP	24	102
+triggered	VBD	O	25	102
+the	DT	B-NP	26	102
+market	NN	I-NP	27	102
+drop	NN	I-NP	28	102
+.	.	O	29	102
+
+But	CC	B-CONJP	0	103
+administration	NN	B-NP	1	103
+officials	NNS	I-NP	2	103
+privately	RB	B-ADVP	3	103
+agree	VBP	O	4	103
+with	IN	B-PP	5	103
+Mr.	NNP	B-NP	6	103
+Panetta	NNP	I-NP	7	103
+COMMA	COMMA	O	8	103
+who	WP	B-NP	9	103
+said	VBD	O	10	103
+a	DT	B-NP	11	103
+precipitous	JJ	I-NP	12	103
+drop	NN	I-NP	13	103
+this	DT	B-NP	14	103
+week	NN	I-NP	15	103
+``	``	O	16	103
+is	VBZ	O	17	103
+going	VBG	O	18	103
+to	TO	O	19	103
+force	VB	O	20	103
+the	DT	B-NP	21	103
+president	NN	I-NP	22	103
+and	CC	O	23	103
+Congress	NNP	B-NP	24	103
+to	TO	O	25	103
+take	VB	O	26	103
+a	DT	O	27	103
+much	RB	B-ADVP	28	103
+harder	JJR	B-NP	29	103
+look	NN	I-NP	30	103
+at	IN	B-PP	31	103
+fiscal	JJ	B-NP	32	103	ARG1
+policy	NN	I-NP	33	103	PRED	ABILITY-WITH-AGENT
+.	.	O	34	103
+''	''	O	35	103
+
+At	IN	B-PP	0	104
+the	DT	B-NP	1	104
+very	JJ	I-NP	2	104
+moment	NN	I-NP	3	104
+that	DT	O	4	104
+Senate	NNP	B-NP	5	104
+Republicans	NNPS	I-NP	6	104
+were	VBD	O	7	104
+negotiating	VBG	O	8	104
+a	DT	B-NP	9	104
+deal	NN	I-NP	10	104
+to	TO	O	11	104
+exclude	VB	O	12	104
+capital	NN	B-NP	13	104
+gains	NNS	I-NP	14	104
+from	IN	B-PP	15	104
+the	DT	B-NP	16	104
+deficit-reduction	NN	I-NP	17	104
+legislation	NN	I-NP	18	104
+COMMA	COMMA	O	19	104
+White	NNP	B-NP	20	104
+House	NNP	I-NP	21	104
+spokesman	NN	B-NP	22	104
+Marlin	NNP	B-NP	23	104
+Fitzwater	NNP	I-NP	24	104
+told	VBD	O	25	104
+reporters	NNS	B-NP	26	104
+that	IN	B-SBAR	27	104
+it	EX	B-NP	28	104
+was	VBD	O	29	104
+the	DT	B-NP	30	104
+president	NN	I-NP	31	104	ARG0
+'s	POS	B-NP	32	104
+policy	NN	I-NP	33	104	PRED	ABILITY-WITH-AGENT
+to	TO	O	34	104
+include	VB	O	35	104	ARG1-PRD
+it	PRP	B-NP	36	104
+.	.	O	37	104
+
+But	CC	B-CONJP	0	105
+Mr.	NNP	B-NP	1	105
+Butcher	NNP	I-NP	2	105
+'s	POS	B-NP	3	105
+comments	NNS	I-NP	4	105
+make	VBP	O	5	105
+one	CD	B-NP	6	105
+thing	NN	I-NP	7	105
+clear	JJ	B-ADJP	8	105
+:	:	O	9	105
+Some	DT	B-NP	10	105
+on	IN	B-PP	11	105
+Wall	NNP	B-NP	12	105
+Street	NNP	I-NP	13	105
+wonder	VBP	O	14	105
+if	IN	B-SBAR	15	105
+anyone	NN	B-NP	16	105
+is	VBZ	O	17	105
+in	IN	B-PP	18	105
+charge	NN	B-NP	19	105
+of	IN	B-PP	20	105
+economic	JJ	B-NP	21	105	ARG1
+policy	NN	I-NP	22	105	PRED	ABILITY-WITH-AGENT
+.	.	O	23	105
+
+Fed	NNP	B-NP	0	106
+officials	NNS	I-NP	1	106
+may	MD	O	2	106
+protest	VB	O	3	106
+that	IN	B-SBAR	4	106
+this	DT	B-NP	5	106
+does	VBZ	O	6	106
+n't	RB	B-ADVP	7	106
+necessarily	RB	B-ADVP	8	106
+mean	VB	O	9	106
+a	DT	B-NP	10	106
+fundamental	JJ	I-NP	11	106
+change	NN	I-NP	12	106
+in	IN	B-PP	13	106
+their	PRP$	B-NP	14	106	ARG0
+interest-rate	NN	I-NP	15	106	ARG1
+policies	NNS	I-NP	16	106	PRED	ABILITY-WITH-AGENT
+.	.	O	17	106
+
+``	``	O	0	107
+These	DT	B-NP	1	107
+are	VBP	O	2	107
+n't	RB	B-ADVP	3	107
+mature	JJ	B-NP	4	107
+assets	NNS	I-NP	5	107
+COMMA	COMMA	O	6	107
+but	CC	B-CONJP	7	107
+they	PRP	B-NP	8	107	ARG0
+have	VBP	O	9	107	SUPPORT
+the	DT	B-NP	10	107
+potential	NN	I-NP	11	107	PRED	ABILITY-WITH-AGENT
+to	TO	O	12	107
+be	VB	O	13	107	ARG1
+so	RB	B-ADVP	14	107
+COMMA	COMMA	O	15	107
+''	''	O	16	107
+said	VBD	O	17	107
+Mr.	NNP	B-NP	18	107
+Shidler	NNP	I-NP	19	107
+.	.	O	20	107
+
+Atco	NNP	B-NP	0	108
+Ltd.	NNP	I-NP	1	108
+said	VBD	O	2	108
+its	PRP$	B-NP	3	108
+utilities	NNS	I-NP	4	108
+arm	NN	I-NP	5	108
+is	VBZ	O	6	108
+considering	VBG	O	7	108
+building	VBG	O	8	108
+new	JJ	B-NP	9	108
+electric	JJ	I-NP	10	108	ARG1
+power	NN	I-NP	11	108	PRED	ABILITY/ATTRIBUTE
+plants	NNS	I-NP	12	108
+COMMA	COMMA	O	13	108
+some	DT	B-NP	14	108
+valued	VBN	O	15	108
+at	IN	B-PP	16	108
+more	RBR	B-ADVP	17	108
+than	IN	O	18	108
+one	CD	B-NP	19	108
+billion	CD	I-NP	20	108
+Canadian	JJ	B-NP	21	108
+dollars	NNS	I-NP	22	108
+(	(	O	23	108
+US$	$	O	24	108
+851	CD	B-NP	25	108
+million	CD	I-NP	26	108
+)	)	O	27	108
+COMMA	COMMA	O	28	108
+in	IN	B-PP	29	108
+Great	NNP	B-NP	30	108
+Britain	NNP	I-NP	31	108
+and	CC	B-ADVP	32	108
+elsewhere	RB	B-ADVP	33	108
+.	.	O	34	108
+
+C.S.	NNP	B-NP	0	109
+Richardson	NNP	I-NP	1	109
+COMMA	COMMA	O	2	109
+Atco	NNP	B-NP	3	109
+'s	POS	B-NP	4	109
+senior	JJ	I-NP	5	109
+vice	NN	I-NP	6	109
+president	NN	I-NP	7	109
+COMMA	COMMA	O	8	109
+finance	NN	B-NP	9	109
+COMMA	COMMA	O	10	109
+said	VBD	O	11	109
+its	PRP$	O	12	109
+50.1%-owned	VBN	O	13	109
+Canadian	NNP	B-NP	14	109
+Utilities	NNP	I-NP	15	109
+Ltd.	NNP	I-NP	16	109
+unit	NN	B-NP	17	109
+is	VBZ	O	18	109
+reviewing	VBG	O	19	109
+cogeneration	NN	B-NP	20	109
+projects	NNS	I-NP	21	109
+in	IN	B-PP	22	109
+eastern	JJ	B-NP	23	109
+Canada	NNP	I-NP	24	109
+COMMA	COMMA	O	25	109
+and	CC	O	26	109
+conventional	JJ	B-NP	27	109
+electric	JJ	I-NP	28	109	ARG1
+power	NN	I-NP	29	109	PRED	ABILITY/ATTRIBUTE
+generating	NN	I-NP	30	109
+plants	NNS	I-NP	31	109
+elsewhere	RB	B-ADVP	32	109
+COMMA	COMMA	O	33	109
+including	VBG	O	34	109
+Britain	NNP	B-NP	35	109
+COMMA	COMMA	O	36	109
+where	IN	B-ADVP	37	109
+the	DT	B-NP	38	109
+British	JJ	I-NP	39	109
+government	NN	I-NP	40	109
+plans	VBZ	O	41	109
+to	TO	O	42	109
+allow	VB	O	43	109
+limited	VBN	O	44	109
+competition	NN	B-NP	45	109
+in	IN	B-PP	46	109
+electrical	JJ	B-NP	47	109
+generation	NN	I-NP	48	109
+from	IN	B-PP	49	109
+private-sector	NN	B-NP	50	109
+suppliers	NNS	I-NP	51	109
+as	IN	B-SBAR	52	109
+part	NN	B-NP	53	109
+of	IN	B-PP	54	109
+its	PRP$	B-NP	55	109
+privatization	NN	I-NP	56	109
+program	NN	I-NP	57	109
+.	.	O	58	109
+
+Mr.	NNP	B-NP	0	110
+Stram	NNP	I-NP	1	110
+said	VBD	O	2	110
+Enron	NNP	B-NP	3	110
+is	VBZ	O	4	110
+considering	VBG	O	5	110
+building	VBG	O	6	110
+gas-fired	VBN	O	7	110	ARG1
+power	NN	B-NP	8	110	PRED	ABILITY/ATTRIBUTE
+plants	NNS	I-NP	9	110
+in	IN	B-PP	10	110
+the	DT	B-NP	11	110
+U.K.	NNP	I-NP	12	110
+capable	JJ	B-ADJP	13	110
+of	IN	B-PP	14	110
+producing	VBG	O	15	110
+about	RB	B-ADVP	16	110
+500	CD	B-NP	17	110
+megawatts	NNS	I-NP	18	110
+of	IN	B-PP	19	110
+power	NN	B-NP	20	110
+at	IN	B-PP	21	110
+a	DT	B-NP	22	110
+cost	NN	I-NP	23	110
+of	IN	B-PP	24	110
+about	RB	B-ADVP	25	110
+$	$	O	26	110
+300	CD	B-NP	27	110
+million	CD	I-NP	28	110
+to	TO	O	29	110
+$	$	O	30	110
+400	CD	B-NP	31	110
+million	CD	I-NP	32	110
+.	.	O	33	110
+
+Mr.	NNP	B-NP	0	111
+Stram	NNP	I-NP	1	111
+said	VBD	O	2	111
+Enron	NNP	B-NP	3	111
+is	VBZ	O	4	111
+considering	VBG	O	5	111
+building	VBG	O	6	111
+gas-fired	VBN	O	7	111
+power	NN	B-NP	8	111
+plants	NNS	I-NP	9	111
+in	IN	B-PP	10	111
+the	DT	B-NP	11	111
+U.K.	NNP	I-NP	12	111
+capable	JJ	B-ADJP	13	111
+of	IN	B-PP	14	111
+producing	VBG	O	15	111
+about	RB	B-ADVP	16	111
+500	CD	B-NP	17	111
+megawatts	NNS	I-NP	18	111	ARG2
+of	IN	B-PP	19	111
+power	NN	B-NP	20	111	PRED	ABILITY/ATTRIBUTE
+at	IN	B-PP	21	111
+a	DT	B-NP	22	111
+cost	NN	I-NP	23	111
+of	IN	B-PP	24	111
+about	RB	B-ADVP	25	111
+$	$	O	26	111
+300	CD	B-NP	27	111
+million	CD	I-NP	28	111
+to	TO	O	29	111
+$	$	O	30	111
+400	CD	B-NP	31	111
+million	CD	I-NP	32	111
+.	.	O	33	111
+
+In	IN	B-PP	0	112
+the	DT	O	1	112
+seven	CD	O	2	112
+Supreme	NNP	B-NP	3	112
+Court	NNP	I-NP	4	112
+terms	NNS	B-NP	5	112
+from	IN	B-PP	6	112
+the	DT	B-NP	7	112
+fall	NN	I-NP	8	112
+of	IN	B-PP	9	112
+1962	CD	B-NP	10	112
+through	IN	B-PP	11	112
+the	DT	B-NP	12	112
+spring	NN	I-NP	13	112
+of	IN	B-PP	14	112
+1967	CD	B-NP	15	112
+COMMA	COMMA	O	16	112
+the	DT	B-NP	17	112
+height	NN	I-NP	18	112
+of	IN	B-PP	19	112
+the	DT	B-NP	20	112
+Warren	NNP	B-NP	21	112
+Court	NNP	I-NP	22	112	ARG0
+'s	POS	B-NP	23	112
+power	NN	I-NP	24	112	PRED	ABILITY/ATTRIBUTE
+COMMA	COMMA	O	25	112
+Justice	NNP	B-NP	26	112
+Brennan	NNP	I-NP	27	112
+cast	VBD	O	28	112
+only	RB	B-ADVP	29	112
+25	CD	B-NP	30	112
+dissenting	VBG	I-NP	31	112
+votes	NNS	I-NP	32	112
+in	IN	B-PP	33	112
+555	CD	B-NP	34	112
+cases	NNS	I-NP	35	112
+decided	VBN	O	36	112
+by	IN	B-PP	37	112
+the	DT	B-NP	38	112
+court	NN	I-NP	39	112
+.	.	O	40	112
+
+A	DT	B-NP	0	113
+plan	NN	I-NP	1	113
+currently	RB	B-ADVP	2	113
+under	IN	B-PP	3	113
+study	NN	B-NP	4	113
+gives	VBZ	O	5	113
+Damascus	NNP	B-NP	6	113
+two	CD	B-NP	7	113
+years	NNS	I-NP	8	113
+to	TO	O	9	113
+pull	VB	O	10	113
+back	RB	B-PP	11	113
+to	IN	B-PP	12	113
+eastern	JJ	B-NP	13	113
+Lebanon	NNP	I-NP	14	113
+COMMA	COMMA	O	15	113
+starting	VBG	O	16	113
+from	IN	B-PP	17	113
+the	DT	B-NP	18	113
+time	NN	I-NP	19	113
+Beirut	NNP	B-NP	20	113
+'s	POS	B-NP	21	113
+legislature	NN	I-NP	22	113
+increases	VBZ	O	23	113
+political	JJ	B-NP	24	113
+power	NN	I-NP	25	113	PRED	ABILITY/ATTRIBUTE
+for	IN	B-PP	26	113
+Moslems	NNPS	B-NP	27	113	ARG0
+.	.	O	28	113
+
+The	DT	B-NP	0	114
+eventual	JJ	I-NP	1	114
+court	NN	I-NP	2	114
+decision	NN	I-NP	3	114
+could	MD	O	4	114
+become	VB	O	5	114
+a	DT	B-NP	6	114
+landmark	NN	I-NP	7	114
+in	IN	B-PP	8	114
+Dutch	JJ	B-NP	9	114
+corporate	JJ	I-NP	10	114
+law	NN	I-NP	11	114
+because	IN	O	12	114
+the	DT	B-NP	13	114
+lawsuit	NN	I-NP	14	114
+ASKO	NNP	B-NP	15	114
+plans	VBZ	O	16	114
+to	TO	O	17	114
+file	VB	O	18	114
+would	MD	O	19	114
+be	VB	O	20	114
+the	DT	B-NP	21	114
+first	JJ	I-NP	22	114
+to	TO	O	23	114
+challenge	VB	O	24	114
+the	DT	B-NP	25	114
+entire	JJ	I-NP	26	114
+principle	NN	I-NP	27	114
+and	CC	I-NP	28	114
+practice	NN	I-NP	29	114
+of	IN	B-PP	30	114
+companies	NNS	B-NP	31	114
+issuing	VBG	O	32	114
+voting	NN	B-NP	33	114
+preferred	VBN	O	34	114
+shares	NNS	B-NP	35	114
+to	IN	B-PP	36	114
+management-controlled	VBN	O	37	114
+trusts	NNS	B-NP	38	114
+to	TO	O	39	114
+dilute	VB	O	40	114
+voting	NN	B-NP	41	114	ARG1
+power	NN	I-NP	42	114	PRED	ABILITY/ATTRIBUTE
+of	IN	B-PP	43	114
+common	JJ	B-NP	44	114
+stockholders	NNS	I-NP	45	114	ARG0
+.	.	O	46	114
+
+ASKO	NNP	B-NP	0	115
+says	VBZ	O	1	115
+the	DT	B-NP	2	115
+Dutch-based	VBN	O	3	115
+international	JJ	B-NP	4	115
+food	NN	I-NP	5	115
+retailer	NN	I-NP	6	115
+had	VBD	O	7	115
+n't	RB	B-ADVP	8	115
+reasonable	JJ	B-NP	9	115
+grounds	NNS	I-NP	10	115
+to	TO	O	11	115
+issue	VB	O	12	115
+preferred	VBN	O	13	115
+stock	NN	B-NP	14	115
+to	IN	B-PP	15	115
+a	DT	B-NP	16	115
+friendly	JJ	I-NP	17	115
+trust	NN	I-NP	18	115
+and	CC	B-CONJP	19	115
+thus	RB	O	20	115
+dilute	VB	O	21	115
+the	DT	B-NP	22	115
+worth	NN	I-NP	23	115
+and	CC	I-NP	24	115
+voting	NN	I-NP	25	115	ARG1
+power	NN	I-NP	26	115	PRED	ABILITY/ATTRIBUTE
+of	IN	B-PP	27	115
+ASKO	NNP	B-NP	28	115	ARG0
+and	CC	O	29	115
+other	JJ	B-NP	30	115
+shareholders	NNS	I-NP	31	115	ARG0
+.	.	O	32	115
+
+Atari	NNP	B-NP	0	116
+Corp.	NNP	I-NP	1	116
+'s	POS	B-NP	2	116
+Portfolio	NNP	I-NP	3	116	ARG0
+COMMA	COMMA	O	4	116
+introduced	VBN	O	5	116
+in	IN	B-PP	6	116
+Europe	NNP	B-NP	7	116
+two	CD	B-NP	8	116
+months	NNS	I-NP	9	116
+ago	RB	B-ADVP	10	116
+and	CC	O	11	116
+in	IN	B-PP	12	116
+the	DT	B-NP	13	116
+U.S.	NNP	I-NP	14	116
+in	IN	B-PP	15	116
+early	JJ	B-NP	16	116
+September	NNP	I-NP	17	116
+COMMA	COMMA	O	18	116
+weighs	VBZ	O	19	116
+less	RBR	B-ADVP	20	116
+than	IN	B-NP	21	116
+a	DT	I-NP	22	116
+pound	NN	I-NP	23	116
+COMMA	COMMA	O	24	116
+costs	VBZ	O	25	116
+a	DT	B-NP	26	116
+mere	NN	I-NP	27	116
+$	$	O	28	116
+400	CD	B-NP	29	116
+and	CC	B-CONJP	30	116
+runs	VBZ	O	31	116
+on	IN	B-PP	32	116
+three	CD	B-NP	33	116
+AA	NN	I-NP	34	116
+batteries	NNS	I-NP	35	116
+COMMA	COMMA	O	36	116
+yet	CC	B-CONJP	37	116
+has	VBZ	O	38	116	SUPPORT
+the	DT	B-NP	39	116
+power	NN	I-NP	40	116	PRED	ABILITY/ATTRIBUTE
+to	TO	O	41	116
+run	VB	O	42	116	ARG1-PRD
+some	DT	B-NP	43	116
+spreadsheets	NNS	I-NP	44	116
+and	CC	I-NP	45	116
+word	NN	I-NP	46	116
+processing	NN	I-NP	47	116
+programs	NNS	I-NP	48	116
+.	.	O	49	116
+
+I	PRP	B-NP	0	117
+disagree	VBP	O	1	117
+with	IN	B-PP	2	117
+the	DT	B-NP	3	117
+statement	NN	I-NP	4	117
+by	IN	B-PP	5	117
+Mr.	NNP	B-NP	6	117
+Lantos	NNP	I-NP	7	117
+that	IN	B-SBAR	8	117
+one	PRP	B-NP	9	117
+should	MD	O	10	117
+not	RB	B-ADVP	11	117
+draw	VB	O	12	117
+an	DT	B-NP	13	117
+adverse	JJ	I-NP	14	117
+inference	NN	I-NP	15	117
+against	IN	B-PP	16	117
+former	JJ	B-NP	17	117
+HUD	NNP	I-NP	18	117
+officials	NNS	I-NP	19	117
+who	WP	B-NP	20	117
+assert	VBP	O	21	117
+their	PRP$	O	22	117	ARG0
+Fifth	NNP	B-NP	23	117
+Amendment	NNP	I-NP	24	117
+privilege	NN	B-NP	25	117	PRED	ABILITY-WITH-AGENT
+against	IN	B-PP	26	117
+self-incrimination	NN	B-NP	27	117
+in	IN	B-PP	28	117
+congressional	JJ	B-NP	29	117
+hearings	NNS	I-NP	30	117
+.	.	O	31	117
+
+The	DT	B-NP	0	118
+Supreme	NNP	B-NP	1	118
+Court	NNP	I-NP	2	118
+and	CC	O	3	118
+some	DT	B-NP	4	118
+states	NNS	I-NP	5	118
+have	VBP	O	6	118
+specifically	RB	O	7	118
+recognized	VBN	O	8	118
+that	IN	B-SBAR	9	118
+``	``	O	10	118
+the	DT	B-NP	11	118
+Fifth	NNP	B-NP	12	118
+Amendment	NNP	I-NP	13	118
+does	VBZ	O	14	118
+not	CC	O	15	118
+preclude	VB	O	16	118
+the	DT	B-NP	17	118
+inference	NN	I-NP	18	118
+where	IN	B-ADVP	19	118
+the	DT	B-NP	20	118
+privilege	NN	I-NP	21	118	PRED	ABILITY-WITH-AGENT
+is	VBZ	O	22	118
+claimed	VBN	O	23	118	SUPPORT
+by	IN	B-PP	24	118	ARG0
+a	DT	B-NP	25	118
+party	NN	I-NP	26	118
+to	IN	B-PP	27	118
+a	DT	B-NP	28	118
+civil	JJ	I-NP	29	118
+cause	NN	I-NP	30	118
+.	.	O	31	118
+''	''	O	32	118
+
+But	CC	B-CONJP	0	119
+the	DT	B-NP	1	119
+Bush	NNP	I-NP	2	119
+administration	NN	I-NP	3	119
+says	VBZ	O	4	119
+it	PRP	B-NP	5	119
+wants	VBZ	O	6	119
+to	TO	O	7	119
+see	VB	O	8	119
+evidence	NN	B-NP	9	119
+that	IN	B-SBAR	10	119
+all	DT	B-NP	11	119
+Cocom	NNP	I-NP	12	119
+members	NNS	I-NP	13	119
+are	VBP	O	14	119
+complying	VBG	O	15	119
+fully	RB	B-ADVP	16	119
+with	IN	B-PP	17	119
+existing	NN	B-NP	18	119
+export-control	NN	I-NP	19	119	ARG1
+procedures	NNS	I-NP	20	119	PRED	ABILITY-WITH-AGENT
+before	IN	O	21	119
+it	PRP	B-NP	22	119
+will	MD	O	23	119
+support	VB	O	24	119
+further	JJR	B-NP	25	119
+liberalization	NN	I-NP	26	119
+.	.	O	27	119
+
+After	IN	O	0	120
+an	DT	B-NP	1	120
+explosion	NN	I-NP	2	120
+idled	VBD	O	3	120
+the	DT	B-NP	4	120
+plant	NN	I-NP	5	120
+in	IN	B-PP	6	120
+June	NNP	B-NP	7	120
+COMMA	COMMA	O	8	120
+the	DT	B-NP	9	120
+company	NN	I-NP	10	120	ARG0
+progressed	VBD	O	11	120
+in	IN	B-PP	12	120
+September	NNP	B-NP	13	120
+to	IN	B-PP	14	120
+within	IN	B-NP	15	120
+12	CD	I-NP	16	120
+hours	NNS	I-NP	17	120
+of	IN	B-PP	18	120
+completing	VBG	O	19	120	SUPPORT
+the	DT	B-NP	20	120
+drawn-out	JJ	I-NP	21	120
+process	NN	I-NP	22	120	PRED	ABILITY-WITH-AGENT
+of	IN	B-PP	23	120
+restarting	VBG	O	24	120	ARG1
+it	PRP	B-NP	25	120
+.	.	O	26	120
+
+Canadian	NNP	B-NP	0	121
+Utilities	NNP	I-NP	1	121
+is	VBZ	O	2	121
+n't	RB	B-ADVP	3	121
+alone	JJ	B-ADJP	4	121
+in	IN	B-PP	5	121
+exploring	VBG	O	6	121
+power	NN	B-NP	7	121
+generation	NN	I-NP	8	121
+opportunities	NNS	I-NP	9	121
+in	IN	B-PP	10	121
+Britain	NNP	B-NP	11	121
+COMMA	COMMA	O	12	121
+in	IN	B-PP	13	121
+anticipation	NN	B-NP	14	121
+of	IN	B-PP	15	121
+the	DT	B-NP	16	121
+privatization	NN	I-NP	17	121	ARG1
+program	NN	I-NP	18	121	PRED	ABILITY-WITH-AGENT
+.	.	O	19	121
+
+C.S.	NNP	B-NP	0	122
+Richardson	NNP	I-NP	1	122
+COMMA	COMMA	O	2	122
+Atco	NNP	B-NP	3	122
+'s	POS	B-NP	4	122
+senior	JJ	I-NP	5	122
+vice	NN	I-NP	6	122
+president	NN	I-NP	7	122
+COMMA	COMMA	O	8	122
+finance	NN	B-NP	9	122
+COMMA	COMMA	O	10	122
+said	VBD	O	11	122
+its	PRP$	O	12	122
+50.1%-owned	VBN	O	13	122
+Canadian	NNP	B-NP	14	122
+Utilities	NNP	I-NP	15	122
+Ltd.	NNP	I-NP	16	122
+unit	NN	B-NP	17	122
+is	VBZ	O	18	122
+reviewing	VBG	O	19	122
+cogeneration	NN	B-NP	20	122
+projects	NNS	I-NP	21	122
+in	IN	B-PP	22	122
+eastern	JJ	B-NP	23	122
+Canada	NNP	I-NP	24	122
+COMMA	COMMA	O	25	122
+and	CC	O	26	122
+conventional	JJ	B-NP	27	122
+electric	JJ	I-NP	28	122
+power	NN	I-NP	29	122
+generating	NN	I-NP	30	122
+plants	NNS	I-NP	31	122
+elsewhere	RB	B-ADVP	32	122
+COMMA	COMMA	O	33	122
+including	VBG	O	34	122
+Britain	NNP	B-NP	35	122
+COMMA	COMMA	O	36	122
+where	IN	B-ADVP	37	122
+the	DT	B-NP	38	122
+British	JJ	I-NP	39	122
+government	NN	I-NP	40	122
+plans	VBZ	O	41	122
+to	TO	O	42	122
+allow	VB	O	43	122
+limited	VBN	O	44	122
+competition	NN	B-NP	45	122
+in	IN	B-PP	46	122
+electrical	JJ	B-NP	47	122
+generation	NN	I-NP	48	122
+from	IN	B-PP	49	122
+private-sector	NN	B-NP	50	122
+suppliers	NNS	I-NP	51	122
+as	IN	B-SBAR	52	122
+part	NN	B-NP	53	122
+of	IN	B-PP	54	122
+its	PRP$	B-NP	55	122	ARG0
+privatization	NN	I-NP	56	122	ARG1
+program	NN	I-NP	57	122	PRED	ABILITY-WITH-AGENT
+.	.	O	58	122
+
+The	DT	B-NP	0	123
+company	NN	I-NP	1	123	ARG0
+is	VBZ	O	2	123
+trying	VBG	O	3	123
+to	TO	O	4	123
+carry	VB	O	5	123	SUPPORT
+out	RP	B-ADVP	6	123
+a	DT	O	7	123
+three-year	NN	O	8	123
+COMMA	COMMA	O	9	123
+$	$	O	10	123
+1.3	CD	B-NP	11	123
+billion	CD	I-NP	12	123
+plant-expansion	NN	B-NP	13	123	ARG1
+program	NN	I-NP	14	123	PRED	ABILITY-WITH-AGENT
+started	VBN	O	15	123
+this	DT	B-NP	16	123
+year	NN	I-NP	17	123
+.	.	O	18	123
+
+Japan	NNP	B-NP	0	124
+COMMA	COMMA	O	1	124
+the	DT	B-NP	2	124
+EC	NNP	I-NP	3	124
+COMMA	COMMA	O	4	124
+Brazil	NNP	B-NP	5	124
+COMMA	COMMA	O	6	124
+Mexico	NNP	B-NP	7	124
+and	CC	O	8	124
+South	NNP	B-NP	9	124
+Korea	NNP	I-NP	10	124
+provide	VBP	O	11	124
+about	RB	B-ADVP	12	124
+80	CD	B-NP	13	124
+%	NN	I-NP	14	124
+of	IN	B-PP	15	124
+the	DT	B-NP	16	124
+steel	NN	I-NP	17	124
+imported	VBN	O	18	124
+to	IN	B-PP	19	124
+the	DT	B-NP	20	124
+U.S.	NNP	I-NP	21	124
+under	IN	B-PP	22	124
+the	DT	B-NP	23	124
+quota	NN	I-NP	24	124	ARG1
+program	NN	I-NP	25	124	PRED	ABILITY-WITH-AGENT
+.	.	O	26	124
+
+That	DT	B-NP	0	125
+was	VBD	O	1	125
+essentially	RB	B-ADVP	2	125
+made	VBN	O	3	125
+up	RP	B-ADVP	4	125
+of	IN	B-PP	5	125
+a	DT	O	6	125
+1	CD	B-NP	7	125
+%	NN	I-NP	8	125
+increase	NN	B-NP	9	125
+in	IN	B-PP	10	125
+the	DT	B-NP	11	125
+overall	JJ	I-NP	12	125
+quota	NN	I-NP	13	125	ARG1
+program	NN	I-NP	14	125	PRED	ABILITY-WITH-AGENT
+and	CC	O	15	125
+1	CD	B-NP	16	125
+%	NN	I-NP	17	125
+from	IN	B-PP	18	125
+cutting	VBG	O	19	125
+Japan	NNP	B-NP	20	125
+'s	POS	B-NP	21	125
+allowance	NN	I-NP	22	125
+.	.	O	23	125
+
+These	DT	B-NP	0	126
+optional	JJ	I-NP	1	126
+1%-a-year	NN	I-NP	2	126
+increases	NNS	I-NP	3	126
+to	IN	B-PP	4	126
+the	DT	B-NP	5	126
+steel	NN	I-NP	6	126
+quota	NN	I-NP	7	126
+program	NN	I-NP	8	126
+are	VBP	O	9	126
+built	VBN	O	10	126
+into	IN	B-PP	11	126
+the	DT	B-NP	12	126
+Bush	NNP	I-NP	13	126
+administration	NN	I-NP	14	126	ARG0
+'s	POS	B-NP	15	126
+steel-quota	NN	I-NP	16	126	ARG1
+program	NN	I-NP	17	126	PRED	ABILITY-WITH-AGENT
+to	TO	O	18	126
+give	VB	O	19	126
+its	PRP$	B-NP	20	126
+negotiators	NNS	I-NP	21	126
+leverage	NN	B-NP	22	126
+with	IN	B-PP	23	126
+foreign	JJ	B-NP	24	126
+steel	NN	I-NP	25	126
+suppliers	NNS	I-NP	26	126
+to	TO	O	27	126
+try	VB	O	28	126
+to	TO	O	29	126
+get	VB	O	30	126
+them	PRP	B-NP	31	126
+to	TO	O	32	126
+withdraw	VB	O	33	126
+subsidies	NNS	B-NP	34	126
+and	CC	I-NP	35	126
+protectionism	NN	I-NP	36	126
+from	IN	B-PP	37	126
+their	PRP$	B-NP	38	126
+own	JJ	I-NP	39	126
+steel	NN	I-NP	40	126
+industries	NNS	I-NP	41	126
+.	.	O	42	126
+
+Of	IN	B-PP	0	127
+the	DT	O	1	127
+remaining	VBG	B-ADJP	2	127
+20	CD	B-NP	3	127
+%	NN	I-NP	4	127
+needed	VBN	O	5	127
+COMMA	COMMA	O	6	127
+the	DT	B-NP	7	127
+steel-quota	NN	I-NP	8	127
+negotiations	NNS	I-NP	9	127
+allocate	VBP	O	10	127
+about	RB	B-ADVP	11	127
+15	CD	B-NP	12	127
+%	NN	I-NP	13	127
+to	IN	B-PP	14	127
+foreign	JJ	B-NP	15	127
+suppliers	NNS	I-NP	16	127
+COMMA	COMMA	O	17	127
+with	IN	B-SBAR	18	127
+the	DT	B-NP	19	127
+difference	NN	I-NP	20	127
+supplied	VBD	O	21	127
+mainly	RB	B-ADVP	22	127
+by	IN	B-PP	23	127
+Canada	NNP	B-NP	24	127
+--	:	O	25	127
+which	WDT	B-NP	26	127
+is	VBZ	O	27	127
+n't	RB	B-ADVP	28	127
+included	VBN	O	29	127
+in	IN	B-PP	30	127
+the	DT	B-NP	31	127
+quota	NN	I-NP	32	127	ARG1
+program	NN	I-NP	33	127	PRED	ABILITY-WITH-AGENT
+.	.	O	34	127
+
+I	PRP	B-NP	0	128
+feel	VBP	O	1	128
+committed	VBN	B-ADJP	2	128
+to	IN	B-PP	3	128
+the	DT	B-NP	4	128
+program	NN	I-NP	5	128	PRED	ABILITY-WITH-AGENT
+of	IN	B-PP	6	128
+opening	VBG	O	7	128	ARG1
+markets	NNS	B-NP	8	128
+and	CC	O	9	128
+expanding	VBG	O	10	128	ARG1
+trade	NN	B-NP	11	128
+.	.	O	12	128
+''	''	O	13	128
+
+``	``	O	0	129
+There	EX	B-NP	1	129
+'s	VBZ	O	2	129
+no	DT	B-NP	3	129
+evidence	NN	B-NP	4	129
+that	IN	O	5	129
+the	DT	B-NP	6	129
+Soviet	JJ	I-NP	7	129	ARG0
+program	NN	I-NP	8	129	PRED	ABILITY-WITH-AGENT
+to	TO	O	9	129
+(	(	B-ADVP	10	129
+illegally	RB	I-ADVP	11	129
+)	)	O	12	129
+acquire	VB	O	13	129	ARG1
+Western	JJ	B-NP	14	129
+technology	NN	I-NP	15	129
+has	VBZ	O	16	129
+diminished	VBN	O	17	129
+COMMA	COMMA	O	18	129
+''	''	O	19	129
+said	VBD	O	20	129
+a	DT	O	21	129
+State	NNP	B-NP	22	129
+Department	NNP	I-NP	23	129
+spokesman	NN	B-NP	24	129
+.	.	O	25	129
+
+In	IN	B-PP	0	130
+1984	CD	B-NP	1	130
+the	DT	B-NP	2	130
+EPA	NNP	I-NP	3	130
+notified	VBD	O	4	130
+Gulf	NNP	B-NP	5	130
+Resources	NNP	I-NP	6	130
+COMMA	COMMA	O	7	130
+which	WDT	B-NP	8	130
+was	VBD	O	9	130
+a	DT	B-NP	10	130
+part-owner	NN	I-NP	11	130
+of	IN	B-PP	12	130
+the	DT	B-NP	13	130
+smelter	NN	I-NP	14	130
+COMMA	COMMA	O	15	130
+that	IN	B-SBAR	16	130
+it	PRP	B-NP	17	130
+was	VBD	O	18	130
+potentially	RB	B-ADJP	19	130
+liable	JJ	I-ADJP	20	130
+for	IN	B-PP	21	130
+sharing	VBG	O	22	130
+cleanup	NN	B-NP	23	130
+costs	NNS	I-NP	24	130
+at	IN	B-PP	25	130
+the	DT	B-NP	26	130
+site	NN	I-NP	27	130
+under	IN	B-PP	28	130
+the	DT	B-NP	29	130
+federal	JJ	I-NP	30	130	ARG0
+Superfund	NNP	I-NP	31	130	ARG1
+program	NN	I-NP	32	130	PRED	ABILITY-WITH-AGENT
+.	.	O	33	130
+
+Avis	NNP	B-NP	0	131
+Inc.	NNP	I-NP	1	131
+COMMA	COMMA	O	2	131
+following	VBG	O	3	131
+rival	NN	B-NP	4	131
+Hertz	NNP	B-NP	5	131
+Corp.	NNP	I-NP	6	131
+'s	POS	B-NP	7	131
+lead	NN	I-NP	8	131
+COMMA	COMMA	O	9	131
+said	VBD	O	10	131
+it	PRP	B-NP	11	131
+is	VBZ	O	12	131
+backing	VBG	O	13	131
+out	IN	B-PP	14	131
+of	IN	B-PP	15	131
+frequent-flier	JJ	B-NP	16	131	ARG1
+programs	NNS	I-NP	17	131	PRED	ABILITY-WITH-AGENT
+with	IN	B-PP	18	131
+three	CD	B-NP	19	131
+airlines	NNS	I-NP	20	131
+.	.	O	21	131
+
+Robert	NNP	B-NP	0	132
+D.	NNP	I-NP	1	132
+Cardillo	NNP	I-NP	2	132
+COMMA	COMMA	O	3	132
+Avis	NNP	B-NP	4	132
+vice	NN	I-NP	5	132
+president	NN	I-NP	6	132
+of	IN	B-PP	7	132
+marketing	NN	B-NP	8	132
+COMMA	COMMA	O	9	132
+said	VBD	O	10	132
+COMMA	COMMA	O	11	132
+``	``	O	12	132
+The	DT	B-NP	13	132
+proliferation	NN	I-NP	14	132
+and	CC	I-NP	15	132
+costs	NNS	I-NP	16	132
+attached	VBN	O	17	132
+to	IN	B-PP	18	132
+{	(	B-NP	19	132
+frequent-flier	JJ	I-NP	20	132	ARG1
+programs	NNS	I-NP	21	132	PRED	ABILITY-WITH-AGENT
+}	)	O	22	132
+have	VBP	O	23	132
+significantly	RB	B-ADVP	24	132
+diminished	VBN	O	25	132
+their	PRP$	B-NP	26	132
+value	NN	I-NP	27	132
+.	.	O	28	132
+''	''	O	29	132
+
+``	``	O	0	133
+I	PRP	B-NP	1	133
+can	MD	O	2	133
+not	RB	B-ADVP	3	133
+see	VB	O	4	133
+how	WRB	B-ADVP	5	133
+this	DT	B-NP	6	133
+news	NN	I-NP	7	133
+by	IN	B-PP	8	133
+Hertz	NNP	B-NP	9	133
+and	CC	I-NP	10	133
+Avis	NNP	I-NP	11	133
+can	MD	O	12	133
+not	RB	B-ADVP	13	133
+benefit	VB	O	14	133
+Budget	NNP	B-NP	15	133	ARG0
+'s	POS	B-NP	16	133
+programs	NNS	I-NP	17	133	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	18	133
+''	''	O	19	133
+said	VBD	O	20	133
+Bob	NNP	B-NP	21	133
+Wilson	NNP	I-NP	22	133
+COMMA	COMMA	O	23	133
+Budget	NNP	B-NP	24	133
+'s	POS	B-NP	25	133
+vice	NN	I-NP	26	133
+president	NN	I-NP	27	133
+COMMA	COMMA	O	28	133
+marketing	NN	B-NP	29	133
+planning	NN	I-NP	30	133
+.	.	O	31	133
+
+National	NNP	B-NP	0	134
+also	RB	O	1	134
+participates	VBZ	O	2	134
+in	IN	B-PP	3	134
+the	DT	B-NP	4	134
+Northwest	NNP	I-NP	5	134	ARG0
+frequent-flier	JJ	I-NP	6	134	ARG1
+program	NN	I-NP	7	134	PRED	ABILITY-WITH-AGENT
+along	IN	B-PP	8	134
+with	IN	B-PP	9	134
+four	CD	B-NP	10	134
+other	JJ	I-NP	11	134
+airlines	NNS	I-NP	12	134
+COMMA	COMMA	O	13	134
+including	VBG	O	14	134
+Delta	NNP	B-NP	15	134
+and	CC	O	16	134
+USAir	NNP	B-NP	17	134
+Group	NNP	I-NP	18	134
+Inc.	NNP	I-NP	19	134
+'s	POS	B-NP	20	134
+USAir	NNP	I-NP	21	134
+unit	NN	I-NP	22	134
+.	.	O	23	134
+
+C.S.	NNP	B-NP	0	135
+Richardson	NNP	I-NP	1	135
+COMMA	COMMA	O	2	135
+Atco	NNP	B-NP	3	135
+'s	POS	B-NP	4	135
+senior	JJ	I-NP	5	135
+vice	NN	I-NP	6	135
+president	NN	I-NP	7	135
+COMMA	COMMA	O	8	135
+finance	NN	B-NP	9	135
+COMMA	COMMA	O	10	135
+said	VBD	O	11	135
+its	PRP$	O	12	135
+50.1%-owned	VBN	O	13	135
+Canadian	NNP	B-NP	14	135
+Utilities	NNP	I-NP	15	135
+Ltd.	NNP	I-NP	16	135
+unit	NN	B-NP	17	135
+is	VBZ	O	18	135
+reviewing	VBG	O	19	135
+cogeneration	NN	B-NP	20	135	ARG1
+projects	NNS	I-NP	21	135	PRED	ABILITY-WITH-AGENT
+in	IN	B-PP	22	135
+eastern	JJ	B-NP	23	135
+Canada	NNP	I-NP	24	135	ARGM-LOC
+COMMA	COMMA	O	25	135
+and	CC	O	26	135
+conventional	JJ	B-NP	27	135
+electric	JJ	I-NP	28	135
+power	NN	I-NP	29	135
+generating	NN	I-NP	30	135
+plants	NNS	I-NP	31	135
+elsewhere	RB	B-ADVP	32	135
+COMMA	COMMA	O	33	135
+including	VBG	O	34	135
+Britain	NNP	B-NP	35	135
+COMMA	COMMA	O	36	135
+where	IN	B-ADVP	37	135
+the	DT	B-NP	38	135
+British	JJ	I-NP	39	135
+government	NN	I-NP	40	135
+plans	VBZ	O	41	135
+to	TO	O	42	135
+allow	VB	O	43	135
+limited	VBN	O	44	135
+competition	NN	B-NP	45	135
+in	IN	B-PP	46	135
+electrical	JJ	B-NP	47	135
+generation	NN	I-NP	48	135
+from	IN	B-PP	49	135
+private-sector	NN	B-NP	50	135
+suppliers	NNS	I-NP	51	135
+as	IN	B-SBAR	52	135
+part	NN	B-NP	53	135
+of	IN	B-PP	54	135
+its	PRP$	B-NP	55	135
+privatization	NN	I-NP	56	135
+program	NN	I-NP	57	135
+.	.	O	58	135
+
+Mr.	NNP	B-NP	0	136
+Richardson	NNP	I-NP	1	136
+would	MD	O	2	136
+n't	RB	B-ADVP	3	136
+offer	VB	O	4	136
+specifics	NNS	B-NP	5	136
+regarding	VBG	O	6	136
+Atco	NNP	B-NP	7	136	ARG0
+'s	POS	B-NP	8	136
+proposed	VBN	O	9	136
+British	JJ	B-NP	10	136	ARGM-LOC
+project	NN	I-NP	11	136	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	12	136
+but	CC	B-CONJP	13	136
+he	PRP	B-NP	14	136
+said	VBD	O	15	136
+it	PRP	B-NP	16	136
+would	MD	O	17	136
+compete	VB	O	18	136
+for	IN	B-PP	19	136
+customers	NNS	B-NP	20	136
+with	IN	B-PP	21	136
+two	CD	B-NP	22	136
+huge	JJ	I-NP	23	136
+British	JJ	I-NP	24	136
+power	NN	I-NP	25	136
+generating	NN	I-NP	26	136
+companies	NNS	I-NP	27	136
+that	WDT	B-NP	28	136
+would	MD	O	29	136
+be	VB	O	30	136
+formed	VBN	O	31	136
+under	IN	B-PP	32	136
+the	DT	B-NP	33	136
+country	NN	I-NP	34	136
+'s	POS	B-NP	35	136
+plan	NN	I-NP	36	136
+to	TO	O	37	136
+privatize	VB	O	38	136
+its	PRP$	B-NP	39	136
+massive	JJ	I-NP	40	136
+water	NN	I-NP	41	136
+and	CC	I-NP	42	136
+electric	JJ	I-NP	43	136
+utilities	NNS	I-NP	44	136
+.	.	O	45	136
+
+That	DT	B-NP	0	137
+increase	NN	I-NP	1	137
+rises	VBZ	O	2	137
+to	IN	B-PP	3	137
+slightly	RB	B-ADVP	4	137
+more	JJR	B-NP	5	137
+than	IN	I-NP	6	137
+2	CD	I-NP	7	137
+%	NN	I-NP	8	137
+of	IN	B-PP	9	137
+the	DT	B-NP	10	137
+U.S.	NNP	I-NP	11	137
+market	NN	I-NP	12	137
+if	IN	O	13	137
+a	DT	B-NP	14	137
+joint	JJ	I-NP	15	137
+Korean-U.S.	NNP	I-NP	16	137	ARG0
+steel	NN	I-NP	17	137	ARG1
+project	NN	I-NP	18	137	PRED	ABILITY-WITH-AGENT
+is	VBZ	O	19	137
+included	VBN	O	20	137
+.	.	O	21	137
+
+After	IN	O	0	138
+its	PRP$	B-NP	1	138
+previous	JJ	I-NP	2	138
+mayor	NN	I-NP	3	138
+committed	VBD	O	4	138
+suicide	NN	B-NP	5	138
+last	JJ	B-NP	6	138
+year	NN	I-NP	7	138
+COMMA	COMMA	O	8	138
+an	DT	B-NP	9	138
+investigation	NN	I-NP	10	138
+disclosed	VBD	O	11	138
+that	IN	B-SBAR	12	138
+town	NN	B-NP	13	138
+officials	NNS	I-NP	14	138
+regularly	RB	B-ADVP	15	138
+voted	VBD	O	16	138
+on	IN	B-PP	17	138
+their	PRP$	B-NP	18	138	ARG0
+own	JJ	I-NP	19	138
+projects	NNS	I-NP	20	138	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	21	138
+gave	VBD	O	22	138
+special	JJ	B-NP	23	138
+favors	NNS	I-NP	24	138
+to	IN	B-PP	25	138
+developer	NN	B-NP	26	138
+friends	NNS	I-NP	27	138
+and	CC	O	28	138
+dipped	VBD	O	29	138
+into	IN	B-PP	30	138
+the	DT	B-NP	31	138
+town	NN	I-NP	32	138
+'s	POS	B-NP	33	138
+coffers	NNS	I-NP	34	138
+for	IN	B-PP	35	138
+trips	NNS	B-NP	36	138
+and	CC	I-NP	37	138
+retreats	NNS	I-NP	38	138
+.	.	O	39	138
+
+For	IN	B-PP	0	139
+weeks	NNS	B-NP	1	139
+COMMA	COMMA	O	2	139
+the	DT	B-NP	3	139
+market	NN	I-NP	4	139
+had	VBD	O	5	139
+been	VBN	O	6	139
+nervous	JJ	B-ADJP	7	139
+about	IN	B-PP	8	139
+takeovers	NNS	B-NP	9	139
+COMMA	COMMA	O	10	139
+after	IN	O	11	139
+Campeau	NNP	B-NP	12	139
+Corp.	NNP	I-NP	13	139
+'s	POS	B-NP	14	139
+cash	NN	I-NP	15	139
+crunch	NN	I-NP	16	139
+spurred	VBD	O	17	139
+concern	NN	B-NP	18	139
+about	IN	B-PP	19	139
+the	DT	B-NP	20	139
+prospects	NNS	I-NP	21	139	PRED	ABILITY-WITH-AGENT/ATTRIBUTE/NOMADJLIKE-possible
+for	IN	B-PP	22	139
+future	JJ	O	23	139
+highly	RB	B-ADVP	24	139
+leveraged	JJ	B-NP	25	139
+takeovers	NNS	I-NP	26	139	ARG1
+.	.	O	27	139
+
+A	DT	O	0	140
+British	NNP	B-NP	1	140
+Aerospace	NNP	I-NP	2	140
+spokeswoman	NN	B-NP	3	140	ARG0
+appeared	VBD	O	4	140	SUPPORT
+unperturbed	JJ	B-ADJP	5	140	SUPPORT
+by	IN	B-PP	6	140	SUPPORT
+the	DT	B-NP	7	140
+prospect	NN	I-NP	8	140	PRED	ABILITY-WITH-AGENT/ATTRIBUTE/NOMADJLIKE-possible
+of	IN	B-PP	9	140
+a	DT	B-NP	10	140
+fight	NN	I-NP	11	140	ARG1
+with	IN	B-PP	12	140
+GEC	NNP	B-NP	13	140
+for	IN	B-PP	14	140
+Ferranti	NNP	B-NP	15	140
+:	:	O	16	140
+``	``	O	17	140
+Competition	NN	B-NP	18	140
+is	VBZ	O	19	140
+the	DT	B-NP	20	140
+name	NN	I-NP	21	140
+of	IN	B-PP	22	140
+the	DT	B-NP	23	140
+game	NN	I-NP	24	140
+COMMA	COMMA	O	25	140
+''	''	O	26	140
+she	PRP	B-NP	27	140
+said	VBD	O	28	140
+.	.	O	29	140
+
+More	RBR	B-ADJP	0	141
+troubling	VBG	I-ADJP	1	141
+is	VBZ	O	2	141
+the	DT	B-NP	3	141
+prospect	NN	B-NP	4	141	PRED	ABILITY-WITH-AGENT/ATTRIBUTE/NOMADJLIKE-possible
+that	IN	O	5	141	ARG1
+the	DT	B-NP	6	141
+overall	JJ	I-NP	7	141
+collapse	NN	I-NP	8	141
+in	IN	B-PP	9	141
+stock	NN	B-NP	10	141
+prices	NNS	I-NP	11	141
+could	MD	O	12	141
+permanently	RB	B-ADVP	13	141
+erode	VB	O	14	141
+the	DT	B-NP	15	141
+base	NN	I-NP	16	141
+of	IN	B-PP	17	141
+small-investor	NN	B-NP	18	141
+support	NN	I-NP	19	141
+the	DT	B-NP	20	141
+OTC	NNP	I-NP	21	141
+market	NN	I-NP	22	141
+was	VBD	O	23	141
+struggling	VBG	O	24	141
+to	TO	O	25	141
+rebuild	VB	O	26	141
+in	IN	B-PP	27	141
+the	DT	B-NP	28	141
+wake	NN	I-NP	29	141
+of	IN	B-PP	30	141
+the	DT	O	31	141
+October	NNP	B-NP	32	141
+1987	CD	I-NP	33	141
+crash	NN	B-NP	34	141
+.	.	O	35	141
+
+``	``	O	0	142
+There	EX	B-NP	1	142
+is	VBZ	O	2	142
+no	DT	B-NP	3	142	ARGM-NEG
+prospect	NN	I-NP	4	142	PRED	ABILITY-WITH-AGENT/ATTRIBUTE/NOMADJLIKE-possible
+of	IN	B-PP	5	142
+any	DT	B-NP	6	142
+so-called	JJ	I-NP	7	142
+grand	JJ	I-NP	8	142
+compromise	NN	I-NP	9	142	ARG1
+or	CC	I-NP	10	142
+deal	NN	I-NP	11	142	ARG1
+next	JJ	B-NP	12	142
+year	NN	I-NP	13	142
+because	IN	O	14	142
+the	DT	B-NP	15	142
+administration	NN	I-NP	16	142
+simply	RB	B-ADVP	17	142
+did	VBD	O	18	142
+n't	RB	B-ADVP	19	142
+live	VB	O	20	142
+up	RP	B-ADVP	21	142
+to	IN	B-PP	22	142
+this	DT	B-NP	23	142
+year	NN	I-NP	24	142
+'s	POS	B-NP	25	142
+deal	NN	I-NP	26	142
+COMMA	COMMA	O	27	142
+''	''	O	28	142
+Senate	NNP	B-NP	29	142
+Majority	NNP	I-NP	30	142
+Leader	NNP	I-NP	31	142
+George	NNP	I-NP	32	142
+Mitchell	NNP	I-NP	33	142
+(	(	O	34	142
+D.	NNP	B-NP	35	142
+COMMA	COMMA	B-NP	36	142
+Maine	NNP	I-NP	37	142
+)	)	O	38	142
+said	VBD	O	39	142
+yesterday	NN	B-NP	40	142
+on	IN	B-PP	41	142
+CBS	NNP	B-NP	42	142
+News	NNP	I-NP	43	142
+'s	POS	B-NP	44	142
+``	``	O	45	142
+Face	VBP	O	46	142
+the	DT	B-NP	47	142
+Nation	NN	I-NP	48	142
+.	.	O	49	142
+''	''	O	50	142
+
+A	DT	B-NP	0	143
+big	JJ	I-NP	1	143
+reason	NN	I-NP	2	143	PRED	ABILITY-WITHOUT-AGENT
+for	IN	B-PP	3	143
+the	DT	B-NP	4	143
+chemical	NN	I-NP	5	143
+price	NN	I-NP	6	143
+retreat	NN	I-NP	7	143	ARG1
+is	VBZ	O	8	143
+overexpansion	NN	B-NP	9	143
+.	.	O	10	143
+
+Asked	VBN	O	0	144
+about	IN	B-PP	1	144
+the	DT	B-NP	2	144
+speculation	NN	I-NP	3	144
+that	IN	B-SBAR	4	144
+Mr.	NNP	B-NP	5	144
+Louis-Dreyfus	NNP	I-NP	6	144
+has	VBZ	O	7	144
+been	VBN	O	8	144
+hired	VBN	O	9	144
+to	TO	O	10	144
+pave	VB	O	11	144
+the	DT	B-NP	12	144
+way	NN	I-NP	13	144
+for	IN	B-PP	14	144
+a	DT	B-NP	15	144
+buy-out	NN	I-NP	16	144
+by	IN	B-PP	17	144
+the	DT	B-NP	18	144
+brothers	NNS	I-NP	19	144
+COMMA	COMMA	O	20	144
+the	DT	B-NP	21	144
+executive	NN	I-NP	22	144
+replied	VBD	O	23	144
+COMMA	COMMA	O	24	144
+``	``	O	25	144
+That	DT	B-NP	26	144
+is	VBZ	O	27	144
+n't	RB	B-ADVP	28	144
+the	DT	B-NP	29	144
+reason	NN	I-NP	30	144	PRED	ABILITY-WITHOUT-AGENT
+Dreyfus	NNP	B-NP	31	144
+has	VBZ	O	32	144
+been	VBN	O	33	144
+brought	VBN	O	34	144	ARG1
+in	RP	B-ADVP	35	144
+.	.	O	36	144
+
+Investment	NNP	B-NP	0	145
+Canada	NNP	I-NP	1	145
+declined	VBD	O	2	145
+to	TO	O	3	145
+comment	VB	O	4	145
+on	IN	B-PP	5	145
+the	DT	B-NP	6	145
+reasons	NNS	I-NP	7	145	PRED	ABILITY-WITHOUT-AGENT
+for	IN	B-PP	8	145
+the	DT	B-NP	9	145
+government	NN	I-NP	10	145
+decision	NN	I-NP	11	145	ARG1
+.	.	O	12	145
+
+Mr.	NNP	B-NP	0	146
+Watkins	NNP	I-NP	1	146
+said	VBD	O	2	146
+the	DT	B-NP	3	146
+main	JJ	I-NP	4	146
+reason	NN	I-NP	5	146	PRED	ABILITY-WITHOUT-AGENT
+for	IN	B-PP	6	146
+the	DT	B-NP	7	146
+production	NN	I-NP	8	146
+decline	NN	I-NP	9	146	ARG1
+is	VBZ	O	10	146
+shrinking	VBG	B-ADJP	11	146
+output	NN	B-NP	12	146
+of	IN	B-PP	13	146
+light	JJ	B-NP	14	146
+crude	NN	I-NP	15	146
+from	IN	B-PP	16	146
+mature	JJ	B-NP	17	146
+COMMA	COMMA	I-NP	18	146
+conventional	JJ	I-NP	19	146
+fields	NNS	I-NP	20	146
+in	IN	B-PP	21	146
+western	JJ	B-NP	22	146
+Canada	NNP	I-NP	23	146
+.	.	O	24	146
+
+The	DT	B-NP	0	147
+rating	NN	I-NP	1	147
+concern	NN	I-NP	2	147
+said	VBD	O	3	147
+Franklin	NNP	B-NP	4	147
+'s	POS	B-NP	5	147
+``	``	I-NP	6	147
+troubled	VBN	O	7	147
+diversification	NN	B-NP	8	147
+record	NN	I-NP	9	147
+in	IN	B-PP	10	147
+the	DT	B-NP	11	147
+securities	NNS	I-NP	12	147
+business	NN	I-NP	13	147
+''	''	O	14	147
+was	VBD	O	15	147
+one	CD	B-NP	16	147
+reason	NN	I-NP	17	147	PRED	ABILITY-WITHOUT-AGENT
+for	IN	B-PP	18	147
+the	DT	B-NP	19	147
+downgrade	NN	I-NP	20	147	ARG1
+COMMA	COMMA	O	21	147
+citing	VBG	O	22	147
+the	DT	B-NP	23	147
+troubles	NNS	I-NP	24	147
+at	IN	B-PP	25	147
+its	PRP$	O	26	147
+L.F.	NNP	B-NP	27	147
+Rothschild	NNP	I-NP	28	147
+subsidiary	NN	B-NP	29	147
+and	CC	O	30	147
+the	DT	B-NP	31	147
+possible	JJ	I-NP	32	147
+sale	NN	I-NP	33	147
+of	IN	B-PP	34	147
+other	JJ	B-NP	35	147
+subsidiaries	NNS	I-NP	36	147
+.	.	O	37	147
+
+Some	DT	B-NP	0	148
+analysts	NNS	I-NP	1	148
+say	VBP	O	2	148
+uncertainty	NN	B-NP	3	148
+about	IN	B-PP	4	148
+Washington	NNP	B-NP	5	148
+'s	POS	B-NP	6	148
+anti-takeover	NN	I-NP	7	148
+policy	NN	I-NP	8	148
+was	VBD	O	9	148
+one	CD	B-NP	10	148
+reason	NN	I-NP	11	148	PRED	ABILITY-WITHOUT-AGENT
+that	DT	O	12	148	ARG1
+financing	NN	B-NP	13	148
+for	IN	B-PP	14	148
+the	DT	O	15	148
+United	NNP	B-NP	16	148
+Airlines	NNP	I-NP	17	148
+takeover	NN	B-NP	18	148
+fell	VBD	O	19	148
+through	RP	B-ADVP	20	148
+--	:	O	21	148
+the	DT	B-NP	22	148
+event	NN	I-NP	23	148
+that	WDT	B-NP	24	148
+triggered	VBD	O	25	148
+the	DT	B-NP	26	148
+market	NN	I-NP	27	148
+drop	NN	I-NP	28	148
+.	.	O	29	148
+
+One	CD	B-NP	0	149
+of	IN	B-PP	1	149
+the	DT	B-NP	2	149
+biggest	JJS	I-NP	3	149
+reasons	NNS	I-NP	4	149	PRED	ABILITY-WITHOUT-AGENT
+that	DT	O	5	149	ARG1
+new	JJ	B-NP	6	149
+talks	NNS	I-NP	7	149
+are	VBP	O	8	149
+n't	RB	B-ADVP	9	149
+likely	JJ	B-ADJP	10	149
+to	TO	O	11	149
+come	VB	O	12	149
+about	RP	B-ADVP	13	149
+is	VBZ	O	14	149
+that	IN	B-SBAR	15	149
+COMMA	COMMA	O	16	149
+as	IN	B-SBAR	17	149
+everyone	NN	B-NP	18	149
+learned	VBD	O	19	149
+in	IN	B-PP	20	149
+1987	CD	B-NP	21	149
+COMMA	COMMA	O	22	149
+the	DT	B-NP	23	149
+economy	NN	I-NP	24	149
+and	CC	O	25	149
+the	DT	B-NP	26	149
+market	NN	I-NP	27	149
+can	MD	O	28	149
+survive	VB	O	29	149
+a	DT	B-NP	30	149
+one-day	NN	I-NP	31	149
+508-point	NN	I-NP	32	149
+tumble	NN	I-NP	33	149
+.	.	O	34	149
+
+Quest	NNP	B-NP	0	150
+Medical	NNP	I-NP	1	150
+Inc.	NNP	I-NP	2	150
+said	VBD	O	3	150
+it	PRP	B-NP	4	150
+adopted	VBD	O	5	150
+a	DT	B-NP	6	150
+shareholders	NNS	I-NP	7	150	ARG0
+'	POS	B-NP	8	150
+rights	NNS	I-NP	9	150	PRED	ABILITY-WITH-AGENT
+plan	NN	I-NP	10	150
+in	IN	B-PP	11	150
+which	WDT	B-NP	12	150
+rights	NNS	B-NP	13	150
+to	TO	O	14	150
+purchase	VB	O	15	150
+shares	NNS	B-NP	16	150
+of	IN	B-PP	17	150
+common	JJ	B-NP	18	150
+stock	NN	I-NP	19	150
+will	MD	O	20	150
+be	VB	O	21	150
+distributed	VBN	O	22	150
+as	IN	B-SBAR	23	150
+a	DT	B-NP	24	150
+dividend	NN	I-NP	25	150
+to	IN	B-PP	26	150
+shareholders	NNS	B-NP	27	150
+of	IN	B-PP	28	150
+record	NN	B-NP	29	150
+as	IN	B-PP	30	150
+of	IN	B-PP	31	150
+Oct.	NNP	B-NP	32	150
+23	CD	I-NP	33	150
+.	.	O	34	150
+
+Quest	NNP	B-NP	0	151
+Medical	NNP	I-NP	1	151
+Inc.	NNP	I-NP	2	151
+said	VBD	O	3	151
+it	PRP	B-NP	4	151
+adopted	VBD	O	5	151
+a	DT	B-NP	6	151
+shareholders	NNS	I-NP	7	151
+'	POS	B-NP	8	151
+rights	NNS	I-NP	9	151
+plan	NN	I-NP	10	151
+in	IN	B-PP	11	151
+which	WDT	B-NP	12	151
+rights	NNS	B-NP	13	151	PRED	ABILITY-WITH-AGENT
+to	TO	O	14	151
+purchase	VB	O	15	151	ARG1-PRD
+shares	NNS	B-NP	16	151
+of	IN	B-PP	17	151
+common	JJ	B-NP	18	151
+stock	NN	I-NP	19	151
+will	MD	O	20	151
+be	VB	O	21	151
+distributed	VBN	O	22	151
+as	IN	B-SBAR	23	151
+a	DT	B-NP	24	151
+dividend	NN	I-NP	25	151
+to	IN	B-PP	26	151
+shareholders	NNS	B-NP	27	151
+of	IN	B-PP	28	151
+record	NN	B-NP	29	151
+as	IN	B-PP	30	151
+of	IN	B-PP	31	151
+Oct.	NNP	B-NP	32	151
+23	CD	I-NP	33	151
+.	.	O	34	151
+
+The	DT	B-NP	0	152
+rights	NNS	I-NP	1	152	PRED	ABILITY-WITH-AGENT
+allow	VBP	O	2	152	SUPPORT
+shareholders	NNS	B-NP	3	152	ARG0
+to	TO	O	4	152
+purchase	VB	O	5	152	ARG1-PRD
+Quest	NNP	B-NP	6	152
+stock	NN	I-NP	7	152
+at	IN	B-PP	8	152
+a	DT	B-NP	9	152
+discount	NN	I-NP	10	152
+if	IN	O	11	152
+any	DT	B-NP	12	152
+person	NN	I-NP	13	152
+or	CC	I-NP	14	152
+group	NN	I-NP	15	152
+acquires	VBZ	O	16	152
+more	RBR	B-ADVP	17	152
+than	IN	B-NP	18	152
+15	CD	I-NP	19	152
+%	NN	I-NP	20	152
+of	IN	B-PP	21	152
+the	DT	B-NP	22	152
+company	NN	I-NP	23	152
+'s	POS	B-NP	24	152
+common	JJ	B-ADJP	25	152
+stock	NN	B-NP	26	152
+or	CC	O	27	152
+announces	VBZ	O	28	152
+a	DT	B-NP	29	152
+tender	NN	I-NP	30	152
+offer	NN	I-NP	31	152
+.	.	O	32	152
+
+Under	IN	B-PP	0	153
+the	DT	B-NP	1	153
+latest	JJS	I-NP	2	153
+offer	NN	I-NP	3	153
+COMMA	COMMA	O	4	153
+HK$	$	O	5	153
+62.5	CD	B-NP	6	153
+million	CD	I-NP	7	153
+(	(	O	8	153
+US$	$	O	9	153
+8	CD	B-NP	10	153
+million	CD	I-NP	11	153
+)	)	O	12	153
+of	IN	B-PP	13	153
+three-year	NN	B-NP	14	153
+warrants	NNS	I-NP	15	153
+will	MD	O	16	153
+be	VB	O	17	153
+issued	VBN	O	18	153
+in	IN	B-PP	19	153
+London	NNP	B-NP	20	153
+COMMA	COMMA	O	21	153
+each	DT	B-NP	22	153
+giving	VBG	O	23	153	SUPPORT
+buyers	NNS	B-NP	24	153	ARG0
+the	DT	B-NP	25	153
+right	NN	I-NP	26	153	PRED	ABILITY-WITH-AGENT
+to	TO	O	27	153
+buy	VB	O	28	153	ARG1-PRD
+one	CD	O	29	153
+Hong	NNP	B-NP	30	153
+Kong	NNP	I-NP	31	153
+Telecommunications	NNP	I-NP	32	153
+share	NN	B-NP	33	153
+at	IN	B-PP	34	153
+a	DT	B-NP	35	153
+price	NN	I-NP	36	153
+to	TO	O	37	153
+be	VB	O	38	153
+determined	VBN	O	39	153
+Friday	NNP	B-NP	40	153
+.	.	O	41	153
+
+Associates	NNS	B-NP	0	154
+say	VBP	O	1	154
+he	PRP	B-NP	2	154
+takes	VBZ	O	3	154
+some	DT	B-NP	4	154
+defeats	NNS	I-NP	5	154
+more	RBR	B-ADVP	6	154
+personally	RB	B-ADVP	7	154
+than	IN	B-PP	8	154
+his	PRP$	B-NP	9	154
+colleagues	NNS	I-NP	10	154
+COMMA	COMMA	O	11	154
+especially	RB	B-ADVP	12	154
+attempts	NNS	B-NP	13	154
+to	TO	O	14	154
+curtail	VB	O	15	154
+the	DT	B-NP	16	154
+right	NN	I-NP	17	154	PRED	ABILITY-WITH-AGENT
+to	IN	B-PP	18	154
+abortion	NN	B-NP	19	154	ARG1
+first	RB	B-ADVP	20	154
+recognized	VBN	O	21	154
+in	IN	B-PP	22	154
+his	PRP$	B-NP	23	154
+1973	CD	I-NP	24	154
+opinion	NN	I-NP	25	154
+COMMA	COMMA	O	26	154
+Roe	NNP	B-NP	27	154
+vs.	IN	B-NP	28	154
+Wade	NNP	B-NP	29	154
+.	.	O	30	154
+
+The	DT	B-NP	0	155
+White	NNP	B-NP	1	155
+House	NNP	I-NP	2	155
+said	VBD	O	3	155
+minors	NNS	B-NP	4	155	ARG0
+have	VBP	O	5	155	SUPPORT
+n't	RB	B-ADVP	6	155
+any	DT	B-NP	7	155
+right	NN	I-NP	8	155	PRED	ABILITY-WITH-AGENT
+to	IN	B-PP	9	155
+abortion	NN	B-NP	10	155	ARG1
+without	IN	B-PP	11	155
+the	DT	B-NP	12	155
+consent	NN	I-NP	13	155
+of	IN	B-PP	14	155
+their	PRP$	B-NP	15	155
+parents	NNS	I-NP	16	155
+.	.	O	17	155
+
+2	LS	B-LST	0	156
+.	.	O	1	156
+That	IN	B-SBAR	2	156
+Mr.	NNP	B-NP	3	156
+Lantos	NNP	I-NP	4	156
+supported	VBD	O	5	156
+the	DT	B-NP	6	156
+rights	NNS	I-NP	7	156	PRED	ABILITY-WITH-AGENT
+of	IN	B-PP	8	156
+the	DT	B-NP	9	156
+witnesses	NNS	I-NP	10	156	ARG0
+to	TO	O	11	156
+take	VB	O	12	156	ARG1-PRD
+the	DT	B-NP	13	156
+Fifth	NNP	B-NP	14	156
+Amendment	NNP	I-NP	15	156
+.	.	O	16	156
+
+Allowing	VBG	O	0	157
+the	DT	B-NP	1	157
+defendant	NN	I-NP	2	157
+to	TO	O	3	157
+take	VB	O	4	157
+the	DT	B-NP	5	157
+Fifth	NNP	I-NP	6	157
+in	IN	B-PP	7	157
+a	DT	B-NP	8	157
+civil	JJ	I-NP	9	157
+matter	NN	I-NP	10	157
+is	VBZ	O	11	157
+not	RB	B-ADVP	12	157
+based	VBN	O	13	157
+on	IN	B-PP	14	157
+a	DT	B-NP	15	157
+constitutional	JJ	I-NP	16	157
+right	NN	I-NP	17	157	PRED	ABILITY-WITH-AGENT
+to	TO	O	18	157
+refuse	VB	O	19	157	ARG1-PRD
+to	TO	O	20	157
+testify	VB	O	21	157
+where	IN	B-ADVP	22	157
+one	PRP	B-NP	23	157
+'s	POS	B-NP	24	157
+testimony	NN	I-NP	25	157
+harms	VBZ	O	26	157
+him	PRP	B-NP	27	157
+in	IN	B-PP	28	157
+the	DT	B-NP	29	157
+civil	JJ	I-NP	30	157
+matter	NN	I-NP	31	157
+COMMA	COMMA	O	32	157
+but	CC	B-CONJP	33	157
+because	IN	O	34	157
+the	DT	B-NP	35	157
+testimony	NN	I-NP	36	157
+in	IN	B-PP	37	157
+the	DT	B-NP	38	157
+civil	JJ	I-NP	39	157
+matter	NN	I-NP	40	157
+could	MD	O	41	157
+be	VB	O	42	157
+unconstitutionally	RB	B-ADVP	43	157
+used	VBN	O	44	157
+against	IN	B-PP	45	157
+him	PRP	B-NP	46	157
+in	IN	B-PP	47	157
+a	DT	B-NP	48	157
+subsequent	JJ	I-NP	49	157
+criminal	JJ	I-NP	50	157
+prosecution	NN	I-NP	51	157
+.	.	O	52	157
+
+The	DT	B-NP	0	158
+subcommittee	NN	I-NP	1	158	ARG0
+COMMA	COMMA	O	2	158
+Congress	NNP	B-NP	3	158	ARG0
+and	CC	O	4	158
+the	DT	B-NP	5	158
+American	JJ	I-NP	6	158
+public	NN	I-NP	7	158	ARG0
+have	VBP	O	8	158	SUPPORT
+every	DT	B-NP	9	158
+right	NN	I-NP	10	158	PRED	ABILITY-WITH-AGENT
+to	TO	O	11	158
+draw	VB	O	12	158	ARG1-PRD
+the	DT	B-NP	13	158
+adverse	JJ	I-NP	14	158
+inference	NN	I-NP	15	158
+and	CC	B-CONJP	16	158
+to	TO	O	17	158
+concur	VB	O	18	158	ARG1-PRD
+with	IN	B-PP	19	158
+Mr.	NNP	B-NP	20	158
+Pierce	NNP	I-NP	21	158
+'s	POS	B-NP	22	158
+own	JJ	I-NP	23	158
+belief	NN	B-NP	24	158
+that	IN	O	25	158
+his	PRP$	B-NP	26	158
+testimony	NN	I-NP	27	158
+could	MD	O	28	158
+help	VB	O	29	158
+convict	VB	O	30	158
+him	PRP	B-NP	31	158
+of	IN	B-PP	32	158
+a	DT	B-NP	33	158
+crime	NN	I-NP	34	158
+.	.	O	35	158
+
+He	PRP	B-NP	0	159
+used	VBD	O	1	159
+about	RB	B-ADVP	2	159
+56	CD	B-NP	3	159
+words	NNS	I-NP	4	159
+defending	VBG	O	5	159
+the	DT	B-NP	6	159
+witnesses	NNS	I-NP	7	159	ARG0
+'	POS	B-NP	8	159
+constitutional	JJ	I-NP	9	159
+rights	NNS	I-NP	10	159	PRED	ABILITY-WITH-AGENT
+.	.	O	11	159
+
+She	PRP	B-NP	0	160
+added	VBD	O	1	160
+that	IN	B-SBAR	2	160
+she	PRP	B-NP	3	160
+expected	VBD	O	4	160
+``	``	O	5	160
+perhaps	RB	B-ADVP	6	160
+to	TO	O	7	160
+have	VB	O	8	160
+a	DT	B-NP	9	160
+down	JJ	I-NP	10	160
+payment	NN	I-NP	11	160
+...	:	O	12	160
+some	DT	B-NP	13	160
+small	JJ	I-NP	14	160
+step	NN	I-NP	15	160	PRED	ABILITY/MODIFIED
+to	TO	O	16	160
+convince	VB	O	17	160	ARG1
+the	DT	B-NP	18	160
+American	JJ	I-NP	19	160
+people	NNS	I-NP	20	160
+and	CC	O	21	160
+the	DT	B-NP	22	160
+Japanese	JJ	I-NP	23	160
+people	NNS	I-NP	24	160
+that	IN	B-SBAR	25	160
+we	PRP	B-NP	26	160
+'re	VBP	O	27	160
+moving	VBG	O	28	160
+in	IN	B-PP	29	160
+earnest	NN	B-NP	30	160
+.	.	O	31	160
+''	''	O	32	160
+
+But	CC	B-CONJP	0	161
+it	PRP	B-NP	1	161
+'s	VBZ	O	2	161
+uncertain	JJ	B-ADJP	3	161
+whether	IN	B-SBAR	4	161
+these	DT	B-NP	5	161
+institutions	NNS	I-NP	6	161	ARG0
+will	MD	O	7	161
+take	VB	O	8	161	SUPPORT
+those	DT	B-NP	9	161
+steps	NNS	I-NP	10	161	PRED	ABILITY/MODIFIED
+.	.	O	11	161
+
+The	DT	B-NP	0	162
+new	JJ	I-NP	1	162
+show	NN	I-NP	2	162
+is	VBZ	O	3	162
+perhaps	RB	B-ADVP	4	162
+the	DT	B-NP	5	162
+boldest	JJS	I-NP	6	162
+in	IN	B-PP	7	162
+a	DT	B-NP	8	162
+number	NN	I-NP	9	162
+of	IN	B-PP	10	162
+steps	NNS	B-NP	11	162	PRED	ABILITY/MODIFIED
+the	DT	B-NP	12	162
+network	NN	I-NP	13	162	ARG0
+is	VBZ	O	14	162
+taking	VBG	O	15	162	SUPPORT
+to	TO	O	16	162
+build	VB	O	17	162	ARG1-PRD
+audience	NN	B-NP	18	162
+loyalty	NN	I-NP	19	162
+by	IN	B-PP	20	162
+shifting	VBG	O	21	162
+away	RB	B-PP	22	162
+from	IN	B-PP	23	162
+its	PRP$	B-NP	24	162
+current	JJ	I-NP	25	162
+format	NN	I-NP	26	162
+toward	IN	B-PP	27	162
+more	DT	B-NP	28	162
+full-length	JJ	I-NP	29	162
+``	``	I-NP	30	162
+signature	NN	I-NP	31	162
+''	''	I-NP	32	162
+programming	NN	I-NP	33	162
+with	IN	B-PP	34	162
+recognizable	JJ	B-NP	35	162
+stars	NNS	I-NP	36	162
+.	.	O	37	162
+
+Asked	VBD	O	0	163
+to	TO	O	1	163
+compare	VB	O	2	163
+her	PRP	B-NP	3	163
+visit	NN	I-NP	4	163
+to	IN	B-PP	5	163
+Mr.	NNP	B-NP	6	163
+Mosbacher	NNP	I-NP	7	163
+'s	POS	B-NP	8	163
+COMMA	COMMA	O	9	163
+Mrs.	NNP	B-NP	10	163
+Hills	NNP	I-NP	11	163
+replied	VBD	O	12	163
+:	:	O	13	163
+``	``	O	14	163
+I	PRP	B-NP	15	163
+did	VBD	O	16	163
+n't	RB	B-ADVP	17	163
+hear	VB	O	18	163
+every	DT	B-NP	19	163
+word	NN	I-NP	20	163
+he	PRP	B-NP	21	163
+spoke	VBD	O	22	163
+COMMA	COMMA	O	23	163
+but	CC	B-CONJP	24	163
+as	IN	B-SBAR	25	163
+a	DT	B-NP	26	163
+general	JJ	I-NP	27	163
+proposition	NN	I-NP	28	163
+COMMA	COMMA	O	29	163
+I	PRP	B-NP	30	163
+think	VBP	O	31	163
+we	PRP	B-NP	32	163	ARG0
+have	VBP	O	33	163	SUPPORT
+a	DT	O	34	163
+very	RB	B-ADVP	35	163
+consistent	JJ	B-NP	36	163	ARGM-MNR
+trade	NN	I-NP	37	163	ARG1
+strategy	NN	I-NP	38	163	PRED	ABILITY-WITH-AGENT
+in	IN	B-PP	39	163
+the	DT	B-NP	40	163
+Bush	NNP	I-NP	41	163
+administration	NN	I-NP	42	163
+.	.	O	43	163
+''	''	O	44	163
+
+GM	NNP	B-NP	0	164
+officials	NNS	I-NP	1	164
+want	VBP	O	2	164
+to	TO	O	3	164
+get	VB	O	4	164
+their	PRP$	B-NP	5	164	ARG0
+strategy	NN	I-NP	6	164	PRED	ABILITY-WITH-AGENT
+to	TO	O	7	164
+reduce	VB	O	8	164	ARG1-PRD
+capacity	NN	B-NP	9	164
+and	CC	O	10	164
+the	DT	B-NP	11	164
+work	NN	I-NP	12	164
+force	NN	I-NP	13	164
+in	IN	B-PP	14	164
+place	NN	B-NP	15	164
+before	IN	O	16	164
+those	DT	B-NP	17	164
+talks	NNS	I-NP	18	164
+begin	VBP	O	19	164
+.	.	O	20	164
+
+Its	PRP$	B-NP	0	165	ARG0
+strategy	NN	I-NP	1	165	PRED	ABILITY-WITH-AGENT
+in	IN	B-PP	2	165
+the	DT	B-NP	3	165
+past	NN	I-NP	4	165
+has	VBZ	O	5	165
+been	VBN	O	6	165
+to	TO	O	7	165
+serve	VB	O	8	165
+as	IN	B-SBAR	9	165
+a	DT	B-NP	10	165
+TV	NN	I-NP	11	165
+wire	NN	I-NP	12	165
+service	NN	I-NP	13	165
+.	.	O	14	165
+
+The	DT	B-NP	0	166
+branch	NN	I-NP	1	166
+sale	NN	I-NP	2	166
+is	VBZ	O	3	166
+the	DT	B-NP	4	166
+centerpiece	NN	I-NP	5	166
+of	IN	B-PP	6	166
+CenTrust	NNP	B-NP	7	166	ARG0
+'s	POS	B-NP	8	166
+strategy	NN	I-NP	9	166	PRED	ABILITY-WITH-AGENT
+to	TO	O	10	166
+transform	VB	O	11	166	ARG1-PRD
+itself	PRP	B-NP	12	166
+into	IN	B-PP	13	166
+a	DT	B-NP	14	166
+traditional	JJ	I-NP	15	166
+S&L	NN	I-NP	16	166
+from	IN	B-PP	17	166
+a	DT	B-NP	18	166
+high-flying	JJ	I-NP	19	166
+institution	NN	I-NP	20	166
+that	WDT	B-NP	21	166
+relied	VBD	O	22	166
+heavily	RB	B-ADVP	23	166
+on	IN	B-PP	24	166
+securities	NNS	B-NP	25	166
+trading	NN	I-NP	26	166
+for	IN	B-PP	27	166
+profits	NNS	B-NP	28	166
+COMMA	COMMA	O	29	166
+according	VBG	B-PP	30	166
+to	IN	B-PP	31	166
+Mr.	NNP	B-NP	32	166
+Paul	NNP	I-NP	33	166
+.	.	O	34	166
+
+Our	PRP$	B-NP	0	167	ARG0
+long	JJ	I-NP	1	167
+suit	NN	I-NP	2	167	PRED	ABILITY-WITH-AGENT
+is	VBZ	O	3	167
+our	PRP$	B-NP	4	167
+proven	VBN	O	5	167
+ability	NN	B-NP	6	167
+to	TO	O	7	167
+operate	VB	O	8	167
+''	''	O	9	167
+power	NN	B-NP	10	167
+plants	NNS	I-NP	11	167
+COMMA	COMMA	O	12	167
+he	PRP	B-NP	13	167
+said	VBD	O	14	167
+.	.	O	15	167
+
+Under	IN	B-PP	0	168
+another	DT	B-NP	1	168
+post-crash	NN	I-NP	2	168	ARG1
+system	NN	I-NP	3	168	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	4	168
+Big	NNP	B-NP	5	168
+Board	NNP	I-NP	6	168
+President	NNP	I-NP	7	168
+Richard	NNP	I-NP	8	168
+Grasso	NNP	I-NP	9	168
+(	(	O	10	168
+Mr.	NNP	B-NP	11	168
+Phelan	NNP	I-NP	12	168
+was	VBD	O	13	168
+flying	VBG	O	14	168
+to	IN	B-PP	15	168
+Bangkok	NNP	B-NP	16	168
+as	IN	O	17	168
+the	DT	B-NP	18	168
+market	NN	I-NP	19	168
+was	VBD	O	20	168
+falling	VBG	O	21	168
+)	)	O	22	168
+was	VBD	O	23	168
+talking	VBG	O	24	168
+on	IN	B-PP	25	168
+an	DT	B-NP	26	168
+``	``	I-NP	27	168
+inter-exchange	NN	I-NP	28	168
+hot	JJ	I-NP	29	168
+line	NN	I-NP	30	168
+''	''	O	31	168
+to	IN	B-PP	32	168
+the	DT	B-NP	33	168
+other	JJ	I-NP	34	168
+exchanges	NNS	I-NP	35	168
+COMMA	COMMA	O	36	168
+the	DT	B-NP	37	168
+Securities	NNP	B-NP	38	168
+and	CC	O	39	168
+Exchange	NNP	B-NP	40	168
+Commission	NNP	I-NP	41	168
+and	CC	O	42	168
+the	DT	B-NP	43	168
+Federal	NNP	B-NP	44	168
+Reserve	NNP	I-NP	45	168
+Board	NNP	I-NP	46	168
+.	.	O	47	168
+
+Elcotel	NNP	B-NP	0	169
+has	VBZ	O	1	169
+also	RB	O	2	169
+developed	VBN	O	3	169
+an	DT	B-NP	4	169
+automatic	JJ	I-NP	5	169
+call	NN	I-NP	6	169
+processor	NN	I-NP	7	169
+that	WDT	B-NP	8	169
+will	MD	O	9	169
+make	VB	O	10	169
+further	JJR	B-NP	11	169
+use	NN	I-NP	12	169
+of	IN	B-PP	13	169
+the	DT	B-NP	14	169
+company	NN	I-NP	15	169	ARG0
+'s	POS	B-NP	16	169
+system	NN	I-NP	17	169	PRED	ABILITY-WITH-AGENT
+for	IN	B-PP	18	169
+automating	VBG	O	19	169	ARG1
+and	CC	O	20	169
+handling	VBG	O	21	169	ARG1
+credit-card	NN	B-NP	22	169
+calls	NNS	I-NP	23	169
+and	CC	O	24	169
+collect	JJ	B-NP	25	169
+calls	NNS	I-NP	26	169
+.	.	O	27	169
+
+Information	NNP	B-NP	0	170
+International	NNP	I-NP	1	170
+Inc.	NNP	I-NP	2	170
+said	VBD	O	3	170
+it	PRP	B-NP	4	170
+was	VBD	O	5	170
+sued	VBN	O	6	170
+by	IN	B-PP	7	170
+a	DT	B-NP	8	170
+buyer	NN	I-NP	9	170
+of	IN	B-PP	10	170
+its	PRP$	B-NP	11	170	ARG0
+computerized	VBN	O	12	170
+newspaper-publishing	NN	B-NP	13	170	ARG1
+system	NN	I-NP	14	170	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	15	170
+alleging	VBG	O	16	170
+that	IN	B-SBAR	17	170
+the	DT	B-NP	18	170
+company	NN	I-NP	19	170
+failed	VBD	O	20	170
+to	TO	O	21	170
+correct	VB	O	22	170
+deficiencies	NNS	B-NP	23	170
+in	IN	B-PP	24	170
+the	DT	B-NP	25	170
+system	NN	I-NP	26	170
+.	.	O	27	170
+
+The	DT	B-NP	0	171
+London	NNP	B-NP	1	171
+Sunday	NNP	I-NP	2	171
+Times	NNP	I-NP	3	171
+COMMA	COMMA	O	4	171
+which	WDT	B-NP	5	171
+first	RB	B-ADVP	6	171
+reported	VBD	O	7	171
+the	DT	B-NP	8	171
+U.S.	NNP	I-NP	9	171
+concerns	NNS	I-NP	10	171
+COMMA	COMMA	O	11	171
+cited	VBD	O	12	171
+a	DT	B-NP	13	171
+U.S.	NNP	I-NP	14	171
+intelligence	NN	I-NP	15	171
+report	NN	I-NP	16	171
+as	IN	B-SBAR	17	171
+the	DT	B-NP	18	171
+source	NN	I-NP	19	171
+of	IN	B-PP	20	171
+the	DT	B-NP	21	171
+allegations	NNS	B-NP	22	171
+that	IN	O	23	171
+Olivetti	NNP	B-NP	24	171
+exported	VBD	O	25	171
+$	$	O	26	171
+25	CD	B-NP	27	171
+million	CD	I-NP	28	171
+in	IN	B-PP	29	171
+``	``	O	30	171
+embargoed	VBN	O	31	171
+COMMA	COMMA	B-NP	32	171
+state-of-the-art	NN	I-NP	33	171
+COMMA	COMMA	I-NP	34	171
+flexible	JJ	I-NP	35	171
+manufacturing	NN	I-NP	36	171	ARG1
+systems	NNS	I-NP	37	171	PRED	ABILITY-WITH-AGENT
+to	IN	B-PP	38	171
+the	DT	B-NP	39	171
+Soviet	JJ	I-NP	40	171
+aviation	NN	I-NP	41	171
+industry	NN	I-NP	42	171
+.	.	O	43	171
+''	''	O	44	171
+
+Acquirers	NNS	B-NP	0	172
+paid	VBD	O	1	172
+premiums	NNS	B-NP	2	172
+ranging	VBG	O	3	172
+from	IN	O	4	172
+1.5	CD	B-NP	5	172
+%	NN	I-NP	6	172
+to	IN	B-NP	7	172
+3.7	CD	B-NP	8	172
+%	NN	I-NP	9	172
+for	IN	B-PP	10	172
+the	DT	B-NP	11	172
+deposits	NNS	I-NP	12	172
+and	CC	I-NP	13	172
+branch	NN	I-NP	14	172	ARG1
+systems	NNS	I-NP	15	172	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	16	172
+roughly	RB	B-ADVP	17	172
+in	IN	B-PP	18	172
+line	NN	B-NP	19	172
+with	IN	B-PP	20	172
+what	WP	B-NP	21	172
+analysts	NNS	B-NP	22	172
+were	VBD	O	23	172
+expecting	VBG	O	24	172
+.	.	O	25	172
+
+In	IN	O	0	173
+addition	NN	B-NP	1	173
+COMMA	COMMA	O	2	173
+many	DT	B-NP	3	173
+cable-TV	NN	I-NP	4	173	ARG1
+systems	NNS	I-NP	5	173	PRED	ABILITY-WITH-AGENT
+themselves	PRP	B-NP	6	173
+are	VBP	O	7	173
+airing	VBG	O	8	173
+more	DT	B-NP	9	173
+local	JJ	I-NP	10	173
+and	CC	I-NP	11	173
+regional	JJ	I-NP	12	173
+news	NN	I-NP	13	173
+programs	NNS	I-NP	14	173
+produced	VBN	O	15	173
+by	IN	B-PP	16	173
+local	JJ	B-NP	17	173
+broadcast	NN	I-NP	18	173
+stations	NNS	I-NP	19	173
+.	.	O	20	173
+
+Friday	NNP	B-NP	0	174
+COMMA	COMMA	O	1	174
+42	CD	B-NP	2	174
+franchisees	NNS	I-NP	3	174
+announced	VBD	O	4	174
+the	DT	B-NP	5	174
+formation	NN	I-NP	6	174
+of	IN	B-PP	7	174
+an	DT	B-NP	8	174
+association	NN	I-NP	9	174
+--	:	O	10	174
+called	VBN	O	11	174
+A.P.	NNP	B-NP	12	174
+Association	NNP	I-NP	13	174
+Inc.	NNP	I-NP	14	174
+--	:	O	15	174
+to	TO	O	16	174
+``	``	O	17	174
+preserve	VB	O	18	174
+the	DT	B-NP	19	174
+integrity	NN	I-NP	20	174
+of	IN	B-PP	21	174
+the	DT	B-NP	22	174
+Arby	NNP	I-NP	23	174	ARG0
+'s	POS	B-NP	24	174
+system	NN	I-NP	25	174	PRED	ABILITY-WITH-AGENT
+.	.	O	26	174
+''	''	O	27	174
+
+The	DT	B-NP	0	175
+franchisees	NNS	I-NP	1	175
+COMMA	COMMA	O	2	175
+owners	NNS	B-NP	3	175
+or	CC	O	4	175
+operators	NNS	B-NP	5	175
+of	IN	B-PP	6	175
+1COMMA000	CD	B-NP	7	175
+of	IN	B-PP	8	175
+the	DT	B-NP	9	175
+1COMMA900	CD	I-NP	10	175
+franchised	VBN	O	11	175
+Arby	NNP	B-NP	12	175
+'s	POS	B-NP	13	175
+in	IN	B-PP	14	175
+the	DT	B-NP	15	175
+U.S.	NNP	I-NP	16	175
+COMMA	COMMA	O	17	175
+said	VBD	O	18	175
+:	:	O	19	175
+``	``	O	20	175
+We	PRP	B-NP	21	175
+have	VBP	O	22	175
+concluded	VBN	O	23	175
+that	IN	O	24	175
+continued	VBN	O	25	175
+control	NN	B-NP	26	175
+of	IN	B-PP	27	175
+Arby	NNP	B-NP	28	175
+'s	POS	B-NP	29	175
+by	IN	B-PP	30	175
+Victor	NNP	B-NP	31	175
+Posner	NNP	I-NP	32	175
+is	VBZ	O	33	175
+totally	RB	B-ADJP	34	175
+unacceptable	JJ	I-ADJP	35	175
+to	IN	B-PP	36	175
+us	PRP	B-NP	37	175
+COMMA	COMMA	O	38	175
+because	IN	O	39	175
+it	PRP	B-NP	40	175
+is	VBZ	O	41	175
+extremely	RB	B-ADJP	42	175
+likely	JJ	I-ADJP	43	175
+to	TO	O	44	175
+cause	VB	O	45	175
+irreparable	JJ	B-NP	46	175
+damage	NN	I-NP	47	175
+to	IN	B-PP	48	175
+the	DT	B-NP	49	175
+Arby	NNP	I-NP	50	175	ARG0
+'s	POS	B-NP	51	175
+system	NN	I-NP	52	175	PRED	ABILITY-WITH-AGENT
+.	.	O	53	175
+
+We	PRP	B-NP	0	176
+support	VBP	O	1	176
+all	DT	B-NP	2	176
+efforts	NNS	I-NP	3	176
+to	TO	O	4	176
+remove	VB	O	5	176
+Victor	NNP	B-NP	6	176
+Posner	NNP	I-NP	7	176
+from	IN	B-PP	8	176
+control	NN	B-NP	9	176
+of	IN	B-PP	10	176
+Arby	NNP	B-NP	11	176
+'s	POS	B-NP	12	176
+Inc.	NNP	I-NP	13	176
+and	CC	O	14	176
+the	DT	B-NP	15	176
+Arby	NNP	I-NP	16	176	ARG0
+'s	POS	B-NP	17	176
+system	NN	I-NP	18	176	PRED	ABILITY-WITH-AGENT
+.	.	O	19	176
+''	''	O	20	176
+
+Interprovincial	NNP	B-NP	0	177
+Pipe	NNP	I-NP	1	177
+Line	NNP	I-NP	2	177
+Co.	NNP	I-NP	3	177
+said	VBD	O	4	177
+it	PRP	B-NP	5	177
+will	MD	O	6	177
+delay	VB	O	7	177
+a	DT	O	8	177
+proposed	VBN	O	9	177
+two-step	NN	O	10	177
+COMMA	COMMA	O	11	177
+830	CD	B-NP	12	177
+million	CD	I-NP	13	177
+Canadian-dollar	NN	B-NP	14	177
+(	(	O	15	177
+US$	$	O	16	177
+705.6	CD	B-NP	17	177
+million	CD	I-NP	18	177
+)	)	O	19	177
+expansion	NN	B-NP	20	177
+of	IN	B-PP	21	177
+its	PRP$	B-NP	22	177	ARG0
+system	NN	I-NP	23	177	PRED	ABILITY-WITH-AGENT
+because	IN	O	24	177
+Canada	NNP	B-NP	25	177
+'s	POS	B-NP	26	177
+output	NN	I-NP	27	177
+of	IN	B-PP	28	177
+crude	JJ	B-NP	29	177
+oil	NN	I-NP	30	177
+is	VBZ	O	31	177
+shrinking	VBG	O	32	177
+.	.	O	33	177
+
+Nearly	RB	B-ADVP	0	178
+all	DT	B-NP	1	178
+of	IN	B-PP	2	178
+the	DT	B-NP	3	178
+crude	JJ	I-NP	4	178
+oil	NN	I-NP	5	178
+that	WDT	B-NP	6	178
+Canada	NNP	B-NP	7	178
+exports	VBZ	O	8	178
+to	IN	B-PP	9	178
+the	DT	B-NP	10	178
+U.S.	NNP	I-NP	11	178
+is	VBZ	O	12	178
+transported	VBN	O	13	178
+on	IN	B-PP	14	178
+Interprovincial	NNP	B-NP	15	178	ARG0
+'s	POS	B-NP	16	178
+system	NN	I-NP	17	178	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	18	178
+whose	WP$	O	19	178
+main	JJ	B-NP	20	178
+line	NN	I-NP	21	178
+runs	VBZ	O	22	178
+from	IN	B-PP	23	178
+Edmonton	NNP	B-NP	24	178
+to	IN	B-PP	25	178
+major	JJ	B-NP	26	178
+U.S.	NNP	I-NP	27	178
+and	CC	I-NP	28	178
+Canadian	JJ	I-NP	29	178
+cities	NNS	I-NP	30	178
+in	IN	B-PP	31	178
+the	DT	O	32	178
+Great	NNP	B-NP	33	178
+Lakes	NNPS	I-NP	34	178
+region	NN	B-NP	35	178
+COMMA	COMMA	O	36	178
+including	VBG	O	37	178
+Chicago	NNP	B-NP	38	178
+COMMA	COMMA	I-NP	39	178
+Buffalo	NNP	I-NP	40	178
+COMMA	COMMA	I-NP	41	178
+Toronto	NNP	I-NP	42	178
+and	CC	I-NP	43	178
+Montreal	NNP	I-NP	44	178
+.	.	O	45	178
+
+Under	IN	B-PP	0	179
+terms	NNS	B-NP	1	179
+of	IN	B-PP	2	179
+its	PRP$	B-NP	3	179
+proposed	VBN	O	4	179
+two-step	NN	B-NP	5	179
+expansion	NN	I-NP	6	179
+COMMA	COMMA	O	7	179
+which	WDT	B-NP	8	179
+would	MD	O	9	179
+have	VB	O	10	179
+required	VBN	O	11	179
+regulatory	JJ	B-NP	12	179
+approval	NN	I-NP	13	179
+COMMA	COMMA	O	14	179
+Interprovincial	NNP	B-NP	15	179
+intended	VBD	O	16	179
+to	TO	O	17	179
+add	VB	O	18	179
+200COMMA000	CD	B-NP	19	179
+barrels	NNS	I-NP	20	179
+a	DT	B-NP	21	179
+day	NN	I-NP	22	179
+of	IN	B-PP	23	179
+additional	JJ	B-NP	24	179
+capacity	NN	I-NP	25	179
+to	IN	B-PP	26	179
+its	PRP$	B-NP	27	179	ARG0
+system	NN	I-NP	28	179	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	29	179
+beginning	VBG	O	30	179
+with	IN	B-PP	31	179
+a	DT	B-NP	32	179
+modest	JJ	I-NP	33	179
+expansion	NN	I-NP	34	179
+by	IN	B-PP	35	179
+1991	CD	B-NP	36	179
+.	.	O	37	179
+
+Mr.	NNP	B-NP	0	180
+Watkins	NNP	I-NP	1	180
+said	VBD	O	2	180
+volume	NN	B-NP	3	180
+on	IN	B-PP	4	180
+Interprovincial	NNP	B-NP	5	180	ARG0
+'s	POS	B-NP	6	180
+system	NN	I-NP	7	180	PRED	ABILITY-WITH-AGENT
+is	VBZ	O	8	180
+down	IN	B-PP	9	180
+about	RB	B-ADVP	10	180
+2	CD	B-NP	11	180
+%	NN	I-NP	12	180
+since	IN	B-PP	13	180
+January	NNP	B-NP	14	180
+and	CC	O	15	180
+is	VBZ	O	16	180
+expected	VBN	O	17	180
+to	TO	O	18	180
+fall	VB	O	19	180
+further	RBR	B-ADVP	20	180
+COMMA	COMMA	O	21	180
+making	VBG	O	22	180
+expansion	NN	B-NP	23	180
+unnecessary	JJ	B-ADJP	24	180
+until	IN	B-PP	25	180
+perhaps	RB	B-ADVP	26	180
+the	DT	B-NP	27	180
+mid-1990s	NNS	I-NP	28	180
+.	.	O	29	180
+
+Meanwhile	RB	O	0	181
+COMMA	COMMA	O	1	181
+competition	NN	B-NP	2	181
+between	IN	B-PP	3	181
+various	JJ	B-NP	4	181
+operating	NN	I-NP	5	181	ARG1
+systems	NNS	I-NP	6	181	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	7	181
+which	WDT	B-NP	8	181
+control	VBP	O	9	181
+the	DT	B-NP	10	181
+basic	JJ	I-NP	11	181
+functions	NNS	I-NP	12	181
+of	IN	B-PP	13	181
+a	DT	B-NP	14	181
+computer	NN	I-NP	15	181
+COMMA	COMMA	O	16	181
+spells	VBZ	O	17	181
+trouble	NN	B-NP	18	181
+for	IN	B-PP	19	181
+software	NN	B-NP	20	181
+firms	NNS	I-NP	21	181
+generally	RB	B-ADVP	22	181
+.	.	O	23	181
+
+As	IN	B-SBAR	0	182
+a	DT	B-NP	1	182
+result	NN	I-NP	2	182
+of	IN	B-PP	3	182
+this	DT	B-NP	4	182
+trend	NN	I-NP	5	182
+COMMA	COMMA	O	6	182
+longtime	JJ	B-NP	7	182
+powerhouses	NNS	I-NP	8	182
+H-P	NNP	I-NP	9	182
+COMMA	COMMA	I-NP	10	182
+IBM	NNP	I-NP	11	182
+and	CC	I-NP	12	182
+Digital	NNP	I-NP	13	182
+Equipment	NNP	I-NP	14	182
+Corp.	NNP	I-NP	15	182
+are	VBP	O	16	182
+scrambling	VBG	O	17	182
+to	TO	O	18	182
+counterattack	VB	O	19	182
+with	IN	B-PP	20	182
+microprocessor-based	VBN	O	21	182
+systems	NNS	B-NP	22	182	PRED	ABILITY-WITH-AGENT
+of	IN	B-PP	23	182
+their	PRP$	B-NP	24	182
+own	JJ	I-NP	25	182	ARG0
+.	.	O	26	182
+
+To	IN	B-PP	0	183
+the	DT	B-NP	1	183
+delight	NN	I-NP	2	183
+of	IN	B-PP	3	183
+some	DT	B-NP	4	183
+doctors	NNS	I-NP	5	183
+COMMA	COMMA	O	6	183
+the	DT	B-NP	7	183
+bill	NN	I-NP	8	183
+dropped	VBD	O	9	183
+a	DT	B-NP	10	183
+plan	NN	I-NP	11	183
+passed	VBN	O	12	183
+by	IN	B-PP	13	183
+the	DT	B-NP	14	183
+Finance	NNP	B-NP	15	183
+Committee	NNP	I-NP	16	183
+that	WDT	B-NP	17	183
+would	MD	O	18	183
+have	VB	O	19	183
+overhauled	VBN	O	20	183
+the	DT	B-NP	21	183
+entire	JJ	I-NP	22	183
+physician-reimbursement	NN	I-NP	23	183	ARG1
+system	NN	I-NP	24	183	PRED	ABILITY-WITH-AGENT
+under	IN	B-PP	25	183
+Medicare	NNP	B-NP	26	183	ARG0
+.	.	O	27	183
+
+The	DT	B-NP	0	184
+main	JJ	I-NP	1	184
+thing	NN	I-NP	2	184
+was	VBD	O	3	184
+portfolio	NN	B-NP	4	184
+insurance	NN	I-NP	5	184
+COMMA	COMMA	O	6	184
+''	''	O	7	184
+a	DT	B-NP	8	184
+mechanical	JJ	I-NP	9	184
+trading	NN	I-NP	10	184	ARG1
+system	NN	I-NP	11	184	PRED	ABILITY-WITH-AGENT
+intended	VBN	O	12	184
+to	TO	O	13	184
+protect	VB	O	14	184
+an	DT	B-NP	15	184
+investor	NN	I-NP	16	184
+against	IN	B-PP	17	184
+losses	NNS	B-NP	18	184
+.	.	O	19	184
+``	``	O	20	184
+
+Joseph	NNP	B-NP	0	185
+Hardiman	NNP	I-NP	1	185
+COMMA	COMMA	O	2	185
+president	NN	B-NP	3	185
+of	IN	B-PP	4	185
+the	DT	B-NP	5	185
+National	NNP	B-NP	6	185
+Association	NNP	I-NP	7	185
+of	IN	B-PP	8	185
+Securities	NNP	B-NP	9	185
+Dealers	NNP	I-NP	10	185
+COMMA	COMMA	O	11	185
+which	WDT	B-NP	12	185
+oversees	VBZ	O	13	185
+the	DT	B-NP	14	185
+Nasdaq	NNP	I-NP	15	185	ARG1
+computerized	VBN	O	16	185
+trading	NN	B-NP	17	185
+system	NN	I-NP	18	185	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	19	185
+said	VBD	O	20	185
+that	IN	B-SBAR	21	185
+despite	IN	B-PP	22	185
+the	DT	B-NP	23	185
+rush	NN	I-NP	24	185
+of	IN	B-PP	25	185
+selling	VBG	O	26	185
+COMMA	COMMA	O	27	185
+he	PRP	B-NP	28	185
+never	RB	B-ADVP	29	185
+considered	VBD	O	30	185
+the	DT	B-NP	31	185
+situation	NN	I-NP	32	185
+an	DT	B-NP	33	185
+``	``	I-NP	34	185
+emergency	NN	I-NP	35	185
+.	.	O	36	185
+''	''	O	37	185
+
+Boeing	NNP	B-NP	0	186	ARG0
+Co.	NNP	I-NP	1	186
+received	VBD	O	2	186
+a	DT	O	3	186
+$	$	O	4	186
+46.7	CD	B-NP	5	186
+million	CD	I-NP	6	186
+Air	NNP	B-NP	7	186
+Force	NNP	I-NP	8	186
+contract	NN	B-NP	9	186
+for	IN	B-PP	10	186
+developing	VBG	O	11	186	SUPPORT
+cable	NN	B-NP	12	186	ARG1
+systems	NNS	I-NP	13	186	PRED	ABILITY-WITH-AGENT
+for	IN	B-PP	14	186
+the	DT	B-NP	15	186
+Minuteman	NNP	B-NP	16	186
+Missile	NNP	I-NP	17	186
+.	.	O	18	186
+
+Tandem	NNP	B-NP	0	187
+makes	VBZ	O	1	187
+``	``	B-NP	2	187
+fault-tolerant	JJ	I-NP	3	187
+''	''	I-NP	4	187
+computers	NNS	I-NP	5	187
+--	:	O	6	187
+machines	NNS	B-NP	7	187
+with	IN	B-PP	8	187
+built-in	JJ	B-NP	9	187
+backup	NN	I-NP	10	187	ARG1
+systems	NNS	I-NP	11	187	PRED	ABILITY-WITH-AGENT
+--	:	O	12	187
+that	WDT	B-NP	13	187
+run	VBP	O	14	187
+stock	NN	B-NP	15	187
+exchanges	NNS	I-NP	16	187
+COMMA	COMMA	O	17	187
+networks	NNS	B-NP	18	187
+of	IN	B-PP	19	187
+automatic	JJ	B-NP	20	187
+tellers	NNS	I-NP	21	187
+and	CC	O	22	187
+other	JJ	B-NP	23	187
+complex	JJ	I-NP	24	187
+computer	NN	I-NP	25	187
+systems	NNS	I-NP	26	187
+.	.	O	27	187
+
+Tandem	NNP	B-NP	0	188
+makes	VBZ	O	1	188
+``	``	B-NP	2	188
+fault-tolerant	JJ	I-NP	3	188
+''	''	I-NP	4	188
+computers	NNS	I-NP	5	188
+--	:	O	6	188
+machines	NNS	B-NP	7	188
+with	IN	B-PP	8	188
+built-in	JJ	B-NP	9	188
+backup	NN	I-NP	10	188
+systems	NNS	I-NP	11	188
+--	:	O	12	188
+that	WDT	B-NP	13	188
+run	VBP	O	14	188
+stock	NN	B-NP	15	188
+exchanges	NNS	I-NP	16	188
+COMMA	COMMA	O	17	188
+networks	NNS	B-NP	18	188
+of	IN	B-PP	19	188
+automatic	JJ	B-NP	20	188
+tellers	NNS	I-NP	21	188
+and	CC	O	22	188
+other	JJ	B-NP	23	188
+complex	JJ	I-NP	24	188
+computer	NN	I-NP	25	188	ARG1
+systems	NNS	I-NP	26	188	PRED	ABILITY-WITH-AGENT
+.	.	O	27	188
+
+But	CC	B-CONJP	0	189
+some	DT	B-NP	1	189
+saw	VBD	O	2	189
+it	PRP	B-NP	3	189
+as	IN	B-SBAR	4	189
+a	DT	B-NP	5	189
+classic	JJ	I-NP	6	189
+negotiating	NN	I-NP	7	189	ARG1
+tactic	NN	I-NP	8	189	PRED	ABILITY-WITH-AGENT
+.	.	O	9	189
+
+Another	DT	B-NP	0	190
+COMMA	COMMA	O	1	190
+``	``	O	2	190
+Jeux	NN	B-NP	3	190
+Sans	IN	I-NP	4	190
+Frontieres	NN	I-NP	5	190
+COMMA	COMMA	O	6	190
+''	''	O	7	190
+where	IN	B-ADVP	8	190
+villagers	NNS	B-NP	9	190	ARG0
+from	IN	B-PP	10	190
+assorted	JJ	B-NP	11	190
+European	JJ	I-NP	12	190
+countries	NNS	I-NP	13	190
+make	VBP	O	14	190
+fools	NNS	B-NP	15	190
+of	IN	B-PP	16	190
+themselves	PRP	B-NP	17	190
+performing	VBG	O	18	190	SUPPORT
+pointless	JJ	B-NP	19	190	ARGM-MNR
+tasks	NNS	I-NP	20	190	PRED	ABILITY-WITH-AGENT
+COMMA	COMMA	O	21	190
+is	VBZ	O	22	190
+a	DT	B-NP	23	190
+hit	NN	I-NP	24	190
+in	IN	B-PP	25	190
+France	NNP	B-NP	26	190
+.	.	O	27	190
+
+``	``	O	0	191
+There	EX	B-NP	1	191
+'s	VBZ	O	2	191
+no	DT	B-NP	3	191
+evidence	NN	B-NP	4	191
+that	IN	O	5	191
+the	DT	B-NP	6	191
+Soviet	JJ	I-NP	7	191
+program	NN	I-NP	8	191
+to	TO	O	9	191
+(	(	B-ADVP	10	191
+illegally	RB	I-ADVP	11	191
+)	)	O	12	191
+acquire	VB	O	13	191
+Western	JJ	B-NP	14	191	ARG0
+technology	NN	I-NP	15	191	PRED	ABILITY-WITH-AGENT
+has	VBZ	O	16	191
+diminished	VBN	O	17	191
+COMMA	COMMA	O	18	191
+''	''	O	19	191
+said	VBD	O	20	191
+a	DT	O	21	191
+State	NNP	B-NP	22	191
+Department	NNP	I-NP	23	191
+spokesman	NN	B-NP	24	191
+.	.	O	25	191
+
+Not	RB	B-ADVP	0	192
+only	RB	O	1	192
+is	VBZ	O	2	192
+Mr.	NNP	B-NP	3	192
+Mason	NNP	I-NP	4	192
+the	DT	B-NP	5	192
+star	NN	I-NP	6	192
+of	IN	B-PP	7	192
+``	``	O	8	192
+Chicken	NN	B-NP	9	192
+Soup	NN	I-NP	10	192
+COMMA	COMMA	O	11	192
+''	''	O	12	192
+he	PRP	B-NP	13	192
+'s	VBZ	O	14	192
+also	RB	O	15	192
+the	DT	B-NP	16	192
+inheritor	NN	I-NP	17	192	ARG0
+of	IN	B-PP	18	192
+a	DT	B-NP	19	192
+comedic	JJ	I-NP	20	192	ARG1
+tradition	NN	I-NP	21	192	PRED	ABILITY-WITH-AGENT
+dating	VBG	O	22	192
+back	RB	B-PP	23	192
+to	IN	B-PP	24	192
+``	``	O	25	192
+Duck	NN	B-NP	26	192
+Soup	NN	I-NP	27	192
+COMMA	COMMA	O	28	192
+''	''	O	29	192
+and	CC	B-CONJP	30	192
+he	PRP	B-NP	31	192
+'s	VBZ	O	32	192
+currently	RB	B-ADVP	33	192
+a	DT	B-NP	34	192
+man	NN	I-NP	35	192
+in	IN	B-PP	36	192
+hot	JJ	B-NP	37	192
+water	NN	I-NP	38	192
+.	.	O	39	192
+
+``	``	O	0	193
+This	DT	B-NP	1	193
+is	VBZ	O	2	193
+one	CD	B-NP	3	193
+of	IN	B-PP	4	193
+the	DT	B-NP	5	193
+best	JJS	I-NP	6	193	ARG2
+ways	NNS	I-NP	7	193	PRED	ABILITY-WITH-AGENT/ATTRIBUTE
+to	TO	O	8	193
+assure	VB	O	9	193	ARG1
+a	DT	B-NP	10	193
+pipeline	NN	I-NP	11	193
+of	IN	B-PP	12	193
+land	NN	B-NP	13	193
+to	TO	O	14	193
+fuel	VB	O	15	193
+our	PRP$	O	16	193
+growth	NN	B-NP	17	193
+at	IN	B-PP	18	193
+a	DT	B-NP	19	193
+minimum	JJ	I-NP	20	193
+risk	NN	I-NP	21	193
+to	IN	B-PP	22	193
+our	PRP$	B-NP	23	193
+company	NN	I-NP	24	193
+COMMA	COMMA	O	25	193
+''	''	O	26	193
+Mr.	NNP	B-NP	27	193
+Karatz	NNP	I-NP	28	193
+said	VBD	O	29	193
+.	.	O	30	193
+
+Quantum	NNP	B-NP	0	194
+described	VBD	O	1	194
+the	DT	B-NP	2	194
+payout	NN	I-NP	3	194
+at	IN	B-PP	4	194
+the	DT	B-NP	5	194
+time	NN	I-NP	6	194
+as	IN	O	7	194
+a	DT	B-NP	8	194
+way	NN	I-NP	9	194	PRED	ABILITY-WITH-AGENT/ATTRIBUTE
+for	IN	O	10	194	ARG1
+it	PRP	B-NP	11	194
+to	TO	O	12	194
+share	VB	O	13	194
+the	DT	B-NP	14	194
+bonanza	NN	I-NP	15	194
+with	IN	B-PP	16	194
+its	PRP$	B-NP	17	194
+holders	NNS	I-NP	18	194
+COMMA	COMMA	O	19	194
+because	IN	O	20	194
+its	PRP$	B-NP	21	194
+stock	NN	I-NP	22	194
+price	NN	I-NP	23	194
+was	VBD	O	24	194
+n't	RB	B-ADVP	25	194
+reflecting	VBG	O	26	194
+the	DT	B-NP	27	194
+huge	JJ	I-NP	28	194
+profit	NN	I-NP	29	194
+increases	NNS	I-NP	30	194
+.	.	O	31	194
+
+Asked	VBN	O	0	195
+about	IN	B-PP	1	195
+the	DT	B-NP	2	195
+speculation	NN	I-NP	3	195
+that	IN	B-SBAR	4	195
+Mr.	NNP	B-NP	5	195
+Louis-Dreyfus	NNP	I-NP	6	195	ARG0
+has	VBZ	O	7	195
+been	VBN	O	8	195
+hired	VBN	O	9	195
+to	TO	O	10	195
+pave	VB	O	11	195	SUPPORT
+the	DT	B-NP	12	195
+way	NN	I-NP	13	195	PRED	ABILITY-WITH-AGENT/ATTRIBUTE
+for	IN	B-PP	14	195
+a	DT	B-NP	15	195
+buy-out	NN	I-NP	16	195	ARG1
+by	IN	B-PP	17	195
+the	DT	B-NP	18	195
+brothers	NNS	I-NP	19	195
+COMMA	COMMA	O	20	195
+the	DT	B-NP	21	195
+executive	NN	I-NP	22	195
+replied	VBD	O	23	195
+COMMA	COMMA	O	24	195
+``	``	O	25	195
+That	DT	B-NP	26	195
+is	VBZ	O	27	195
+n't	RB	B-ADVP	28	195
+the	DT	B-NP	29	195
+reason	NN	I-NP	30	195
+Dreyfus	NNP	B-NP	31	195
+has	VBZ	O	32	195
+been	VBN	O	33	195
+brought	VBN	O	34	195
+in	RP	B-ADVP	35	195
+.	.	O	36	195
+
+However	RB	O	0	196
+COMMA	COMMA	O	1	196
+most	JJS	B-NP	2	196
+people	NNS	I-NP	3	196
+COMMA	COMMA	O	4	196
+having	VBG	O	5	196
+been	VBN	O	6	196
+subjected	VBN	O	7	196
+to	IN	B-PP	8	196
+news	NN	B-NP	9	196
+footage	NN	I-NP	10	196
+of	IN	B-PP	11	196
+the	DT	B-NP	12	196
+devastated	VBN	O	13	196
+South	NNP	B-NP	14	196
+Bronx	NNP	I-NP	15	196
+COMMA	COMMA	O	16	196
+look	VBP	O	17	196
+at	IN	B-PP	18	196
+the	DT	B-NP	19	196
+borough	NN	I-NP	20	196
+the	DT	B-NP	21	196
+way	NN	I-NP	22	196	PRED	ABILITY-WITH-AGENT/ATTRIBUTE
+Tom	NNP	B-NP	23	196
+Wolfe	NNP	I-NP	24	196
+'s	POS	B-NP	25	196
+Sherman	NNP	I-NP	26	196
+McCoy	NNP	I-NP	27	196
+did	VBD	O	28	196	ARG1
+in	IN	B-PP	29	196
+``	``	O	30	196
+Bonfire	NN	B-NP	31	196
+of	IN	B-PP	32	196
+the	DT	B-NP	33	196
+Vanities	NNS	I-NP	34	196
+''	''	O	35	196
+--	:	O	36	196
+as	IN	B-SBAR	37	196
+a	DT	B-NP	38	196
+wrong	JJ	I-NP	39	196
+turn	NN	I-NP	40	196
+into	IN	B-PP	41	196
+hell	NN	B-NP	42	196
+.	.	O	43	196
+
+Line	NN	B-NP	0	197
+by	IN	B-PP	1	197
+line	NN	B-NP	2	197
+Mr.	NNP	B-NP	3	197
+Friedman	NNP	I-NP	4	197
+'s	POS	B-NP	5	197
+weary	JJ	I-NP	6	197
+cynicism	NN	I-NP	7	197
+can	MD	O	8	197
+be	VB	O	9	197
+amusing	JJ	B-ADJP	10	197
+COMMA	COMMA	O	11	197
+especially	RB	O	12	197
+when	IN	O	13	197
+he	PRP	B-NP	14	197
+'s	VBZ	O	15	197
+riffing	VBN	O	16	197
+on	IN	O	17	197
+the	DT	B-NP	18	197
+Hollywood	NNP	I-NP	19	197
+social	JJ	I-NP	20	197
+scheme	NN	I-NP	21	197
+--	:	O	22	197
+the	DT	B-NP	23	197
+way	NN	I-NP	24	197	PRED	ABILITY-WITH-AGENT/ATTRIBUTE
+people	NNS	B-NP	25	197
+size	VBP	O	26	197	ARG1
+each	DT	B-NP	27	197
+other	JJ	B-ADJP	28	197
+up	RP	B-ADVP	29	197
+COMMA	COMMA	O	30	197
+immediately	RB	B-ADVP	31	197
+canceling	VBG	O	32	197
+the	DT	B-NP	33	197
+desperate	JJ	I-NP	34	197
+ones	NNS	I-NP	35	197
+who	WP	B-NP	36	197
+merely	RB	B-ADVP	37	197
+almost	RB	B-ADVP	38	197
+made	VBD	O	39	197
+it	PRP	B-NP	40	197
+.	.	O	41	197
+
+Time	NNP	B-NP	0	198
+is	VBZ	O	1	198
+following	VBG	O	2	198
+the	DT	B-NP	3	198
+course	NN	I-NP	4	198
+of	IN	B-PP	5	198
+some	DT	B-NP	6	198
+other	JJ	I-NP	7	198
+mass-circulation	NN	I-NP	8	198
+magazines	NNS	I-NP	9	198
+that	WDT	B-NP	10	198
+in	IN	B-PP	11	198
+recent	JJ	B-NP	12	198
+years	NNS	I-NP	13	198
+have	VBP	O	14	198
+challenged	VBN	O	15	198
+the	DT	B-NP	16	198
+publishing	NN	I-NP	17	198
+myth	NN	B-NP	18	198
+that	IN	O	19	198
+maintaining	VBG	O	20	198
+artificially	RB	B-ADVP	21	198
+high	JJ	B-NP	22	198
+COMMA	COMMA	I-NP	23	198
+and	CC	I-NP	24	198
+expensive	JJ	I-NP	25	198
+COMMA	COMMA	I-NP	26	198
+circulations	NNS	I-NP	27	198
+is	VBZ	O	28	198
+the	DT	B-NP	29	198
+way	NN	I-NP	30	198	PRED	ABILITY-WITH-AGENT/ATTRIBUTE
+to	TO	O	31	198
+draw	VB	O	32	198	ARG1
+advertisers	NNS	B-NP	33	198
+.	.	O	34	198
+
+CNN	NNP	B-NP	0	199
+executives	NNS	I-NP	1	199
+hope	VBP	O	2	199
+the	DT	B-NP	3	199
+headlines	NNS	I-NP	4	199
+created	VBN	O	5	199
+by	IN	B-PP	6	199
+such	DT	B-NP	7	199
+scoops	NNS	I-NP	8	199
+will	MD	O	9	199
+generate	VB	O	10	199
+excitement	NN	B-NP	11	199
+for	IN	B-PP	12	199
+its	PRP$	B-NP	13	199
+``	``	I-NP	14	199
+branded	VBN	O	15	199
+''	''	B-NP	16	199
+programs	NNS	I-NP	17	199
+COMMA	COMMA	O	18	199
+in	IN	B-PP	19	199
+the	DT	B-NP	20	199
+way	NN	I-NP	21	199	PRED	ABILITY-WITH-AGENT/ATTRIBUTE
+``	``	O	22	199
+60	CD	B-NP	23	199
+Minutes	NNS	I-NP	24	199
+''	''	O	25	199
+did	VBD	O	26	199	ARG1
+so	RB	B-ADVP	27	199
+well	UH	I-ADVP	28	199
+for	IN	B-PP	29	199
+CBS	NNP	B-NP	30	199
+.	.	O	31	199
+
+``	``	O	0	200
+We	PRP	B-NP	1	200
+do	VBP	O	2	200
+n't	RB	B-ADVP	3	200
+need	VB	O	4	200
+this	DT	B-NP	5	200
+as	IN	B-SBAR	6	200
+a	DT	B-NP	7	200
+way	NN	I-NP	8	200	PRED	ABILITY-WITH-AGENT/ATTRIBUTE
+to	TO	O	9	200
+get	VB	O	10	200	ARG1
+capital	NN	B-NP	11	200
+gains	NNS	I-NP	12	200
+COMMA	COMMA	O	13	200
+''	''	O	14	200
+he	PRP	B-NP	15	200
+said	VBD	O	16	200
+.	.	O	17	200
+
+But	CC	B-CONJP	0	201
+Republican	JJ	B-NP	1	201
+senators	NNS	I-NP	2	201
+saw	VBD	O	3	201
+no	DT	B-NP	4	201	ARGM-NEG
+way	NN	I-NP	5	201	PRED	ABILITY-WITH-AGENT/ATTRIBUTE
+to	TO	O	6	201
+overcome	VB	O	7	201	ARG1
+a	DT	B-NP	8	201
+procedural	JJ	I-NP	9	201
+hurdle	NN	I-NP	10	201
+and	CC	O	11	201
+garner	VB	O	12	201	ARG1
+the	DT	B-NP	13	201
+60	CD	I-NP	14	201
+votes	NNS	I-NP	15	201
+needed	VBN	O	16	201
+to	TO	O	17	201
+win	VB	O	18	201
+the	DT	B-NP	19	201
+capital-gains	NNS	I-NP	20	201
+issue	NN	I-NP	21	201
+on	IN	B-PP	22	201
+the	DT	B-NP	23	201
+floor	NN	I-NP	24	201
+COMMA	COMMA	O	25	201
+so	IN	O	26	201
+they	PRP	B-NP	27	201
+went	VBD	O	28	201
+ahead	RB	B-PP	29	201
+with	IN	B-PP	30	201
+the	DT	B-NP	31	201
+streamlined	JJ	I-NP	32	201
+bill	NN	I-NP	33	201
+.	.	O	34	201
+
+That	DT	B-NP	0	202
+'s	VBZ	O	1	202
+not	RB	O	2	202
+a	DT	B-NP	3	202
+bad	JJ	I-NP	4	202	ARG2
+way	NN	I-NP	5	202	PRED	ABILITY-WITH-AGENT/ATTRIBUTE
+to	TO	O	6	202
+proceed	VB	O	7	202	ARG1
+COMMA	COMMA	B-ADVP	8	202
+just	RB	I-ADVP	9	202
+somewhat	RB	B-ADJP	10	202
+different	JJ	I-ADJP	11	202
+from	IN	B-PP	12	202
+standard	JJ	B-NP	13	202
+American	JJ	I-NP	14	202
+practice	NN	I-NP	15	202
+.	.	O	16	202
+
+``	``	O	0	203
+The	DT	B-NP	1	203
+market	NN	I-NP	2	203
+needs	VBZ	O	3	203
+a	DT	B-NP	4	203
+strong	JJ	I-NP	5	203
+signal	NN	I-NP	6	203
+that	IN	B-SBAR	7	203
+we	PRP	B-NP	8	203
+'re	VBP	O	9	203
+serious	JJ	B-ADJP	10	203
+about	IN	B-PP	11	203
+deficit	NN	B-NP	12	203
+reduction	NN	I-NP	13	203
+COMMA	COMMA	O	14	203
+and	CC	B-CONJP	15	203
+the	DT	B-NP	16	203
+best	JJS	I-NP	17	203	ARG2
+way	NN	I-NP	18	203	PRED	ABILITY-WITH-AGENT/ATTRIBUTE
+to	TO	O	19	203
+do	VB	O	20	203	ARG1
+that	DT	B-NP	21	203
+is	VBZ	O	22	203
+for	IN	B-SBAR	23	203
+the	DT	B-NP	24	203
+House	NNP	I-NP	25	203
+of	IN	B-PP	26	203
+Representatives	NNPS	B-NP	27	203
+to	TO	O	28	203
+strip	VB	O	29	203
+their	PRP$	O	30	203
+bill	NN	B-NP	31	203
+''	''	O	32	203
+of	IN	B-PP	33	203
+similar	JJ	B-NP	34	203
+provisions	NNS	I-NP	35	203
+COMMA	COMMA	O	36	203
+Sen.	NNP	B-NP	37	203
+Warren	NNP	I-NP	38	203
+Rudman	NNP	I-NP	39	203
+(	(	O	40	203
+R.	NNP	B-NP	41	203
+COMMA	COMMA	B-NP	42	203
+N.H	NNP	I-NP	43	203
+.	.	O	44	203
+)	)	O	45	203
+.	.	O	46	203
+said	VBD	O	47	203
+yesterday	NN	B-NP	48	203
+.	.	O	49	203
+
+``	``	O	0	204
+They	PRP	B-NP	1	204
+'ve	VBP	O	2	204
+been	VBN	O	3	204
+looking	VBG	O	4	204
+to	TO	O	5	204
+get	VB	O	6	204
+their	PRP$	B-NP	7	204
+costs	NNS	I-NP	8	204
+down	RB	B-ADVP	9	204
+COMMA	COMMA	O	10	204
+and	CC	B-CONJP	11	204
+this	DT	B-NP	12	204
+is	VBZ	O	13	204
+a	DT	O	14	204
+fairly	RB	B-ADVP	15	204
+sensible	JJ	B-NP	16	204	ARG2
+way	NN	I-NP	17	204	PRED	ABILITY-WITH-AGENT/ATTRIBUTE
+to	TO	O	18	204
+do	VB	O	19	204	ARG1
+it	PRP	B-NP	20	204
+COMMA	COMMA	O	21	204
+''	''	O	22	204
+he	PRP	B-NP	23	204
+said	VBD	O	24	204
+.	.	O	25	204
+
+``	``	O	0	205
+I	PRP	B-NP	1	205
+have	VBP	O	2	205
+every	DT	B-NP	3	205
+intention	NN	I-NP	4	205
+of	IN	B-PP	5	205
+making	VBG	O	6	205
+this	DT	B-NP	7	205
+the	DT	O	8	205
+best	RBS	B-ADVP	9	205
+possible	JJ	B-NP	10	205
+show	NN	I-NP	11	205
+and	CC	B-CONJP	12	205
+having	VBG	O	13	205
+it	PRP	B-NP	14	205
+run	VB	O	15	205
+one	CD	B-NP	16	205
+hour	NN	I-NP	17	205
+is	VBZ	O	18	205
+the	DT	B-NP	19	205
+best	JJS	I-NP	20	205	ARG2
+way	NN	I-NP	21	205	PRED	ABILITY-WITH-AGENT/ATTRIBUTE
+to	IN	B-PP	22	205
+it	PRP	B-NP	23	205	ARG1
+COMMA	COMMA	O	24	205
+''	''	O	25	205
+said	VBD	O	26	205
+Rod	NNP	B-NP	27	205
+Perth	NNP	I-NP	28	205
+COMMA	COMMA	O	29	205
+who	WP	B-NP	30	205
+was	VBD	O	31	205
+named	VBN	O	32	205
+vice	NN	B-NP	33	205
+president	NN	I-NP	34	205
+of	IN	B-PP	35	205
+late	JJ	B-NP	36	205
+night	NN	I-NP	37	205
+entertainment	NN	I-NP	38	205
+in	IN	B-PP	39	205
+August	NNP	B-NP	40	205
+.	.	O	41	205
+
